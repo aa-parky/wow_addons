@@ -21,6 +21,15 @@ local function RemoveOldBuffs()
     end
 end
 
+-- The handler for the clickable player name
+local function ChatHyperlink_OnClick(link, string, button)
+    local playerName = string.match(link, "player:([^:]+)")
+    if playerName then
+        SendChatMessage("Thank you, " .. playerName .. ", for the buff!", "SAY")
+    end
+end
+hooksecurefunc("ChatFrame_OnHyperlinkShow", ChatHyperlink_OnClick)
+
 local f = CreateFrame("Frame")
 f:RegisterEvent("PLAYER_LOGIN")
 f:RegisterEvent("PLAYER_ENTERING_WORLD")
@@ -45,26 +54,27 @@ f:SetScript("OnEvent", function(self, event, ...)
     if event == "COMBAT_LOG_EVENT_UNFILTERED" then
         print("Combat log event detected!")
     end
-    
+
     local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, _, _, _, spellID, spellName, _, auraType = CombatLogGetCurrentEventInfo()
     sourceName = sourceName or COMBATLOG_UNKNOWN_UNIT
-    
+
     if bit.band(sourceFlags, COMBATLOG_OBJECT_TYPE_PLAYER) == COMBATLOG_OBJECT_TYPE_PLAYER and (subevent == "SPELL_AURA_APPLIED" or subevent == "SPELL_AURA_REFRESH") and auraType == "BUFF" and destGUID == PlayerGUID and sourceGUID ~= PlayerGUID then
         LastTime = debugprofilestop()
         local _, class, _, _, _, _, realm = GetPlayerInfoByGUID(sourceGUID)
-        
+
         if realm == "" then
             realm = GetRealmName()
         end
-        
-        sourceName = "|c" .. select(4, GetClassColor(class)) .. sourceName
+
+        sourceName = "|Hplayer:" .. sourceName .. "|h|c" .. select(4, GetClassColor(class)) .. "[" .. sourceName .. "]|r|h"
+
         realm = "|cffffff00[" .. realm .. "]|r"
         local text = format(BuffText, sourceName, realm, spellName)
         print("Attempting to print message:", text)
-        
+
         tinsert(SavedBuffs, { time = LastTime, spell = spellName, msg = text })
         print(text)
-        
+
         if not Ticker then
             Ticker = C_Timer.NewTicker(5, RemoveOldBuffs)
         end
