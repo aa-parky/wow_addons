@@ -1,0 +1,9 @@
+## Interface: 11404
+## Title: Thankful that I'm Buffed
+## Notes: My first foray into lua and addon development
+## Author: aa.parky
+## Version: 0.1
+
+embeds.xml
+
+Core.lua
