@@ -40,19 +40,14 @@ f:SetScript("OnEvent", function(self, event, ...)
         return
     end
     if event == "PLAYER_ENTERING_WORLD" then
-        print("Entering World!")
         C_Timer.After(2, function()
             self:RegisterEvent("COMBAT_LOG_EVENT_UNFILTERED")
-            print("Registered COMBAT_LOG_EVENT_UNFILTERED!")
         end)
         return
     end
     if event == "PLAYER_LEAVING_WORLD" then
         self:UnregisterEvent("COMBAT_LOG_EVENT_UNFILTERED")
         return
-    end
-    if event == "COMBAT_LOG_EVENT_UNFILTERED" then
-        print("Combat log event detected!")
     end
 
     local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, _, _, _, spellID, spellName, _, auraType = CombatLogGetCurrentEventInfo()
@@ -67,13 +62,11 @@ f:SetScript("OnEvent", function(self, event, ...)
         end
 
         sourceName = "|Hplayer:" .. sourceName .. "|h|c" .. select(4, GetClassColor(class)) .. "[" .. sourceName .. "]|r|h"
-
         realm = "|cffffff00[" .. realm .. "]|r"
         local text = format(BuffText, sourceName, realm, spellName)
-        print("Attempting to print message:", text)
+        print(text)
 
         tinsert(SavedBuffs, { time = LastTime, spell = spellName, msg = text })
-        print(text)
 
         if not Ticker then
             Ticker = C_Timer.NewTicker(5, RemoveOldBuffs)
