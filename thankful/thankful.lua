@@ -1,13 +1,30 @@
 local PlayerGUID
 local BuffText = "%s %s Buffed you with: %s"
 
+StaticPopupDialogs["THANK_BUFF"] = {
+    text = "Thank %s for the buff?",
+    button1 = "Say",
+    button2 = "Whisper",
+    OnAccept = function(self)
+        SendChatMessage("Thank you for the buff!", "SAY")
+    end,
+    OnCancel = function(self)
+        SendChatMessage("Thank you for the buff!", "WHISPER", nil, self.data)
+    end,
+    timeout = 0,
+    whileDead = true,
+    hideOnEscape = true,
+    preferredIndex = 3,  -- Use any arbitrary number here
+}
+
 -- The handler for the clickable player name
 local function ChatHyperlink_OnClick(link, string, button)
     local playerName = string.match(link, "player:([^:]+)")
     if playerName then
-        SendChatMessage("Thank you, " .. playerName .. ", for the buff!", "SAY")
+        StaticPopup_Show("THANK_BUFF", playerName).data = playerName
     end
 end
+
 hooksecurefunc("ChatFrame_OnHyperlinkShow", ChatHyperlink_OnClick)
 
 local f = CreateFrame("Frame")
