@@ -1,10 +1,4 @@
-local Timers = {
-    SaveTime = 2 * 60000,
-    DefaultSaveTime = 2 * 60000,
-}
-
-local PlayerGUID, LastTime, Ticker
-local BuffText = "%s %s Buffed you with: %s"
+local PlayerGUID, BuffText = "%s %s Buffed you with: %s"
 local SavedBuffs = {}
 
 -- The handler for the clickable player name
@@ -36,11 +30,10 @@ f:SetScript("OnEvent", function(self, event, ...)
         return
     end
 
-    local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, _, _, _, spellID, spellName, _, auraType = CombatLogGetCurrentEventInfo()
+    local _, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, _, _, _, spellID, spellName, _, auraType = CombatLogGetCurrentEventInfo()
     sourceName = sourceName or COMBATLOG_UNKNOWN_UNIT
 
     if bit.band(sourceFlags, COMBATLOG_OBJECT_TYPE_PLAYER) == COMBATLOG_OBJECT_TYPE_PLAYER and (subevent == "SPELL_AURA_APPLIED" or subevent == "SPELL_AURA_REFRESH") and auraType == "BUFF" and destGUID == PlayerGUID and sourceGUID ~= PlayerGUID then
-        LastTime = debugprofilestop()
         local _, class, _, _, _, _, realm = GetPlayerInfoByGUID(sourceGUID)
 
         if realm == "" then
@@ -52,10 +45,6 @@ f:SetScript("OnEvent", function(self, event, ...)
         local text = format(BuffText, sourceName, realm, spellName)
         print(text)
 
-        tinsert(SavedBuffs, { time = LastTime, spell = spellName, msg = text })
-
-        if not Ticker then
-            Ticker = C_Timer.NewTicker(5, RemoveOldBuffs)
-        end
+        tinsert(SavedBuffs, { spell = spellName, msg = text })
     end
 end)
