@@ -2,7 +2,7 @@ local PlayerGUID
 local BuffText = "%s %s Buffed you with: %s"
 
 -- The handler for the clickable player name
-local function ChatHyperlink_OnClick(link, text, button)
+local function ChatHyperlink_OnClick(frame, link, text, button)
     local playerName = string.match(link, "player:([^:]+)")
     if playerName then
         SendChatMessage("Thank you, " .. playerName .. ", for the buff!", "SAY")
