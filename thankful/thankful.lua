@@ -1,4 +1,5 @@
-local PlayerGUID, BuffText = "%s %s Buffed you with: %s"
+local PlayerGUID
+local BuffText = "%s %s Buffed you with: %s"
 local SavedBuffs = {}
 
 -- The handler for the clickable player name
@@ -30,7 +31,7 @@ f:SetScript("OnEvent", function(self, event, ...)
         return
     end
 
-    local _, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, _, _, _, spellID, spellName, _, auraType = CombatLogGetCurrentEventInfo()
+    local _, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, _, _, _, _, spellName, _, auraType = CombatLogGetCurrentEventInfo()
     sourceName = sourceName or COMBATLOG_UNKNOWN_UNIT
 
     if bit.band(sourceFlags, COMBATLOG_OBJECT_TYPE_PLAYER) == COMBATLOG_OBJECT_TYPE_PLAYER and (subevent == "SPELL_AURA_APPLIED" or subevent == "SPELL_AURA_REFRESH") and auraType == "BUFF" and destGUID == PlayerGUID and sourceGUID ~= PlayerGUID then
