@@ -1,6 +1,5 @@
 local PlayerGUID
 local BuffText = "%s %s Buffed you with: %s"
-local SavedBuffs = {}
 
 -- The handler for the clickable player name
 local function ChatHyperlink_OnClick(link, string, button)
@@ -45,7 +44,5 @@ f:SetScript("OnEvent", function(self, event, ...)
         realm = "|cffffff00[" .. realm .. "]|r"
         local text = format(BuffText, sourceName, realm, spellName)
         print(text)
-
-        tinsert(SavedBuffs, { spell = spellName, msg = text })
     end
 end)
