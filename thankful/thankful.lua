@@ -7,20 +7,6 @@ local PlayerGUID, LastTime, Ticker
 local BuffText = "%s %s Buffed you with: %s"
 local SavedBuffs = {}
 
-local function RemoveOldBuffs()
-    if #SavedBuffs == 0 then return end
-    local time = debugprofilestop()
-    for i = #SavedBuffs, 1, -1 do
-        if LastTime and SavedBuffs[i].time + Timers.SaveTime < time then
-            tremove(SavedBuffs, i)
-        end
-    end
-    if #SavedBuffs == 0 and Ticker then
-        Ticker:Cancel()
-        Ticker = nil
-    end
-end
-
 -- The handler for the clickable player name
 local function ChatHyperlink_OnClick(link, string, button)
     local playerName = string.match(link, "player:([^:]+)")
@@ -73,12 +59,3 @@ f:SetScript("OnEvent", function(self, event, ...)
         end
     end
 end)
-
-local function SortByTime(a, b)
-    return a.time > b.time
-end
-
-SLASH_SWARFBUFF1 = "/swb"
-SlashCmdList["SWARFBUFF"] = function(msg)
-    -- ... rest of the slash command logic ...
-end
