@@ -18,9 +18,7 @@ used by discretion.
 
 #### Todo
 - [X] Send last player's name to buff you to chat
-- [X] Make their name "clickable" and open a /w
-- [ ] Choose between a /say or a /w
-- [ ] Create a pre-populated list of responses based on faction, race, gender etc
+- [ ] Create a pre-populated list of responses based on faction, race, gender etc that populates say or whisper if chosen by the player
 
 ---
 
