@@ -11,7 +11,7 @@ normally misses the opportunity to thank those that provided him a buff or two.
 
 
 Thankful writes to chat the last player's name and the buff they applied. You can 
-**choose** to click on the name and send them a friendly whisper.
+**choose** to click on the name and send them a friendly whisper. Great for drive-by-buffings!
 
 I have chosen **not** to automate the response as I feel something like this should be
 used by discretion.
