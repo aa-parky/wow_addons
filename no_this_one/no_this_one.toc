@@ -1,0 +1,7 @@
+## Interface: 11404
+## Title: No! This one
+## Notes: when grouped with a bunch of unhinged and unknown strangers
+## Author: aa.parky
+## Version: 0.9
+
+no_this_one.lua

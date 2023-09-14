@@ -34,7 +34,9 @@ Go get a killin'
 
 #### Todo
 
-- [ ] Automatically assign the next raid marker to your target
-- [ ] automate a /p message that set the order
+- [x] Automatically assign the next raid marker to your target
+- [x] /clm clear last marker
+- [x] /noon turn addon on
+- [x] /noof turn addon off
 
-___
+---
