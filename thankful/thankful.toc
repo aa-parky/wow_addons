@@ -2,6 +2,6 @@
 ## Title: Thankful
 ## Notes: is a cruel world so I am thankful I am buff
 ## Author: aa.parky
-## Version: 0.1
+## Version: 1.0
 
 thankful.lua
