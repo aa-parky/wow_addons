@@ -1,0 +1,7 @@
+## Interface: 11404
+## Title: Helpful
+## Notes: Is the otem in your bag used as a reagent
+## Author: aa.parky
+## Version: 0.1
+
+helpful.lua
