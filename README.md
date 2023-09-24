@@ -40,15 +40,3 @@ Go get a killin'
 - [x] /noof turn addon off
 
 ---
-### Helpful
-
-> My bags! my bags! always so full!
-Helpful simply adds a line to the tooltip that lets you know if an item is a reagent
-that you may want to keep or bank for later.
-
-#### Todo
-- [] Utilise WoW Ace3
-- [] Make tooltip draggable
-- [] Allow player to lock in place
-- [] Add item to tooltip
-- [] Add what profession it is a reagent for
