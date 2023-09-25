@@ -1,0 +1,405 @@
+character_id,name,race_id,class_id,level,last_words
+Heatmap Indicator,Tastan,Human,Rogue,40,thanks mate
+Leeley-29485,Leeley,Human,Paladin,8,"thx,  gl"
+Lexiloco-14599,Lexiloco,Human,Warrior,12,F
+Nosekills-46520,Nosekills,Human,Warrior,8,Stay above 1 hp :D
+Babawar-29001,Babawar,Gnome,Warrior,11,fak nie tu xd
+Stratfender-5718,Stratfender,Human,Warrior,18,fk
+Chargecloney-6179,Chargecloney,Human,9,6,inv
+Lyktstolpe-11028,Lyktstolpe,Human,Rogue,19,pull back
+Wasäbi-32802,Wasäbi,Night Elf,Priest,36,F
+Niora-51464,Niora,Gnome,Druid,8,on different char
+Obaso-22714,Obaso,Gnome,Hunter,50,ty
+Seryu-23095,Seryu,Human,Mage,25,hi
+Regsta-17524,Regsta,Night Elf,Mage,11,get
+Ratufi-48133,Ratufi,Human,Druid,8,ty
+Karmael-9956,Karmael,Night Elf,Rogue,41,u so cute
+Eralinai-60252,Eralinai,Human,9,11,F
+Qian-46130,Qian,Night Elf,Mage,13,Дразнящий удар failed on Ветроплет из Братства Справедливости!
+Untiltable-734,Untiltable,Night Elf,Warrior,12,^^
+Arifa-62886,Arifa,Night Elf,Hunter,8,cheers
+Milkroll-25871,Milkroll,Human,Mage,30,Wand gang hype !
+Delentis-27780,Delentis,Gnome,9,5,your twink
+Multicat-6503,Multicat,Night Elf,Priest,49,HOLAAA
+Stinkbomb-29406,Stinkbomb,Gnome,Mage,23,Questie : 8/8 Torn Murloc Fin for [[10] Bounty on Murlocs (46)]!
+Sinjed-39717,Sinjed,Human,Mage,16,T'as trop la rage
+Unevi-63178,Unevi,Gnome,Warrior,23,ty
+Rokovoy-22468,Rokovoy,Human,Priest,31,EVASION
+Novagivre-57979,Novagivre,Human,Paladin,12,"Other goodies dropped,  but not the ring"
+Szotilock-18778,Szotilock,Gnome,Warrior,47,Rénovation interrompu !
+Alioshä-3459,Alioshä,Human,Mage,10,lo puedes mira en atlas loot
+Zulters-53391,Zulters,Gnome,Paladin,22,60s-1g if you get lucky I think
+Amptoulight-3936,Amptoulight,Human,Rogue,19,ty
+Brez-62813,Brez,Dwarf,Warrior,10,fml
+Matcirkeln-24969,Matcirkeln,Human,Mage,18,prob haha
+Velosian-28171,Velosian,Human,Hunter,11,gz and ty
+Aroww-28356,Aroww,Night Elf,Paladin,10,ty
+Visolania-28995,Visolania,Human,Mage,55,we will not join them today
+Humperdink-58441,Humperdink,Night Elf,Mage,51,imi dati un invte careva pt layer?
+Kusimulkku-52282,Kusimulkku,Dwarf,Mage,18,ку
+Pinkytwo-43106,Pinkytwo,Human,Warrior,15,imagine having wf and rend buff and not blessing of salvation
+Keyblade-30700,Keyblade,Human,Mage,8,thx guys!!
+Prostomagic-30802,Prostomagic,Human,Rogue,60,np bro
+Gorst-5336,Gorst,Human,Paladin,21,Stay safe
+Gazuaone-3586,Gazuaone,Human,Rogue,18,outside
+Maexxer-48063,Maexxer,Night Elf,Druid,24,"får ikke bruke heartstone,  damn"
+Waffey-44199,Waffey,Night Elf,Hunter,18,can you guys help me kill pricess pls
+Cirintra-12567,Cirintra,Human,Priest,33,he is completed already
+Setii-48835,Setii,Night Elf,Mage,15,F
+Måneild-58505,Måneild,Night Elf,Mage,7,can relate
+Dilerxz-26303,Dilerxz,Human,Warrior,16,ty
+Phreya-57394,Phreya,Night Elf,Warrior,13,ty
+Copiumlock-34586,Copiumlock,Human,Paladin,43,F
+Arthorienne-20499,Arthorienne,Human,Priest,11,huge
+Catchingfire-32111,Catchingfire,Night Elf,Mage,12,yop!
+Bushwickin-62918,Bushwickin,Human,Rogue,7,bye
+Adibbas-46961,Adibbas,Gnome,Paladin,9,F
+Ratel-42232,Ratel,Night Elf,Hunter,12,np
+Jimmyk-27508,Jimmyk,Night Elf,Paladin,34,ty
+Skinochlader-33534,Skinochlader,Dwarf,Mage,8,i just like them :)
+Dfiahs-56342,Dfiahs,Human,Rogue,37,??
+Fiõ-23912,Fiõ,Human,Paladin,11,need only one more
+Sicknèss-48789,Sicknèss,Gnome,Rogue,31,"scheint ja gehfahrlos zu sein., falls man nicht in den kanal fällt :)"
+Alayster-6364,Alayster,Dwarf,Hunter,15,ty
+Joschkongrog-34441,Joschkongrog,Human,Hunter,51,ty
+Olive-52425,Olive,Night Elf,9,8,op haha
+Bigsmalls-28636,Bigsmalls,Gnome,Warrior,14,tyty
+Thoots-26738,Thoots,Human,Rogue,8,ty
+Carinchen-26969,Carinchen,Night Elf,9,8,y
+Lenah-55364,Lenah,Human,Hunter,12,thx for party
+Gôya-6950,Gôya,Human,Druid,9,F
+Nedjs-20150,Nedjs,Human,Rogue,17,lol
+Iminpain-7734,Iminpain,Gnome,9,11,help
+Beritz-64344,Beritz,Human,Mage,5,|cff1eff00|Hitem:2555::::::::16:::::::::|h[Recipe: Swiftness Potion]|h|r
+Rïñ-31427,Rïñ,Night Elf,Mage,18,perso j'vois le niveau de jeu de certain j'ai peur
+Haugesund-53311,Haugesund,Dwarf,Paladin,9,RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Fatherbob-39003,Fatherbob,Human,Hunter,18,je savais pas
+Koos-62113,Koos,Gnome,Warrior,20,sry
+Чипусик-31056,Чипусик,Gnome,Rogue,10,sorry
+Shecat-22674,Shecat,Night Elf,Rogue,12,:(
+Backshotz-50028,Backshotz,Human,Mage,11,dafuq are u doing??
+Falillo-62272,Falillo,Night Elf,9,8,once per day
+Teslaengnr-50916,Teslaengnr,Dwarf,Hunter,16,ty
+Aeelerine-33472,Aeelerine,Human,Druid,40,yeaah
+Silenhtwo-9083,Silenhtwo,Night Elf,Druid,20,jobb?
+Svataanezka-36422,Svataanezka,Human,Rogue,48,bb
+Vistezo-27651,Vistezo,Human,Mage,24,lol
+Impbaba-56905,Impbaba,Human,Rogue,33,hey
+Latrêx-22671,Latrêx,Human,Warrior,21,what did you discover?
+Lorir-7,Lorir,Gnome,Rogue,14,Yop
+Lantaarn-43194,Lantaarn,Human,Rogue,17,owl
+Angrysmexx-3581,Angrysmexx,Human,Rogue,9,je pull ?
+Genesi-19235,Genesi,Human,Hunter,15,oh its from npc
+Earty-42959,Earty,Dwarf,Rogue,18,mage flying soon?
+Malfurionia-13885,Malfurionia,Night Elf,Hunter,23,do you need more?
+Nyv-40498,Nyv,Human,Druid,11,r?
+Mlogos-47675,Mlogos,Gnome,Rogue,7,ty
+Contractor-39177,Contractor,Human,Warrior,17,jävla cp
+Momoe-47811,Momoe,Gnome,Hunter,24,SALAM ALEYKOm
+Ensfiòpspi-35258,Ensfiòpspi,Dwarf,Paladin,37,ty
+Pushkick-29307,Pushkick,Dwarf,Paladin,13,u 2
+Pupille-38858,Pupille,Human,Rogue,17,wtf
+Svenlynn-39508,Svenlynn,Gnome,Druid,12,morning!
+Венке-4051,Венке,Dwarf,Druid,5,"unless for gear,  is it really worth it to run dungs?"
+Mirakoline-10255,Mirakoline,Night Elf,Druid,1,ggs
+Fajnacipka-56987,Fajnacipka,Human,Paladin,35,chrz ty
+Bossebarra-64236,Bossebarra,Gnome,Warrior,15,heal
+Moiccu-17172,Moiccu,Dwarf,Priest,52,"thx,  gl"
+Koudex-26223,Koudex,Human,Paladin,13,F
+Warriel-33766,Warriel,Night Elf,Druid,12,F
+Braeater-21232,Braeater,Gnome,Mage,6,:d
+Doigby-14070,Doigby,Human,Mage,17,F
+Fnaticfan-51645,Fnaticfan,Human,Priest,16,Wand gang hype !
+Apuh-39581,Apuh,Night Elf,Paladin,7,thx
+Arknt-62781,Arknt,Human,Paladin,37,fml
+Plinkington-34960,Plinkington,Night Elf,Paladin,5,we will not join them today
+Dirrfromhell-65262,Dirrfromhell,Human,Hunter,23,imi dati un invte careva pt layer?
+Ritogames-57368,Ritogames,Gnome,Hunter,32,F
+Raizoor-45001,Raizoor,Night Elf,Rogue,9,np
+Pebblepicker-32916,Pebblepicker,Gnome,Warrior,13,ty
+Healcfacile-61146,Healcfacile,Human,Mage,25,ouais ^^
+Alessil-50950,Alessil,Night Elf,Druid,10,2 man?
+Zatir-13373,Zatir,Human,Warrior,19,op haha
+Dosé-56664,Dosé,Human,Paladin,60,ty
+Simoureload-7500,Simoureload,Gnome,Rogue,17,heal
+Noobelock-11362,Noobelock,Gnome,Warrior,8,A plus floxee
+Faithbringer-57574,Faithbringer,Night Elf,Priest,8,|cff1eff00|Hitem:2555::::::::16:::::::::|h[Recipe: Swiftness Potion]|h|r
+Nadheal-2417,Nadheal,Human,9,11,help
+Ruie-53143,Ruie,Human,Warrior,40,je savais pas
+Perpangpang-25261,Perpangpang,Dwarf,Mage,18,sorry
+Fentyseven-29792,Fentyseven,Human,Rogue,12,:(
+Festy-1953,Festy,Human,Hunter,16,i did not get it
+Nostalgybolt-27965,Nostalgybolt,Gnome,Mage,51,jobb?
+Dashabukina-6453,Dashabukina,Human,Warrior,19,ty
+Vastebia-62706,Vastebia,Night Elf,Rogue,5,lol
+Ziepeltriene-34662,Ziepeltriene,Human,Rogue,60,adds?
+Downfallz-40313,Downfallz,Human,Paladin,19,bb
+Fatpunk-15261,Fatpunk,Night Elf,Mage,24,what did you discover?
+Voorzichtig-17177,Voorzichtig,Human,Rogue,22,hey
+Souzs-42983,Souzs,Human,Rogue,8,Yop
+Medbrat-47693,Medbrat,Human,Warrior,13,xdd
+Urr-2285,Urr,Dwarf,Hunter,23,je pull ?
+Gulutbulut-40920,Gulutbulut,Dwarf,9,6,"package arrived,  brb"
+Rogtech-17557,Rogtech,Human,Druid,9,owl
+Sewerbeastz-28707,Sewerbeastz,Human,Rogue,8,ty
+Whitfields-26843,Whitfields,Dwarf,Paladin,12,oh its from npc
+Goodworker-45597,Goodworker,Dwarf,Rogue,18,mage flying soon?
+Vascolin-13828,Vascolin,Gnome,Hunter,23,do you need more?
+Giyuu-16808,Giyuu,Human,Mage,15,r?
+Slashcuddle-821,Slashcuddle,Night Elf,Mage,33,SALAM ALEYKOm
+Shavedfegina-40444,Shavedfegina,Human,Mage,7,ty
+Marodina-11357,Marodina,Human,Rogue,6,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Cheshirecat-5629,Cheshirecat,Human,Hunter,22,perso j'vois le niveau de jeu de certain j'ai peur
+Drazöu-9605,Drazöu,Dwarf,Mage,27,u 2
+ßlackßeast-51930,ßlackßeast,Night Elf,Mage,12,"unless for gear,  is it really worth it to run dungs?"
+Tanketta-55662,Tanketta,Night Elf,9,21,fak nie tu xd
+Pacix-30761,Pacix,Dwarf,Priest,15,on different char
+Edzio-22474,Edzio,Dwarf,Rogue,9,ty
+Hamiltons-63877,Hamiltons,Human,9,18,:d
+Rickardo-48122,Rickardo,Human,Rogue,45,Rénovation interrompu !
+Neiya-35873,Neiya,Night Elf,Hunter,17,np
+Immersif-1599,Immersif,Dwarf,Mage,14,<3
+Guywhoasked-32919,Guywhoasked,Gnome,Warrior,37,thx guys!!
+Мужыкк-12928,Мужыкк,Human,Paladin,6,"får ikke bruke heartstone,  damn"
+Plinke-18402,Plinke,Human,Druid,9,huge
+Imsdood-28947,Imsdood,Night Elf,9,19,i just like them :)
+Vitu-44877,Vitu,Night Elf,9,11,kk
+Nagamorich-24789,Nagamorich,Human,Warrior,13,ty
+Hardpaloca-64950,Hardpaloca,Dwarf,Rogue,10,mark them and we dan go on same target
+Wokechad-53231,Wokechad,Human,Druid,13,ggs
+Bennyvader-6676,Bennyvader,Dwarf,Hunter,9,tyty
+Sláde-34601,Sláde,Human,Mage,18,cya! :)
+Khaynaah-61997,Khaynaah,Night Elf,Paladin,60,ty
+Mörz-1417,Mörz,Human,Rogue,11,A plus floxee
+Similarly-22997,Similarly,Night Elf,Priest,8,perso j'vois le niveau de jeu de certain j'ai peur
+Kiruyo-6937,Kiruyo,Human,Paladin,20,|cff1eff00|Hitem:2555::::::::16:::::::::|h[Recipe: Swiftness Potion]|h|r
+Truthpwr-2346,Truthpwr,Human,Rogue,12,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Boylad-16770,Boylad,Night Elf,9,11,help
+Axekanzler-14871,Axekanzler,Dwarf,Mage,11,ty
+Yousofajn-30908,Yousofajn,Gnome,Rogue,10,jävla cp
+Tegmozuul-7616,Tegmozuul,Human,Warrior,6,sorry
+Vanheden-16740,Vanheden,Dwarf,Hunter,22,ty bb
+Dandroid-13034,Dandroid,Human,Rogue,60,adds?
+Hakkai-22359,Hakkai,Night Elf,Mage,1,goeeeeeeeeeeeeeeeeedemorgen
+Eritrea-17726,Eritrea,Human,Hunter,12,owl
+Clissy-51024,Clissy,Human,Druid,9,je pull ?
+Deskey-56092,Deskey,Human,Warrior,34,oh its from npc
+Ratfckersam-2608,Ratfckersam,Human,Rogue,18,jobb?
+Lawbzter-14464,Lawbzter,Gnome,Rogue,17,what did you discover?
+Conmán-39667,Conmán,Human,9,8,RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Parszywiec-45008,Parszywiec,Human,Mage,41,wtf
+Cpthc-29685,Cpthc,Night Elf,Paladin,1,u 2
+Sonnyk-35915,Sonnyk,Human,Druid,9,morning!
+Hornzz-61895,Hornzz,Human,Warrior,1,"unless for gear,  is it really worth it to run dungs?"
+Numbértwo-57306,Numbértwo,Human,Warrior,15,offer your pet and run
+Eliminated-60238,Eliminated,Human,Hunter,26,danke dir auch :)
+Distelmage-44229,Distelmage,Gnome,9,25,Дразнящий удар failed on Ветроплет из Братства Справедливости!
+Donwarr-53110,Donwarr,Human,Mage,21,ty
+Infinitywar-19911,Infinitywar,Night Elf,Hunter,17,bidde
+Slashcuddle-42211,Slashcuddle,Night Elf,Mage,12,"får ikke bruke heartstone,  damn"
+Simplicity-49830,Simplicity,Human,Hunter,23,can you guys help me kill pricess pls
+Rakli-23220,Rakli,Human,Warrior,6,ty
+Stabilt-18845,Stabilt,Human,Druid,9,bye
+Pykahc-53044,Pykahc,Human,Warrior,9,F
+Tartifiac-59696,Tartifiac,Human,Rogue,7,thanks
+Clotted-6412,Clotted,Human,Mage,11,np
+Sarabad-21109,Sarabad,Human,Mage,18,ty
+Fivefootnine-45635,Fivefootnine,Gnome,Rogue,32,ty !
+Lagdcban-42509,Lagdcban,Gnome,Druid,16,i just like them :)
+Holymekael-31921,Holymekael,Human,9,14,need only one more
+Treiziow-44565,Treiziow,Human,9,7,ouais ^^
+Christiina-28482,Christiina,Night Elf,Paladin,29,lol
+Thaldrenn-11624,Thaldrenn,Human,Mage,9,ty
+Edwvancleef-49058,Edwvancleef,Human,Warrior,10,ty
+Googirl-30243,Googirl,Human,9,12,ty
+Tsunny-5793,Tsunny,Human,Druid,9,F
+Chickenfart-61233,Chickenfart,Gnome,Paladin,37,op haha
+Opanfour-26129,Opanfour,Night Elf,Warrior,41,ty
+Schurkenifuh-43658,Schurkenifuh,Human,Hunter,10,mage flying soon?
+Avathar-54416,Avathar,Human,Paladin,20,i did not get it
+Monóry-42674,Monóry,Night Elf,Rogue,12,ty bb
+Zoldars-6263,Zoldars,Human,Hunter,24,xD
+Dcriskishigh-54903,Dcriskishigh,Gnome,Rogue,60,perso j'vois le niveau de jeu de certain j'ai peur
+Machalotee-295,Machalotee,Night Elf,Paladin,9,RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Elrudi-7045,Elrudi,Human,9,8,run
+Gringk-46174,Gringk,Gnome,Druid,9,je savais pas
+Maklin-21127,Maklin,Gnome,Warrior,26,je pull ?
+Zaziël-13944,Zaziël,Human,Rogue,14,xdd
+Buckemdown-50298,Buckemdown,Night Elf,Mage,11,ty
+Adieualors-19923,Adieualors,Dwarf,Hunter,22,Yop
+Mægtigemølle-35212,Mægtigemølle,Human,Warrior,12,ty
+Slaythree-25698,Slaythree,Night Elf,Mage,15,bb
+Dimtam-52062,Dimtam,Night Elf,Paladin,30,whats better? i just heal u or i tank?
+Novoidwalker-47,Novoidwalker,Human,Rogue,3,"package arrived,  brb"
+Frostboltguy-49402,Frostboltguy,Gnome,Hunter,18,heal
+Axekanzler-47658,Axekanzler,Human,9,6,mark them and we dan go on same target
+Sidibaba-10153,Sidibaba,Human,Hunter,22,offer your pet and run
+Klayjaw-25835,Klayjaw,Human,Warrior,13,morning!
+Nomannr-27157,Nomannr,Human,Druid,6,np
+Zauko-17056,Zauko,Human,Warrior,1,"unless for gear,  is it really worth it to run dungs?"
+Xullna-61230,Xullna,Gnome,Druid,1,ty
+Wcsmash-42050,Wcsmash,Human,9,11,can i join ?
+Iaapaa-35797,Iaapaa,Dwarf,Warrior,14,F
+Nagamorich-14528,Nagamorich,Human,Paladin,7,your twink
+Donwarr-38324,Donwarr,Human,Hunter,5,T'as trop la rage
+Venlanix-17881,Venlanix,Gnome,Warrior,23,ty
+Goldshieldd-65083,Goldshieldd,Dwarf,Mage,56,fml
+Vermon-17602,Vermon,Gnome,Priest,15,gz and ty
+Andarim-11253,Andarim,Dwarf,Paladin,7,no ty
+Potencial-60423,Potencial,Human,Warrior,8,he is completed already
+Pepochill-418,Pepochill,Gnome,Druid,51,thanks
+Numberthrêê-16941,Numberthrêê,Night Elf,Warrior,13,F
+Quickfingers-29600,Quickfingers,Gnome,Warrior,10,ty
+Emie-37888,Emie,Night Elf,Warrior,18,huge
+Vashavi-19097,Vashavi,Human,Warrior,4,yop!
+Justbelieve-57165,Justbelieve,Human,Rogue,7,ok
+Kegsmash-29801,Kegsmash,Dwarf,Hunter,1,to mi nějak nesedí :D já za priesta nemohl rebuffnout flagnutého party membera
+Nurav-13792,Nurav,Human,Mage,7,RIP
+Holydruid-20959,Holydruid,Night Elf,Rogue,8,bye
+Ghuge-27130,Ghuge,Gnome,Warrior,9,kk
+Marodina-39919,Marodina,Human,Rogue,5,np
+Mendrasiel-60882,Mendrasiel,Human,Warrior,13,death?
+Bollplank-7785,Bollplank,Human,Warrior,16,F
+Zilco-61133,Zilco,Human,Hunter,35,thanks
+Sigmond-29094,Sigmond,Human,Warrior,26,RestedXP Guides: Je viens de gagner un niveau depuis 5 vers 6 en 14 minutes 14 secondes
+Connovar-18956,Connovar,Dwarf,Rogue,15,lol
+Toeboy-7588,Toeboy,Gnome,Rogue,15,chrz ty
+Elfriedeborg-31919,Elfriedeborg,Human,9,5,mark them and we dan go on same target
+Glockinmylap-59892,Glockinmylap,Night Elf,Hunter,37,ty
+Glîadîa-19029,Glîadîa,Human,Warrior,8,ty
+Stito-20441,Stito,Gnome,Paladin,35,ty
+Forza-34964,Forza,Human,Paladin,8,what did you discover?
+Drooder-36457,Drooder,Night Elf,Hunter,14,jävla cp
+Darckos-43923,Darckos,Night Elf,Druid,13,sure
+Baldestd-57314,Baldestd,Dwarf,Rogue,8,thx for party
+Papua-26055,Papua,Night Elf,Warrior,16,ty
+Bato-39245,Bato,Night Elf,Paladin,22,yo
+Gigachauve-8852,Gigachauve,Human,Paladin,12,A plus floxee
+Kameil-19045,Kameil,Human,Paladin,20,r?
+Discohc-6998,Discohc,Human,Rogue,8,F
+Genesi-46010,Genesi,Human,Mage,8,y
+Huunthc-59442,Huunthc,Night Elf,Mage,21,jobb?
+Leyney-57,Leyney,Night Elf,Druid,10,je pull ?
+Fársan-25090,Fársan,Human,Warrior,30,je savais pas
+Paynn-8506,Paynn,Human,Druid,44,ty
+Moricette-36904,Moricette,Night Elf,Rogue,5,lol
+Fruzia-3380,Fruzia,Human,Warrior,17,cya
+Bonjorno-18192,Bonjorno,Human,Warrior,15,ty
+Bankouz-22380,Bankouz,Gnome,Paladin,19,ty
+Wartarion-54201,Wartarion,Dwarf,Paladin,19,bb
+Homár-38139,Homár,Night Elf,Mage,33,whats better? i just heal u or i tank?
+Thalíe-46324,Thalíe,Night Elf,Rogue,8,"package arrived,  brb"
+Olutta-17985,Olutta,Gnome,Rogue,10,oh its from npc
+Vãmp-19293,Vãmp,Human,Rogue,18,hadnt joined a guild since i died and i thought what better guild to chose than this :D
+Ilhestizifhd-3612,Ilhestizifhd,Gnome,Hunter,23,F
+Benjiwarrior-52009,Benjiwarrior,Human,Druid,10,ty
+Demontis-4063,Demontis,Night Elf,Rogue,6,ouais ^^
+Zelos-10198,Zelos,Human,Warrior,10,thanks
+Warsapusam-23346,Warsapusam,Dwarf,Mage,8,"unless for gear,  is it really worth it to run dungs?"
+Sauzer-55175,Sauzer,Human,Warrior,26,say safe
+Kamamadou-327,Kamamadou,Dwarf,Rogue,5,HOLAAA
+Iwilljudge-19259,Iwilljudge,Human,Hunter,7,Yop
+Löschtdich-63096,Löschtdich,Human,Hunter,23,ty
+Horthbar-7678,Horthbar,Dwarf,9,2,Stay safe
+Frostboltguy-30944,Frostboltguy,Gnome,Paladin,60,outside
+Elynà-62911,Elynà,Night Elf,9,15,Not now maybe later
+Tanexx-9766,Tanexx,Human,Hunter,7,no ty
+Nyrdalahc-22112,Nyrdalahc,Human,Paladin,13,he is completed already
+Obaso-12544,Obaso,Gnome,Paladin,1,F
+Beverlypills-39382,Beverlypills,Human,Hunter,8,ty
+Skyone-25665,Skyone,Dwarf,Rogue,8,F
+Minhoxtwo-60263,Minhoxtwo,Gnome,Priest,9,F
+Sbyu-25450,Sbyu,Night Elf,Druid,54,ty bb
+Angryhomie-46814,Angryhomie,Human,Hunter,8,ty !
+Toohm-16287,Toohm,Human,Mage,53,F
+Majauraitent-21928,Majauraitent,Human,Paladin,6,thanks
+Twotalflux-37485,Twotalflux,Night Elf,Rogue,7,kk
+Bushyclit-61824,Bushyclit,Gnome,Hunter,34,ty
+Lionheartdn-14160,Lionheartdn,Night Elf,Warrior,14,2 man?
+Magnyzasumre-59341,Magnyzasumre,Night Elf,Warrior,4,"scheint ja gehfahrlos zu sein., falls man nicht in den kanal fällt :)"
+Brez-47930,Brez,Dwarf,Hunter,25,bye
+Boomshoot-44536,Boomshoot,Dwarf,Warrior,12,death?
+Packingwood-11187,Packingwood,Night Elf,Mage,10,F
+Mayaxd-26869,Mayaxd,Human,Mage,21,hadnt joined a guild since i died and i thought what better guild to chose than this :D
+Sipo-63484,Sipo,Night Elf,Rogue,31,ty
+Daethers-21494,Daethers,Human,Druid,9,RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Smokefun-39443,Smokefun,Gnome,Rogue,8,thx for party
+Lunakwon-7765,Lunakwon,Gnome,Druid,13,sure
+Vánalia-31321,Vánalia,Human,Warrior,14,ty
+Aeona-284,Aeona,Human,Paladin,7,A plus floxee
+Viertertry-52520,Viertertry,Night Elf,Rogue,12,F
+Zboubax-9676,Zboubax,Dwarf,Mage,8,run
+Trabant-62165,Trabant,Human,Mage,51,je savais pas
+Gàirnealair-7932,Gàirnealair,Night Elf,Mage,51,once per day
+Batjam-53382,Batjam,Night Elf,Warrior,6,ty bb
+Grandolin-1638,Grandolin,Gnome,Paladin,26,if a target is kinda one shot let me kill it for mana reg
+Illtankthat-6536,Illtankthat,Human,Warrior,1,whats better? i just heal u or i tank?
+Arowtoknee-65269,Arowtoknee,Human,Warrior,11,"package arrived,  brb"
+Venedix-11926,Venedix,Human,Hunter,23,make me lead
+Horadrim-41177,Horadrim,Gnome,Hunter,34,lol
+Ikarrí-30363,Ikarrí,Gnome,Rogue,13,RestedXP Guides: Je viens de gagner un niveau depuis 5 vers 6 en 14 minutes 14 secondes
+Chugi-21793,Chugi,Dwarf,Hunter,9,tyty
+Huggsäker-58057,Huggsäker,Human,Hunter,25,RestedXP Guides: I just leveled from 34 to 35 in 4 hours 42 minutes 51 seconds
+Bluebery-64312,Bluebery,Human,9,6,u 2
+Heligfar-22565,Heligfar,Human,Paladin,32,morning!
+Kopana-28930,Kopana,Human,Warrior,18,rip
+Inigma-56269,Inigma,Night Elf,Hunter,27,Stay above 1 hp :D
+Boomshoot-55425,Boomshoot,Dwarf,Rogue,13,aggro
+Skystream-50569,Skystream,Night Elf,Warrior,8,T'as trop la rage
+Heksenkaas-35140,Heksenkaas,Gnome,Priest,10,thx
+Taytay-38422,Taytay,Human,Mage,56,I'm doing hc challenge
+Nevgg-47053,Nevgg,Human,Mage,16,prob haha
+Eldanaar-58794,Eldanaar,Night Elf,Warrior,13,ty
+Nîorî-55731,Nîorî,Gnome,Rogue,10,ty
+Карисара-38664,Карисара,Dwarf,Warrior,8,Not now maybe later
+Switchflip-7459,Switchflip,Human,Paladin,2,we will not join them today
+Iuliaatje-13425,Iuliaatje,Gnome,Paladin,14,imi dati un invte careva pt layer?
+Athëman-56476,Athëman,Human,Rogue,6,ку
+Rollow-37831,Rollow,Night Elf,Warrior,15,ty
+Ephos-39108,Ephos,Night Elf,Hunter,7,F
+Nikobellik-49871,Nikobellik,Human,Mage,13,F
+Hundart-15321,Hundart,Night Elf,Rogue,8,Stay safe
+Lasttrydamn-43971,Lasttrydamn,Gnome,Mage,12,Questie : 10/10 Partehuesos Rompecantos para [[15] En defensa de las tierras del rey (263)]!
+Monadire-29802,Monadire,Night Elf,Warrior,6,can you guys help me kill pricess pls
+Shockodin-38274,Shockodin,Human,Warrior,5,kk
+Njâl-1314,Njâl,Human,Paladin,54,ouais ^^
+Theaspava-56636,Theaspava,Human,Mage,23,thanks
+Cammie-49540,Cammie,Human,Warrior,11,offer your pet and run
+Corpseruptn-30897,Corpseruptn,Human,Hunter,32,2 man?
+Bixiedicksie-54934,Bixiedicksie,Gnome,Druid,51,can relate
+Stonehardmof-35103,Stonehardmof,Human,Hunter,8,F
+Levela-44853,Levela,Dwarf,Warrior,27,F
+Orioun-17984,Orioun,Human,Warrior,18,yop!
+Indompt-62569,Indompt,Night Elf,Mage,24,SALAM ALEYKOm
+Arionel-44231,Arionel,Night Elf,Warrior,9,owl
+Ellimi-7279,Ellimi,Night Elf,Warrior,15,to mi nějak nesedí :D já za priesta nemohl rebuffnout flagnutého party membera
+Reta-40086,Reta,Gnome,Warrior,13,mark them and we dan go on same target
+Lazzii-45436,Lazzii,Human,Mage,20,gz
+Ptitnotsgnik-41871,Ptitnotsgnik,Gnome,Mage,17,make me lead
+Trylletriks-7083,Trylletriks,Gnome,Paladin,7,cya
+Parpinette-32993,Parpinette,Gnome,9,12,jävla cp
+Aip-49734,Aip,Gnome,Priest,17,F
+Gooblet-65174,Gooblet,Night Elf,Warrior,40,RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Sakkreth-6147,Sakkreth,Human,Mage,13,np
+Aldersbach-61945,Aldersbach,Dwarf,Priest,9,idiot
+Allstar-7066,Allstar,Human,Warrior,17,y
+Wallen-50258,Wallen,Dwarf,Rogue,16,sorry
+Tocinon-14464,Tocinon,Human,Paladin,26,Questie : 15/15 Contrebandier défias pour [[12] La milice du peuple (12)] !
+Wantedmage-60928,Wantedmage,Gnome,Priest,8,sure
+Bragiott-50133,Bragiott,Human,Rogue,5,ty
+Huihui-52783,Huihui,Human,Paladin,22,jesus thats long aggro range
+Florinsalam-26446,Florinsalam,Human,Warrior,15,jobb?
+Druidui-17304,Druidui,Night Elf,9,6,perso j'vois le niveau de jeu de certain j'ai peur
+Nopei-8762,Nopei,Human,Druid,23,help
+Onlynans-14421,Onlynans,Human,Rogue,11,ok
+Classicsuck-19895,Classicsuck,Gnome,9,8,je savais pas
+Vusk-38993,Vusk,Human,Mage,51,r?
+Huntwind-17508,Huntwind,Night Elf,Priest,4,goeeeeeeeeeeeeeeeeedemorgen
+Vánalia-2406,Vánalia,Human,Mage,10,chrz ty
+Fcthreefiddy-54492,Fcthreefiddy,Human,Warrior,11,"package arrived,  brb"
+Salvø-39592,Salvø,Human,Hunter,23,ty
+Astarix-39606,Astarix,Dwarf,Paladin,6,lol
+Freeb-9392,Freeb,Gnome,Mage,51,invite for princess
+Mettdemon-50692,Mettdemon,Human,Hunter,14,u 2
+Fysikk-25423,Fysikk,Human,Rogue,13,morning!
+Gabbyset-39218,Gabbyset,Human,Warrior,1,"unless for gear,  is it really worth it to run dungs?"
