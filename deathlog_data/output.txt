@@ -1,0 +1,55 @@
+name,race_id,class_id,level,last_words
+Thalíe,4,4,40,ty
+ßlackßeast,4,1,18,huge
+Catchingfire,4,2,8,ty ++
+Яляля,4,9,10,fak nie tu xd
+Seifêr,1,2,9,hi
+Smokefun,7,1,40,bye
+Razbros,7,8,19,once per day
+Esjesimp,1,1,12,fu
+Pacix,3,5,15,ty
+Seryu,1,8,12,ty
+Edzio,3,3,12,just go
+Hamiltons,1,4,13,F
+Nippyboots,1,3,26,i just like them :)
+Dfiahs,1,9,25,Дразнящий удар failed on Ветроплет из Братства Справедливости!
+Untiltable,4,2,8,??
+Titanoo,1,1,21,need only one more
+Sipo,4,1,26,scheint ja gehfahrlos zu sein.,falls man nicht in den kanal fällt :)
+Velkyrie,1,1,9,HOLAAA
+Shinhati,1,1,21,ty bb
+Pasallopecie,4,8,21,Thx guys :)
+Drooder,4,11,13,ty
+Rokovoy,1,3,23,ty
+Khaynaah,4,1,19,do you need more?
+Nyv,1,8,5,lol
+Onlynans,1,3,20,SALAM ALEYKOm
+Cuêtara,7,9,7,perso j'vois le niveau de jeu de certain j'ai peur 
+Biero,7,8,8,damn gnolls kept resisting
+Neiya,4,2,5,je savais pas
+Koos,7,1,23,sry
+Visolania,1,8,55,we will not join them today
+Datderessf,4,5,16,:(
+Autoandy,1,11,9,:d
+Hartmann,3,8,18,ку
+Nadheal,1,8,21,xdd
+Niora,7,1,7,thx guys!!
+Ephos,4,4,7,ty
+Prostomagic,1,4,60,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Slaythree,4,2,9,bb
+Jedda,1,1,11,hey
+Dosé,1,3,30,Stay safe
+Arknt,1,2,60,Yop
+Cranqdex,1,5,9,oh its from npc
+Fysikk,1,8,7,what did you discover?
+Tsepo,1,3,23,je pull ?
+Ziepeltriene,1,1,6,np
+Rudyh,1,4,32,pull back
+Leria,4,8,15,ty
+Bragiott,1,4,6,60s-1g if you get lucky I think
+Ritogames,7,4,26,hadnt joined a guild since i died and i thought what better guild to chose than this :D
+Hotdegainii,1,11,11,F
+Numberthrêê,4,1,15,morning!
+Dilerxz,1,1,16,unless for gear, is it really worth it to run dungs?
+Rïñ,4,1,6,ty
+Souvlakos,7,2,26,F
