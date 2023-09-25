@@ -1,13 +1,14 @@
 character_id,name,race_id,class_id,level,last_words
-Heatmap Indicator,Tastan,1,2,6,thanks mate
+Heatmap Indicator,Tastan,1,2,6,<3
+Ezmaxlevelul-4249,Ezmaxlevelul,7,11,14,thanks mate
 Leeley-29485,Leeley,1,2,8,trusting us
-Moiccu-17172,Moiccu,3,5,52,thx, gl
-Lexiloco-14599,Lexiloco,1,5,17,F
-Kopana-28930,Kopana,1,1,18,rip
-Inigma-56269,Inigma,4,3,27,Stay above 1 hp :D
-Babawar-29001,Babawar,7,1,52,ty ++
-Tanketta-55662,Tanketta,4,9,21,fak nie tu xd
-Stratfender-5718,Stratfender,1,1,18,fk
+Onyktert-19864,Onyktert,4,3,18,thx, gl
+Sapphir-50801,Sapphir,1,5,15,u just follow? :D
+Koudex-26223,Koudex,1,2,13,soon
+Dadlock-47595,Dadlock,1,1,8,Stay above 1 hp :D
+Huffda-32847,Huffda,1,1,8,ty ++
+Tanketta-55662,Tanketta,4,9,21,runnin
+Mokrazuzia-35561,Mokrazuzia,7,2,9,fk
 Chargecloney-6179,Chargecloney,1,9,6,pull back
 Warriel-33766,Warriel,4,11,12,F
 Niora-51464,Niora,7,9,16,fu
@@ -15,170 +16,177 @@ Pacix-30761,Pacix,3,5,15,on different char
 Obaso-22714,Obaso,7,2,30,already equipped
 Boomshoot-55425,Boomshoot,3,4,13,aggro
 Xullna-61230,Xullna,7,11,1,ty
-Edzio-22474,Edzio,3,4,9,ty
+Edzio-22474,Edzio,3,1,23,gz
+Ratufi-48133,Ratufi,1,11,8,ty
 Karmael-9956,Karmael,4,4,41,just go
-Hamiltons-63877,Hamiltons,1,9,18,gg
-Wcsmash-42050,Wcsmash,1,9,11,:d
-Doigby-14070,Doigby,1,8,17,can i join ?
+Alioshä-3459,Alioshä,1,3,11,u so cute
+Braeater-21232,Braeater,7,8,6,gg
+Hõõns-10675,Hõõns,7,1,33,:d
+Ivarr-52170,Ivarr,3,8,8,r?
+Rhûm-622,Rhûm,7,4,41,can i join ?
 Iaapaa-35797,Iaapaa,3,1,14,F
-Eliminated-60238,Eliminated,1,3,26,danke dir auch :)
-Distelmage-44229,Distelmage,7,9,25,Дразнящий удар failed on Ветроплет из Братства Справедливости!
-Untiltable-734,Untiltable,4,1,12,^^
-Arifa-62886,Arifa,4,3,11,cheers
-Fnaticfan-51645,Fnaticfan,1,5,16,Wand gang hype !
-Delentis-27780,Delentis,7,9,5,gl and stay safe
+Taytay-38422,Taytay,1,1,18,danke dir auch :)
+Distelmage-44229,Distelmage,7,1,15,Дразнящий удар failed on Ветроплет из Братства Справедливости!
+Untiltable-734,Untiltable,4,3,18,^^
+Iknewit-16610,Iknewit,1,3,21,ez
+Bato-39245,Bato,4,3,11,{rt3} RestedXP Guides: Flying to 6 ETA 5 minutes 31 seconds
+Awoogers-46920,Awoogers,4,4,20,i got you
+Milkroll-25871,Milkroll,1,8,30,thx
+Moarbrew-7178,Moarbrew,3,5,8,I'm doing hc challenge
+Eisaa-12733,Eisaa,7,9,18,gl and stay safe
 Nagamorich-14528,Nagamorich,1,2,7,c'est un donjon guilde ?
-Kamamadou-327,Kamamadou,3,4,5,HOLAAA
-Stinkbomb-29406,Stinkbomb,7,8,23,{rt1} Questie : 8/8 Torn Murloc Fin for [[10] Bounty on Murlocs (46)]!
-Sinjed-39717,Sinjed,1,8,16,come mate
-Skystream-50569,Skystream,4,1,8,T'as trop la rage
-Donwarr-53110,Donwarr,1,8,21,ty
-Rokovoy-22468,Rokovoy,1,5,31,EVASION
-Novagivre-57979,Novagivre,1,1,36,Other goodies dropped, but not the ring
-Szotilock-18778,Szotilock,7,1,47,@showtooltip
-Rickardo-48122,Rickardo,1,4,45,Rénovation interrompu !
-Alioshä-3459,Alioshä,1,8,10,lo puedes mira en atlas loot
-Zulters-53391,Zulters,7,8,19,Ouais on sait xD
-Apuh-39581,Apuh,4,3,11,r?
-Heksenkaas-35140,Heksenkaas,7,5,10,thx
-Arknt-62781,Arknt,1,8,3,{rt3} RestedXP Guides: I just leveled from 34 to 35 in 5 hours 2 minutes 3 seconds
-Brez-62813,Brez,3,2,42,good luck mate
-Bennyvader-6676,Bennyvader,3,2,21,Thanks !!
-Goldshieldd-65083,Goldshieldd,3,4,8,thanks
-Taytay-38422,Taytay,1,8,56,I'm doing hc challenge
-Nevgg-47053,Nevgg,1,8,16,prob haha
-Vermon-17602,Vermon,7,5,15,damn gnolls kept resisting
-Neiya-35873,Neiya,4,4,13,np 
-Immersif-1599,Immersif,3,11,8,RIP
-Eldanaar-58794,Eldanaar,4,1,13,ty
-Nîorî-55731,Nîorî,7,4,10,ty
-Карисара-38664,Карисара,3,1,8,Not now maybe later
-Switchflip-7459,Switchflip,1,2,2,we will not join them today
-Discohc-6998,Discohc,1,5,11,f
-Iuliaatje-13425,Iuliaatje,7,2,14,imi dati un invte careva pt layer?
-Athëman-56476,Athëman,1,4,6,ку
-Pinkytwo-43106,Pinkytwo,1,9,9,ty bb
+Kamamadou-327,Kamamadou,3,1,6,ty for the help
+Waifusan-36680,Waifusan,7,2,14,ty
+Worstwarrior-64374,Worstwarrior,1,4,17,ty bois
+Shinhati-6117,Shinhati,1,1,7,ty
+Sinjed-39717,Sinjed,1,8,16,have a nice day
+Sombritas-161,Sombritas,1,8,7,come mate
+Skystream-50569,Skystream,4,1,8,morning!
+Drugmajor-18349,Drugmajor,7,8,11,yea
+Pasallopecie-61741,Pasallopecie,4,2,11,MONEEEEY
+Venlanix-17881,Venlanix,7,1,23,ggs
+Murties-13506,Murties,1,1,8,LFM [[20] Oh Bruder... (167)][[18] Die Suche nach Andenken (168)]
+Excont-64419,Excont,4,1,26,ty
+Rokovoy-22468,Rokovoy,1,8,19,EVASION
+Novagivre-57979,Novagivre,1,4,6,ty
+Cubic-26542,Cubic,4,2,12,can you guys help me kill pricess pls 
+Brez-47930,Brez,3,8,60,Other goodies dropped, but not the ring
+Lasttrydamn-43971,Lasttrydamn,7,1,5,@showtooltip
+Rickardo-48122,Rickardo,1,4,45,{rt1} Questie : 10/10 Partehuesos Rompecantos para [[15] En defensa de las tierras del rey (263)]!
+Shanilin-16109,Shanilin,4,1,17,Rénovation interrompu !
+Baldyirl-45623,Baldyirl,7,8,10,lo puedes mira en atlas loot
+Rpc-26673,Rpc,1,8,5,{rt3} RestedXP Guides: I just leveled from 34 to 35 in 4 hours 42 minutes 51 seconds
+Kototaipbis-29701,Kototaipbis,7,3,27,kk
+Twotalflux-37485,Twotalflux,4,2,7,ouais ^^
+Jebtiska-7009,Jebtiska,3,4,19,{rt3} RestedXP Guides: I just leveled from 34 to 35 in 5 hours 2 minutes 3 seconds
+Brez-62813,Brez,3,8,23,OK
+Chlirr-17658,Chlirr,1,3,24,offer your pet and run
+Sauzer-55175,Sauzer,1,8,56,thanks
+Nyrdalahc-22112,Nyrdalahc,1,8,18,damn gnolls kept resisting
+Neiya-35873,Neiya,4,9,15,np 
+Immersif-1599,Immersif,3,1,1,Stay safe
+Gazuaone-3586,Gazuaone,1,8,14,<3
+Jackaree-17383,Jackaree,1,11,24,oh its from npc
+Orioun-17984,Orioun,1,4,17,we will not join them today
+Auniz-5867,Auniz,3,5,11,F
+Marphul-47986,Marphul,4,3,23,owl
+Alxalxalx-61178,Alxalxalx,7,3,9,lol
+Ngll-37785,Ngll,1,1,14,2 man?
+Акрела-50352,Акрела,4,4,12,Yop
+Evanshorter-41625,Evanshorter,3,9,6,ty bb
 Rollow-37831,Rollow,4,1,15,ty
-Guywhoasked-32919,Guywhoasked,7,8,11,ty
-Ephos-39108,Ephos,4,3,7,F
-Clotted-6412,Clotted,1,11,20,les go
-Mlogos-47675,Mlogos,7,5,7,wtf
-Nikobellik-49871,Nikobellik,1,8,13,F
-Hundart-15321,Hundart,4,4,8,Stay safe
-Löschtdich-63096,Löschtdich,1,2,60,outside
-Infinitywar-19911,Infinitywar,4,8,19,bidde
-Elynà-62911,Elynà,4,3,35,{rt3} RestedXP Guides: I just leveled from 34 to 35 in 4 hours 42 minutes 51 seconds
-Hardpaloca-64950,Hardpaloca,3,11,24,are the servers stable?
-Lasttrydamn-43971,Lasttrydamn,7,8,12,{rt1} Questie : 10/10 Partehuesos Rompecantos para [[15] En defensa de las tierras del rey (263)]!
-Simplicity-49830,Simplicity,1,2,10,ty !
-Waffey-44199,Waffey,4,3,9,tyty
-Monadire-29802,Monadire,4,1,6,can you guys help me kill pricess pls 
-Cirintra-12567,Cirintra,1,3,27,ty
-Shockodin-38274,Shockodin,1,1,5,kk
-Njâl-1314,Njâl,1,2,54,ouais ^^
-Theaspava-56636,Theaspava,1,8,23,thanks
-Cammie-49540,Cammie,1,1,11,offer your pet and run
-Corpseruptn-30897,Corpseruptn,1,3,32,2 man?
-Obaso-12544,Obaso,7,2,1,F
-Bixiedicksie-54934,Bixiedicksie,7,11,51,can relate
-Beverlypills-39382,Beverlypills,1,4,17,ty
-Skyone-25665,Skyone,3,11,22,eikö saa olla viel 60
-Stonehardmof-35103,Stonehardmof,1,3,8,F
-Rakli-23220,Rakli,1,4,17,ty
-Quickfingers-29600,Quickfingers,7,11,1,F
-Phreya-57394,Phreya,4,1,13,mage flying soon?
-Levela-44853,Levela,3,1,27,F
-Arthorienne-20499,Arthorienne,1,5,11,gj
-Plinke-18402,Plinke,1,11,9,ty bb
-Emie-37888,Emie,4,1,18,F
-Catchingfire-32111,Catchingfire,4,8,12,oh its from npc
-Orioun-17984,Orioun,1,1,18,yop!
-Indompt-62569,Indompt,4,8,24,SALAM ALEYKOm
-Arionel-44231,Arionel,4,1,9,owl
-Ellimi-7279,Ellimi,4,1,15,to mi nějak nesedí :D já za priesta nemohl rebuffnout flagnutého party membera
-Stabilt-18845,Stabilt,1,11,9,Yop
-Nurav-13792,Nurav,1,8,7,hadnt joined a guild since i died and i thought what better guild to chose than this :D
-Reta-40086,Reta,7,1,13,mark them and we dan go on same target
-Lazzii-45436,Lazzii,1,8,20,gz
-Schurkenifuh-43658,Schurkenifuh,1,1,43,have fun :)
-Truthpwr-2346,Truthpwr,1,1,9,i did not get it
-Ptitnotsgnik-41871,Ptitnotsgnik,7,8,17,make me lead
-Trylletriks-7083,Trylletriks,7,2,7,cya
-Parpinette-32993,Parpinette,7,9,12,jävla cp
-Boomshoot-44536,Boomshoot,3,11,27,death?
-Aip-49734,Aip,7,5,17,F
-Tartifiac-59696,Tartifiac,1,8,1,thanks
-Ratel-42232,Ratel,4,9,7,fck
-Gooblet-65174,Gooblet,4,1,40,{rt3} RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
-Ziepeltriene-34662,Ziepeltriene,1,4,15,pls
-Nadheal-2417,Nadheal,1,8,21,ty
-Sakkreth-6147,Sakkreth,1,8,13,np
-Jimmyk-27508,Jimmyk,4,2,34,ty
-Sláde-34601,Sláde,1,9,22,Buenas tardes
-Aldersbach-61945,Aldersbach,3,5,9,idiot
+Guywhoasked-32919,Guywhoasked,7,1,8,thx guys!!
+Haugesund-53311,Haugesund,3,8,16,F
+Fuab-10622,Fuab,4,11,20,se te querian comer
+Fareta-3351,Fareta,1,9,7,np bro
+Contractor-39177,Contractor,1,4,7,strah me e s randoms na brd :D
+Hyran-57086,Hyran,1,11,13,mark them and we dan go on same target
+Horthbar-7678,Horthbar,3,3,23,do you need more?
+Autonomy-40,Autonomy,4,8,25,^^
+Tarpie-51759,Tarpie,3,5,30,ty
+Maexxer-48063,Maexxer,4,3,12,are the servers stable?
+Olutta-17985,Olutta,7,8,12,får ikke bruke heartstone, damn
+Simplicity-49830,Simplicity,1,3,60,RIP
+Cranqdex-55263,Cranqdex,1,4,8,SALAM ALEYKOm
+Злата-19577,Злата,3,1,17,ty
+Minimatta-33148,Minimatta,7,1,6,ty
+Barristân-62887,Barristân,1,3,18,pls
+Cammie-49540,Cammie,1,1,27,go
+Churchhill-48850,Churchhill,1,8,10,F
+Akatschi-59534,Akatschi,4,2,10,ty !
+Flancks-29383,Flancks,7,1,8,can relate
+Beverlypills-39382,Beverlypills,1,5,4,ty
+Skyone-25665,Skyone,3,3,46,F
+Zauko-17056,Zauko,1,3,45,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Quickfingers-29600,Quickfingers,7,8,4,ty
+Copiumlock-34586,Copiumlock,1,8,20,tyty
+Hartmann-59926,Hartmann,3,4,8,gj
+Plinke-18402,Plinke,1,11,9,sorry no can do 
+Allegorn-35598,Allegorn,4,1,17,ty bb
+Emie-37888,Emie,4,1,18,yo
+Catchingfire-32111,Catchingfire,4,8,12,ty
+Ptitnotsgnik-41871,Ptitnotsgnik,7,8,20,wenn ich wieder mana habe :D
+Bushwickin-62918,Bushwickin,1,1,11,sorry
+Dpdruid-57602,Dpdruid,4,4,11,to mi nějak nesedí :D já za priesta nemohl rebuffnout flagnutého party membera
+Toohm-16287,Toohm,1,11,9,{rt1} Questie : 15/15 Contrebandier défias pour [[12] La milice du peuple (12)] !
+Seifêr-65072,Seifêr,1,4,10,xdd
+Pizzaofdeath-32790,Pizzaofdeath,4,4,22,y
+Leria-20148,Leria,4,4,31,fck
+Wokechad-53231,Wokechad,1,1,16,bye
+Novoidwalker-47,Novoidwalker,1,1,9,i did not get it
+Stankyleg-1655,Stankyleg,4,5,13,cya
+Twizzo-13226,Twizzo,1,9,12,care behind 
+Boomshoot-44536,Boomshoot,3,4,5,death?
+Drooder-36457,Drooder,4,5,17,F
+Zilco-61133,Zilco,1,2,17,thanks
+Packingwood-11187,Packingwood,4,4,28,perso j'vois le niveau de jeu de certain j'ai peur 
+Elfriedeborg-31919,Elfriedeborg,1,4,9,ty bb
+Baldestd-57314,Baldestd,3,1,36,Buenas tardes
+Ønyzuka-54273,Ønyzuka,1,8,17,make me lead
+Momoe-47811,Momoe,7,1,22,idiot
 Imsdood-28947,Imsdood,4,9,19,i just like them :)
-Dfiahs-56342,Dfiahs,1,4,37,la boite a caca oO
-Glockinmylap-59892,Glockinmylap,4,1,43,??
-Slashcuddle-821,Slashcuddle,4,4,27,need only one more
-Sicknèss-48789,Sicknèss,7,2,60,xdd
-Allstar-7066,Allstar,1,1,17,y
-Glîadîa-19029,Glîadîa,1,11,9,ty
-Wallen-50258,Wallen,3,4,16,sorry
-Tocinon-14464,Tocinon,1,2,26,{rt1} Questie : 15/15 Contrebandier défias pour [[12] La milice du peuple (12)] !
-Wantedmage-60928,Wantedmage,7,5,8,sure
-Smokefun-39443,Smokefun,7,1,19,ty bb
-Zatir-13373,Zatir,1,4,5,ty
-Papua-26055,Papua,4,1,16,gz
-Bragiott-50133,Bragiott,1,4,5,ty
-Huihui-52783,Huihui,1,2,22,jesus thats long aggro range
-Thoots-26738,Thoots,1,11,15,care behind 
-Carinchen-26969,Carinchen,4,2,9,A plus floxee
-Fatherbob-39003,Fatherbob,1,3,10,|cff1eff00|Hitem:2555::::::::16:::::::::|h[Recipe: Swiftness Potion]|h|r
-Pebblepicker-32916,Pebblepicker,7,2,20,F
-Florinsalam-26446,Florinsalam,1,1,15,jobb?
-Gôya-6950,Gôya,1,11,11,{rt3} RestedXP Guides: I just leveled from 23 to 24 in 2 hours 4 minutes 47 seconds
-Druidui-17304,Druidui,4,9,6,perso j'vois le niveau de jeu de certain j'ai peur 
-Nostalgybolt-27965,Nostalgybolt,7,4,8,lol
-Vánalia-31321,Vánalia,1,3,24,je pull ?
-Nopei-8762,Nopei,1,11,23,help
-Onlynans-14421,Onlynans,1,4,11,ok
-Kameil-19045,Kameil,1,8,8,run
-Classicsuck-19895,Classicsuck,7,9,8,je savais pas
-Koos-62113,Koos,7,1,19,sry
-Чипусик-31056,Чипусик,7,8,14,serwas
-Vusk-38993,Vusk,1,8,51,r?
-Thalíe-46324,Thalíe,4,4,14,mg
-Fentyseven-29792,Fentyseven,1,4,12,ty
-Moricette-36904,Moricette,4,1,19,ty
-Fruzia-3380,Fruzia,1,1,17,help bro
-Genesi-46010,Genesi,1,3,16,Coucou ! :) 
-Lunakwon-7765,Lunakwon,7,5,16,my game
-Pushkick-29307,Pushkick,3,3,7,ty
-Gàirnealair-7932,Gàirnealair,4,8,51,gg gl
-Batjam-53382,Batjam,4,1,6,ty
-Grandolin-1638,Grandolin,7,3,11,if a target is kinda one shot let me kill it for mana reg
-Slaythree-25698,Slaythree,4,9,16,bb
-Huntwind-17508,Huntwind,4,5,4,goeeeeeeeeeeeeeeeeedemorgen
-Eritrea-17726,Eritrea,1,2,5,bye
-Vánalia-2406,Vánalia,1,8,10,chrz ty
-Similarly-22997,Similarly,4,2,30,whats better? i just heal u or i tank?
-Fcthreefiddy-54492,Fcthreefiddy,1,1,11,package arrived, brb
-Rogtech-17557,Rogtech,1,1,15,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Dfiahs-56342,Dfiahs,1,4,37,F
+Redroot-49160,Redroot,4,4,13,??
+Ratel-42232,Ratel,4,8,6,mayebe wait
+Nekosha-33379,Nekosha,4,1,13,bb
+Sicknèss-48789,Sicknèss,7,2,46,yeaah
+Allstar-7066,Allstar,1,1,17,{rt3} RestedXP Guides: I just leveled from 23 to 24 in 2 hours 4 minutes 47 seconds
+Pulverkungen-46602,Pulverkungen,7,9,3,ty
+Smokefun-39443,Smokefun,7,11,11,Coucou ! :) 
+Shaadynasty-21562,Shaadynasty,7,3,14,ty
+Khloekapri-50894,Khloekapri,1,1,15,let them
+Kukumber-33802,Kukumber,4,9,8,je pull ?
+Bankowska-43067,Bankowska,1,2,35,|cff1eff00|Hitem:2555::::::::16:::::::::|h[Recipe: Swiftness Potion]|h|r
+Ethellyn-47980,Ethellyn,4,11,13,sure
+Papua-26055,Papua,4,1,14,gz
+Spévanish-49277,Spévanish,7,4,9,ty
+Dosé-56664,Dosé,1,2,22,ty
+Khaynaah-61997,Khaynaah,4,8,26,ok
+Thalíe-46324,Thalíe,4,1,8,у меня 0 до сих пор
+Darckos-43923,Darckos,4,4,12,A plus floxee
+Classicsuck-19895,Classicsuck,7,5,8,Bandengruß
+Matsuoka-14968,Matsuoka,1,1,10,Thanks !!
+Gôya-6950,Gôya,1,3,19,lol
+Vusk-38993,Vusk,1,9,11,help
+Beritz-64344,Beritz,1,8,5,scheint ja gehfahrlos zu sein.,falls man nicht in den kanal fällt :)
+Whitfields-26843,Whitfields,3,3,13,bye
+Rïñ-31427,Rïñ,4,4,10,ok
+Daethers-21494,Daethers,1,8,8,ty
+Unbender-13624,Unbender,1,3,34,thx for party
+Trulia-22854,Trulia,1,2,5,je savais pas
+Koos-62113,Koos,7,5,16,my game
+Axekanzler-14871,Axekanzler,3,8,11,ty 
+Yousofajn-30908,Yousofajn,7,8,9,serwas
+Nopeitwo-61484,Nopeitwo,1,8,51,ty
+Zaziël-13944,Zaziël,1,9,9,{rt3} RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Drodrax-10700,Drodrax,7,5,16,ty
+Moricette-36904,Moricette,4,1,6,cya
+Falillo-62272,Falillo,4,9,12,ty
+Gàirnealair-7932,Gàirnealair,4,8,51,maybe only 2 come
+Mægtigemølle-35212,Mægtigemølle,1,8,10,gg gl
+Batjam-53382,Batjam,4,1,6,chrz ty
+Grandolin-1638,Grandolin,7,11,19,if a target is kinda one shot let me kill it for mana reg
+Slaythree-25698,Slaythree,4,1,11,bb
+Nihelia-8275,Nihelia,4,8,15,goeeeeeeeeeeeeeeeeedemorgen
+Eritrea-17726,Eritrea,1,4,10,hello and ty
+Gotopps-61938,Gotopps,4,11,7,taunting
+Lôstÿ-27590,Lôstÿ,1,1,13,F
+Theaspava-56636,Theaspava,1,2,30,whats better? i just heal u or i tank?
+Demontis-4063,Demontis,4,4,17,package arrived, brb
+Rogtech-17557,Rogtech,1,1,7,np
 Genesi-19235,Genesi,1,4,6,ty
-Perpangpang-25261,Perpangpang,3,4,18,what did you discover?
-Salvø-39592,Salvø,1,3,23,ty
-Astarix-39606,Astarix,3,2,6,lol
-Freeb-9392,Freeb,7,8,51,invite for princess
-Holydruid-20959,Holydruid,4,2,7,hello and ty
-Frostboltguy-49402,Frostboltguy,7,4,32,F
-Zauko-17056,Zauko,1,9,13,he is completed already
-Warsapusam-23346,Warsapusam,3,9,11,np
-Cpthc-29685,Cpthc,4,2,1,OK
+Trituss-37136,Trituss,7,4,18,what did you discover?
+Gorst-5336,Gorst,1,3,23,he is completed already
+Astarix-39606,Astarix,3,9,11,invite for princess
+Zorku-37604,Zorku,3,9,9,Thx guys :)
+Bluebery-64312,Bluebery,1,4,8,thanks
+Ozeico-21799,Ozeico,3,4,7,Not now maybe later
+Titancêtre-58399,Titancêtre,1,9,13,les go
+Chugi-21793,Chugi,3,3,7,dafuq are u doing??
+Warffe-23020,Warffe,3,1,24,say safe
 Mettdemon-50692,Mettdemon,1,3,14,u 2
 Pupille-38858,Pupille,1,4,17,Hello
-Fysikk-25423,Fysikk,1,4,13,morning!
-Венке-4051,Венке,3,3,1,say safe
-Gabbyset-39218,Gabbyset,1,1,1,unless for gear, is it really worth it to run dungs?
-Mirakoline-10255,Mirakoline,4,1,12,ty
-Numbértwo-57306,Numbértwo,1,8,9,yea
-Cheshirecat-5629,Cheshirecat,1,9,15,idk cat was much more resilient
+Cheshirecat-5629,Cheshirecat,1,3,13,idk cat was much more resilient
+Dogmai-55931,Dogmai,4,3,16,ye
+Arkaone-4435,Arkaone,1,4,14,unless for gear, is it really worth it to run dungs?
+Mirakoline-10255,Mirakoline,4,11,13,{rt1} Questie : 8/8 Torn Murloc Fin for [[10] Bounty on Murlocs (46)]!

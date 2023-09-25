@@ -5,7 +5,7 @@ def extract_data_from_lua(filename):
         content = f.read()
 
     # Using regular expressions to extract the desired fields
-    # Note: Adding a pattern to capture ["Thalíe-46324"] at the beginning
+    # Note: Adding a pattern to capture ["Name-46324"] at the beginning
     pattern = re.compile(r'\["([^"]+)"\]\s*=\s*{.*?\["name"\]\s*=\s*"([^"]+)",.*?\["race_id"\]\s*=\s*(\d+),.*?\["class_id"\]\s*=\s*(\d+),.*?\["level"\]\s*=\s*(\d+),.*?\["last_words"\]\s*=\s*"([^"]+)",', re.DOTALL)
     matches = pattern.findall(content)
 
