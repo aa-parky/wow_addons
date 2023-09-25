@@ -1,7 +1,8 @@
 character_id,name,race_id,class_id,level,last_words
 Heatmap Indicator,Thalíe,4,4,40,ty
-ßlackßeast-51930,ßlackßeast,4,1,18,ty
-Unofficial-8411,Unofficial,1,8,12,ty ++
+ßlackßeast-51930,ßlackßeast,4,5,30,huge
+Catchingfire-32111,Catchingfire,4,8,12,F
+Misdemoner-21485,Misdemoner,1,1,8,ty ++
 Яляля-44275,Яляля,4,9,10,fak nie tu xd
 Seifêr-65072,Seifêr,1,2,9,{rt3} RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
 Shpunk-46445,Shpunk,3,8,16,bye
@@ -15,48 +16,61 @@ Nippyboots-33550,Nippyboots,1,3,26,danke dir auch :)
 Toeboy-7588,Toeboy,7,4,15,Дразнящий удар failed on Ветроплет из Братства Справедливости!
 Untiltable-734,Untiltable,4,2,8,r?
 Arifa-62886,Arifa,4,4,21,need only one more
-Diazz-53107,Diazz,3,11,40,Wand gang hype !
+Sicknèss-48789,Sicknèss,7,4,31,i did not get it
+Vusk-38993,Vusk,1,8,30,Wand gang hype !
 Delentis-27780,Delentis,7,3,37,your twink
 Leandrin-30590,Leandrin,1,2,29,HOLAAA
-Shinhati-6117,Shinhati,1,1,21,ty
-Festy-1953,Festy,1,4,8,ty bb
-Pasallopecie-61741,Pasallopecie,4,8,21,ty
-Rokovoy-22468,Rokovoy,1,3,23,ty
-Khaynaah-61997,Khaynaah,4,1,19,do you need more?
-Nyv-40498,Nyv,1,8,5,lol
-Onlynans-14421,Onlynans,1,3,20,SALAM ALEYKOm
-Cuêtara-5732,Cuêtara,7,9,7,perso j'vois le niveau de jeu de certain j'ai peur 
-Multicat-6503,Multicat,4,8,56,damn gnolls kept resisting
-Neiya-35873,Neiya,4,4,11,je savais pas
-Koos-62113,Koos,7,4,3,sry
-Iwillfailofc-38047,Iwillfailofc,1,4,19,soon
-Nihelia-8275,Nihelia,4,8,25,F
-Lorir-7,Lorir,7,4,10,we will not join them today
-Vánalia-2406,Vánalia,1,1,6,:(
-Bankowska-43067,Bankowska,1,2,26,ку
-Nadheal-2417,Nadheal,1,11,23,thx guys!!
-Zoldars-6263,Zoldars,1,8,16,F
-Dandroid-13034,Dandroid,1,1,11,adds?
-Salvø-39592,Salvø,1,1,8,bb
-Daubneros-58490,Daubneros,3,1,15,F
-Rickardo-48122,Rickardo,1,11,11,hey
-Bootychain-28074,Bootychain,7,1,16,hadnt joined a guild since i died and i thought what better guild to chose than this :D
-Schammigtwo-11338,Schammigtwo,1,2,36,Yop
-Sibeliuss-40945,Sibeliuss,7,8,1,Stay safe
-Sombritas-161,Sombritas,1,2,60,package arrived, brb
-Rogtech-17557,Rogtech,1,2,7,oh its from npc
-Fysikk-25423,Fysikk,1,4,8,can you guys help me kill pricess pls 
-Cirintra-12567,Cirintra,1,8,15,je pull ?
-Wasäbi-32802,Wasäbi,4,8,15,pull back
-Hiroflower-51494,Hiroflower,4,4,28,np
-Mazetta-49005,Mazetta,1,4,17,what did you discover?
-Ziepeltriene-34662,Ziepeltriene,1,1,13,60s-1g if you get lucky I think
-Arwoht-9641,Arwoht,1,8,7,he is completed already
-Enöze-29428,Enöze,4,3,14,morning!
-Dilerxz-26303,Dilerxz,1,1,16,unless for gear, is it really worth it to run dungs?
-Wartarion-54201,Wartarion,3,1,20,Increases movement speed by 10% and all stats by 15% for 2 hours.
-Smørkniven-34054,Smørkniven,1,9,11,:d
-Thoots-26738,Thoots,1,4,44,F
-Gnovour-6398,Gnovour,7,2,10,np 
-Teslaengnr-50916,Teslaengnr,3,8,8,idiot
-Minhoxtwo-60263,Minhoxtwo,7,4,30,thx, gl
+Stinkbomb-29406,Stinkbomb,7,8,23,ty
+Festy-1953,Festy,1,4,8,ty
+Gulutbulut-40920,Gulutbulut,3,1,19,ty bb
+Pasallopecie-61741,Pasallopecie,4,8,21,yop!
+Focusnotdie-49999,Focusnotdie,7,8,13,c'est un donjon guilde ?
+Venaya-50647,Venaya,4,1,17,ty
+Khaynaah-61997,Khaynaah,4,1,19,ty
+Iknewit-16610,Iknewit,1,8,8,@showtooltip
+Spévanish-49277,Spévanish,7,4,45,Rénovation interrompu !
+Emilyistired-54415,Emilyistired,1,4,8,do you need more?
+Preytor-20726,Preytor,3,1,7,lo puedes mira en atlas loot
+Smørkniven-34054,Smørkniven,1,8,5,F
+Pitux-48975,Pitux,1,8,8,idiot
+Goodworker-45597,Goodworker,3,2,50,:d
+Ruie-53143,Ruie,1,4,8,lol
+Emmune-37949,Emmune,7,3,24,help
+Ilhestizifhd-3612,Ilhestizifhd,7,8,5,soon
+Momoe-47811,Momoe,7,8,21,perso j'vois le niveau de jeu de certain j'ai peur 
+Drazöu-9605,Drazöu,3,4,5,fml
+Dcriskishigh-54903,Dcriskishigh,7,11,10,damn gnolls kept resisting
+Neiya-35873,Neiya,4,11,23,np 
+Kalyopsix-7561,Kalyopsix,4,1,19,sry
+Deskey-56092,Deskey,1,1,17,we will not join them today
+Stjärtsex-49634,Stjärtsex,1,1,24,sorry
+Shecat-22674,Shecat,4,4,12,:(
+Errorkiledme-46569,Errorkiledme,1,8,11,ку
+Nadheal-2417,Nadheal,1,4,26,ty
+Haugesund-53311,Haugesund,3,3,1,np
+Ephos-39108,Ephos,4,8,17,F
+Obaso-22714,Obaso,7,3,25,hadnt joined a guild since i died and i thought what better guild to chose than this :D
+Fweddy-28814,Fweddy,1,3,17,ty
+Prostomagic-30802,Prostomagic,1,4,60,adds?
+Canu-39246,Canu,7,1,6,bb
+Arowtoknee-65269,Arowtoknee,1,4,10,goeeeeeeeeeeeeeeeeedemorgen
+Eritrea-17726,Eritrea,1,3,23,can you guys help me kill pricess pls 
+Brewhaha-50391,Brewhaha,3,8,10,Stay safe
+Amptoulight-3936,Amptoulight,1,2,60,Yop
+Lantaarn-43194,Lantaarn,1,4,17,are the servers stable?
+Cranqdex-55263,Cranqdex,1,8,12,oh its from npc
+Fysikk-25423,Fysikk,1,4,18,pull back
+Astarix-39606,Astarix,3,2,7,je pull ?
+Apuh-39581,Apuh,4,4,14,ty
+Minimatta-33148,Minimatta,7,8,8,ty
+Ratel-42232,Ratel,4,11,27,dafuq are u doing??
+Warffe-23020,Warffe,3,1,15,he is completed already
+Mettdemon-50692,Mettdemon,1,3,14,F
+Flancks-29383,Flancks,7,1,8,ty
+Numberthrêê-16941,Numberthrêê,4,1,13,can relate
+Wartarion-54201,Wartarion,3,11,12,ty
+Skyone-25665,Skyone,3,4,17,thx, gl
+Spildafplads-35491,Spildafplads,1,3,23,cya! :)
+Farietwo-59400,Farietwo,1,4,60,unless for gear, is it really worth it to run dungs?
+Fatpunk-15261,Fatpunk,4,1,20,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Dualbrain-28455,Dualbrain,7,9,6,f
