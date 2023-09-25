@@ -1,0 +1,45 @@
+character_id,name,race_id,class_id,level,last_words
+Heatmap Indicator,Thalíe,Night Elf,Rogue,40,ty
+ßlackßeast-51930,ßlackßeast,Night Elf,Warrior,18,ty
+Unofficial-8411,Unofficial,Human,Mage,12,ty ++
+Яляля-44275,Яляля,Night Elf,9,10,fak nie tu xd
+Seifêr-65072,Seifêr,Human,Paladin,9,{rt3} RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+Shpunk-46445,Shpunk,Dwarf,Mage,16,bye
+Razbros-40934,Razbros,Gnome,Mage,19,once per day
+Esjesimp-30539,Esjesimp,Human,Warrior,12,fu
+Pacix-30761,Pacix,Dwarf,Priest,15,ty
+Seryu-23095,Seryu,Human,Mage,12,F
+Joecar-65159,Joecar,Gnome,Hunter,13,just go
+Hamiltons-63877,Hamiltons,Human,Rogue,13,F
+Nippyboots-33550,Nippyboots,Human,Hunter,26,danke dir auch :)
+Toeboy-7588,Toeboy,Gnome,Rogue,15,Дразнящий удар failed on Ветроплет из Братства Справедливости!
+Untiltable-734,Untiltable,Night Elf,Paladin,8,r?
+Arifa-62886,Arifa,Night Elf,Rogue,21,need only one more
+Diazz-53107,Diazz,Dwarf,Druid,40,Wand gang hype !
+Delentis-27780,Delentis,Gnome,Hunter,37,your twink
+Leandrin-30590,Leandrin,Human,Paladin,29,HOLAAA
+Shinhati-6117,Shinhati,Human,Warrior,21,ty
+Festy-1953,Festy,Human,Rogue,8,ty bb
+Pasallopecie-61741,Pasallopecie,Night Elf,Mage,21,ty
+Rokovoy-22468,Rokovoy,Human,Hunter,23,ty
+Khaynaah-61997,Khaynaah,Night Elf,Warrior,19,do you need more?
+Nyv-40498,Nyv,Human,Mage,5,lol
+Onlynans-14421,Onlynans,Human,Hunter,20,SALAM ALEYKOm
+Cuêtara-5732,Cuêtara,Gnome,9,7,perso j'vois le niveau de jeu de certain j'ai peur
+Multicat-6503,Multicat,Night Elf,Mage,56,damn gnolls kept resisting
+Neiya-35873,Neiya,Night Elf,Rogue,11,je savais pas
+Koos-62113,Koos,Gnome,Rogue,3,sry
+Iwillfailofc-38047,Iwillfailofc,Human,Rogue,19,soon
+Nihelia-8275,Nihelia,Night Elf,Mage,25,F
+Lorir-7,Lorir,Gnome,Rogue,10,we will not join them today
+Vánalia-2406,Vánalia,Human,Warrior,6,:(
+Bankowska-43067,Bankowska,Human,Paladin,26,ку
+Nadheal-2417,Nadheal,Human,Druid,23,thx guys!!
+Zoldars-6263,Zoldars,Human,Mage,16,F
+Dandroid-13034,Dandroid,Human,Warrior,11,adds?
+Salvø-39592,Salvø,Human,Warrior,8,bb
+Daubneros-58490,Daubneros,Dwarf,Warrior,15,F
+Rickardo-48122,Rickardo,Human,Druid,11,hey
+Bootychain-28074,Bootychain,Gnome,Warrior,16,hadnt joined a guild since i died and i thought what better guild to chose than this :D
+Schammigtwo-11338,Schammigtwo,Human,Paladin,36,Yop
+Sibeliuss-40945,Sibeliuss,Gnome,Mage,1,Stay safe
