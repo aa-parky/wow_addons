@@ -96,7 +96,7 @@ deathlog_settings = {
 }
 deathlog_data = {
 	["Stitches"] = {
-		["Thalíe-46324"] = {
+		["Thalí-46324"] = {
 			["class_id"] = 11,
 			["guild"] = "",
 			["date"] = 1695543691,
