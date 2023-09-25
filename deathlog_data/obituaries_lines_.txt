@@ -1,0 +1,26 @@
+"In the vast plains of Azeroth, [name] of the [race_id] and master [class_id], bravely met their end at level [level]. Though their hearthstone's glow has dimmed, their spirit dances in the wind of The Barrens chat."
+
+"[name], our beloved [race_id] [class_id], has logged off for the last time at level [level]. They've now gone to a place where respawn times are but a myth."
+
+"In the echoing halls of Orgrimmar and the serene paths of Elwynn Forest, tales will forever be told of [name], the level [level] [race_id] [class_id]. May they find eternal rest in a lag-free realm."
+
+"After [level] levels of unmatched bravery, [name], the [race_id] [class_id], has taken their final flight path. May their bags always be spacious and their buffs eternal in the afterlife."
+
+"[name], the most charismatic [race_id] [class_id] of level [level], has left us. They are now adventuring in the great raid beyond, forever free from repair bills."
+
+6.
+"In the epic tales of Azeroth, [name], the level [level] [race_id] [class_id], will always be remembered for their uncanny ability to pull multiple mobs unintentionally and still manage to smile."
+
+7.
+"[name], our radiant [race_id] [class_id] of level [level], has bid farewell to our realm. Gone to the great Auction House in the sky, where gold is infinite and bids are always won."
+
+8.
+"Death is but a loading screen for [name], the spirited [race_id] [class_id] who reached level [level]. In their honor, let's take a moment of silence... or a moment of dancing. They'd have liked that."
+
+9.
+"[name] might have left Azeroth at level [level], but their legacy as the finest [race_id] [class_id] remains. They're probably sipping on Moonberry Juice somewhere beyond the stars now."
+
+10.
+"A toast to [name], the [race_id] [class_id] who charmed us all. At level [level], they've hung up their gear, leaving behind tales of legend. May they never encounter a queue in the hereafter."
+
+Remember, these are playful takes on a digital character's "death", and they pay homage to the quirks and idiosyncrasies of the WoW universe. Always use such content with sensitivity and in appropriate contexts.
