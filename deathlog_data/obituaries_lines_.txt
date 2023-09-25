@@ -1,57 +1,57 @@
-"In the vast plains of Azeroth, [name] of the [race_id] and master [class_id], bravely met their end at level [level]. Though their hearthstone's glow has dimmed, their spirit dances in the wind of The Barrens chat."
+In the vast plains of Azeroth, {name} of the {race_id} and master {class_id}, bravely met their end at level {level}. Though their hearthstone's glow has dimmed, their spirit dances in the wind of The Barrens chat. They was last heard screaming "{last_words}" !
 
-"[name], our beloved [race_id] [class_id], has logged off for the last time at level [level]. They've now gone to a place where respawn times are but a myth."
+{name}, our beloved {race_id} {class_id}, has logged off for the last time at level {level}. They've now gone to a place where respawn times are but a myth. Their last words were something like "{last_words}"
 
-"In the echoing halls of Orgrimmar and the serene paths of Elwynn Forest, tales will forever be told of [name], the level [level] [race_id] [class_id]. May they find eternal rest in a lag-free realm."
+In the echoing halls of Orgrimmar and the serene paths of Elwynn Forest, tales will forever be told of {name}, the level {level} {race_id} {class_id}. May they find eternal rest in a lag-free realm. Just before their death they uttered "{last_words}"
 
-"After [level] levels of unmatched bravery, [name], the [race_id] [class_id], has taken their final flight path. May their bags always be spacious and their buffs eternal in the afterlife."
+After {level} levels of unmatched bravery, {name}, the {race_id} {class_id}, has taken their final flight path. May their bags always be spacious and their buffs eternal in the afterlife. Until their last breath they were saying "{last_words}"
 
-"[name], the most charismatic [race_id] [class_id] of level [level], has left us. They are now adventuring in the great raid beyond, forever free from repair bills."
+{name}, the most charismatic {race_id} {class_id} of level {level}, has left us. They are now adventuring in the great raid beyond, forever free from repair bills. Although they were seemingly complaining in their last breath "{last_words}"
 
-"In the epic tales of Azeroth, [name], the level [level] [race_id] [class_id], will always be remembered for their uncanny ability to pull multiple mobs unintentionally and still manage to smile."
+In the epic tales of Azeroth, {name}, the level {level} {race_id} {class_id}, will always be remembered for their uncanny ability to pull multiple mobs unintentionally and still manage to smile and scream "{last_words}" in their dying breath.
 
-"[name], our radiant [race_id] [class_id] of level [level], has bid farewell to our realm. Gone to the great Auction House in the sky, where gold is infinite and bids are always won."
+{name}, our radiant {race_id} {class_id} of level {level}, has bid farewell to our realm. Gone to the great Auction House in the sky, where gold is infinite and bids are always won. Reportedly they were heard saying "{last_words}" at their end.
 
-"Death is but a loading screen for [name], the spirited [race_id] [class_id] who reached level [level]. In their honor, let's take a moment of silence... or a moment of dancing. They'd have liked that."
+Death is but a loading screen for {name}, the spirited {race_id} {class_id} who reached level {level}. In their honor, let's take a moment of silence... or a moment of dancing. They'd have liked that as they said "{last_words}" in their last breath.
 
-"[name] might have left Azeroth at level [level], but their legacy as the finest [race_id] [class_id] remains. They're probably sipping on Moonberry Juice somewhere beyond the stars now."
+{name} might have left Azeroth at level {level}, but their legacy as the finest {race_id} {class_id} remains. They're probably sipping on Moonberry Juice somewhere beyond the stars now. In their last words they wanted Azeroth to know "{last_words}".
 
-"A toast to [name], the [race_id] [class_id] who charmed us all. At level [level], they've hung up their gear, leaving behind tales of legend. May they never encounter a queue in the hereafter."
+A toast to {name}, the {race_id} {class_id} who charmed us all. At level {level}, they've hung up their gear, leaving behind tales of legend. May they never encounter a queue in the hereafter. "{last_words}",
 
-"From the misty coasts of Stranglethorn to the snowy peaks of Dun Morogh, [name], the [race_id] [class_id] of level [level], inspired all. Now they've set off on the grandest quest—into the unknown beyond."
+From the misty coasts of Stranglethorn to the snowy peaks of Dun Morogh, {name}, the {race_id} {class_id} of level {level}, inspired all. Now they've set off on the grandest quest—into the unknown beyond. As their spirit left us it was heard whispering "{last_words}".
 
-"[name], our legendary [race_id] [class_id] who achieved level [level], has left to explore realms even the mightiest adventurers haven't seen. We suspect they're just trying to escape Murlocs."
+{name}, our legendary {race_id} {class_id} who achieved level {level}, has left to explore realms even the mightiest adventurers haven't seen. We suspect they're just trying to escape Murlocs. "{last_words}".
 
-"In the land where epics are earned and not just handed out, [name], the valiant [race_id] [class_id] of level [level], was a true hero. They've now logged out, probably to find better Wi-Fi."
+In the land where epics are earned and not just handed out, {name}, the valiant {race_id} {class_id} of level {level}, was a true hero. They've now logged out, probably to find better Wi-Fi. "{last_words}".
 
-"Here lies [name], the level [level] [race_id] [class_id], who showed us that you could dance through every boss fight and still come out victorious. May their moves stay groovy in eternity."
+Here lies {name}, the level {level} {race_id} {class_id}, who showed us that you could dance through every boss fight and still come out victorious. May their moves stay groovy in eternity. "{last_words}".
 
-"After soloing life's challenges for [level] levels, [name] the [race_id] [class_id] has gone AFK indefinitely. Waiting for that rez... anytime now."
+After soloing life's challenges for {level} levels, {name} the {race_id} {class_id} has gone AFK indefinitely. Waiting for that rez... anytime now. "{last_words}".
 
-"[name], the [race_id] [class_id] who made it to level [level], has left our party. But in the Great Beyond, they've probably already found a better guild."
+{name}, the {race_id} {class_id} who made it to level {level}, has left our party. But in the Great Beyond, they've probably already found a better guild. "{last_words}".
 
-"From world events to holiday festivals, [name] was always there. The level [level] [race_id] [class_id] is now celebrating in the greatest Darkmoon Faire of all time."
+From world events to holiday festivals, {name} was always there. The level {level} {race_id} {class_id} is now celebrating in the greatest Darkmoon Faire of all time. "{last_words}".
 
-"Whether it was crafting, raiding, or just fishing, [name] of level [level] was a [race_id] [class_id] who lived to the fullest. Now, they've set their hearthstone to the stars."
+Whether it was crafting, raiding, or just fishing, {name} of level {level} was a {race_id} {class_id} who lived to the fullest. Now, they've set their hearthstone to the stars. "{last_words}".
 
-"Booty Bay has lost its charm, and the inns seem quieter. [name], our dear level [level] [race_id] [class_id], has embarked on an eternal journey. Rumor has it they're negotiating with the Spirit Healer."
+Booty Bay has lost its charm, and the inns seem quieter. {name}, our dear level {level} {race_id} {class_id}, has embarked on an eternal journey. Rumor has it they're negotiating with the Spirit Healer. "{last_words}".
 
-"Griffins, wyverns, and even the mighty kodos will miss their favorite passenger. [name], the [race_id] [class_id] of level [level], has flown to the great beyond, where mount speed is always 310%."
+Griffins, wyverns, and even the mighty kodos will miss their favorite passenger. {name}, the {race_id} {class_id} of level {level}, has flown to the great beyond, where mount speed is always 310%. "{last_words}".
 
-"When you hear the wind whisper in Ashenvale or the howl of wolves in Duskwood, remember [name], the [race_id] [class_id] of level [level], who now wanders realms unseen."
+When you hear the wind whisper in Ashenvale or the howl of wolves in Duskwood, remember {name}, the {race_id} {class_id} of level {level}, who now wanders realms unseen. "{last_words}".
 
-"[name] didn't need a legendary to be legendary. The spirited [race_id] [class_id] who reached level [level] has now ventured where server downtime is just a myth."
+{name} didn't need a legendary to be legendary. The spirited {race_id} {class_id} who reached level {level} has now ventured where server downtime is just a myth. "{last_words}".
 
-"From countless dungeon runs to epic battleground charges, [name], the indomitable [race_id] [class_id] of level [level], has hung up their boots. They've probably found a peaceful spot in Moonglade by now."
+From countless dungeon runs to epic battleground charges, {name}, the indomitable {race_id} {class_id} of level {level}, has hung up their boots. They've probably found a peaceful spot in Moonglade by now. "{last_words}".
 
-"Here rests [name], who at level [level] showed every [race_id] that being a [class_id] was not just a choice, but an art. They now conjure water and food at a celestial tavern."
+Here rests {name}, who at level {level} showed every {race_id} that being a {class_id} was not just a choice, but an art. They now conjure water and food at a celestial tavern. "{last_words}".
 
-"After [level] levels of endless adventures, [name] the [race_id] [class_id] decided it was time for a permanent hearth. No more durability loss where they're going!"
+After {level} levels of endless adventures, {name} the {race_id} {class_id} decided it was time for a permanent hearth. No more durability loss where they're going! "{last_words}".
 
-"[name], who scaled to level [level] with the heart of a lion and the tenacity of a [race_id] [class_id], has stepped into the shadows. But every time a newbie finds a copper on the road, their spirit lives on."
+{name}, who scaled to level {level} with the heart of a lion and the tenacity of a {race_id} {class_id}, has stepped into the shadows. But every time a newbie finds a copper on the road, their spirit lives on. "{last_words}".
 
-"In life, [name] was not just any [race_id] [class_id]. At level [level], they were a beacon of hope and endless whispers for group invites. Now, they've probably found a raid group with the Ancients."
+In life, {name} was not just any {race_id} {class_id}. At level {level}, they were a beacon of hope and endless whispers for group invites. Now, they've probably found a raid group with the Ancients. "{last_words}".
 
-"World buffs, BiS gear, or the latest enchants—nothing defined [name] more than their unwavering spirit. The level [level] [race_id] [class_id] has now transcended pixels and code."
+World buffs, BiS gear, or the latest enchants—nothing defined {name} more than their unwavering spirit. The level {level} {race_id} {class_id} has now transcended pixels and code. "{last_words}".
 
-"Every time a bell rings in Stormwind or a drum beats in Thunder Bluff, [name], the enchanting [race_id] [class_id] of level [level], is remembered. Gone to a realm where mana never runs out."
+Every time a bell rings in Stormwind or a drum beats in Thunder Bluff, {name}, the enchanting {race_id} {class_id} of level {level}, is remembered. Gone to a realm where mana never runs out. "{last_words}".

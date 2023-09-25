@@ -1,4 +1,5 @@
 import csv
+import re  # Import the regular expression module
 
 # Define the mappings for race_id and class_id
 race_mapping = {
@@ -26,12 +27,8 @@ with open("alliance_master.txt", "r", encoding='utf-8') as master_file:
         character_id = row[0]
         existing_character_ids.add(character_id)
 
-# ... [previous code]
-
 # Process the data from output_alliance.txt and write to alliance_master.txt
-with open("output_alliance.txt", "r", encoding='utf-8') as input_file, open("alliance_master.txt", "a",
-                                                                            encoding='utf-8',
-                                                                            newline='') as master_file:
+with open("output_alliance.txt", "r", encoding='utf-8') as input_file, open("alliance_master.txt", "a", encoding='utf-8', newline='') as master_file:
     reader = csv.reader(input_file)
     writer = csv.writer(master_file)
 
@@ -43,6 +40,9 @@ with open("output_alliance.txt", "r", encoding='utf-8') as input_file, open("all
         character_id, name, race_id, class_id, level = row[:5]
         last_words = ", ".join(row[5:])  # Combine all fields from the sixth onwards
 
+        # Remove {rtX} pattern from last_words
+        last_words = re.sub(r'\{rt\d\}', '', last_words).strip()
+
         # Check if character_id already exists
         if character_id not in existing_character_ids:
             # Transform race_id and class_id
@@ -51,4 +51,3 @@ with open("output_alliance.txt", "r", encoding='utf-8') as input_file, open("all
 
             # Write to alliance_master.txt
             writer.writerow([character_id, name, race, char_class, level, last_words])
-
