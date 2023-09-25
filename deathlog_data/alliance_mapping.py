@@ -26,6 +26,8 @@ with open("alliance_master.txt", "r", encoding='utf-8') as master_file:
         character_id = row[0]
         existing_character_ids.add(character_id)
 
+# ... [previous code]
+
 # Process the data from output_alliance.txt and write to alliance_master.txt
 with open("output_alliance.txt", "r", encoding='utf-8') as input_file, open("alliance_master.txt", "a",
                                                                             encoding='utf-8',
@@ -34,13 +36,19 @@ with open("output_alliance.txt", "r", encoding='utf-8') as input_file, open("all
     writer = csv.writer(master_file)
 
     for row in reader:
-        character_id, name, race_id, class_id, level, last_words = row
+        if len(row) < 6:  # Ensure there are at least 6 fields
+            print(f"Skipped row due to insufficient number of fields: {row}")
+            continue
+
+        character_id, name, race_id, class_id, level = row[:5]
+        last_words = ", ".join(row[5:])  # Combine all fields from the sixth onwards
 
         # Check if character_id already exists
         if character_id not in existing_character_ids:
             # Transform race_id and class_id
-            race = race_mapping.get(race_id, race_id)  # if not found, keep the original id
-            char_class = class_mapping.get(class_id, class_id)  # if not found, keep the original id
+            race = race_mapping.get(race_id, race_id)
+            char_class = class_mapping.get(class_id, class_id)
 
             # Write to alliance_master.txt
             writer.writerow([character_id, name, race, char_class, level, last_words])
+

@@ -25,7 +25,7 @@ Rokovoy-22468,Rokovoy,Human,Hunter,23,ty
 Khaynaah-61997,Khaynaah,Night Elf,Warrior,19,do you need more?
 Nyv-40498,Nyv,Human,Mage,5,lol
 Onlynans-14421,Onlynans,Human,Hunter,20,SALAM ALEYKOm
-Cuêtara-5732,Cuêtara,Gnome,9,7,perso j'vois le niveau de jeu de certain j'ai peur
+Cuêtara-5732,Cuêtara,Gnome,9,7,perso j'vois le niveau de jeu de certain j'ai peur 
 Multicat-6503,Multicat,Night Elf,Mage,56,damn gnolls kept resisting
 Neiya-35873,Neiya,Night Elf,Rogue,11,je savais pas
 Koos-62113,Koos,Gnome,Rogue,3,sry
@@ -43,3 +43,20 @@ Rickardo-48122,Rickardo,Human,Druid,11,hey
 Bootychain-28074,Bootychain,Gnome,Warrior,16,hadnt joined a guild since i died and i thought what better guild to chose than this :D
 Schammigtwo-11338,Schammigtwo,Human,Paladin,36,Yop
 Sibeliuss-40945,Sibeliuss,Gnome,Mage,1,Stay safe
+Sombritas-161,Sombritas,Human,Paladin,60,"package arrived,  brb"
+Rogtech-17557,Rogtech,Human,Paladin,7,oh its from npc
+Fysikk-25423,Fysikk,Human,Rogue,8,can you guys help me kill pricess pls 
+Cirintra-12567,Cirintra,Human,Mage,15,je pull ?
+Wasäbi-32802,Wasäbi,Night Elf,Mage,15,pull back
+Hiroflower-51494,Hiroflower,Night Elf,Rogue,28,np
+Mazetta-49005,Mazetta,Human,Rogue,17,what did you discover?
+Ziepeltriene-34662,Ziepeltriene,Human,Warrior,13,60s-1g if you get lucky I think
+Arwoht-9641,Arwoht,Human,Mage,7,he is completed already
+Enöze-29428,Enöze,Night Elf,Hunter,14,morning!
+Dilerxz-26303,Dilerxz,Human,Warrior,16,"unless for gear,  is it really worth it to run dungs?"
+Wartarion-54201,Wartarion,Dwarf,Warrior,20,Increases movement speed by 10% and all stats by 15% for 2 hours.
+Smørkniven-34054,Smørkniven,Human,9,11,:d
+Thoots-26738,Thoots,Human,Rogue,44,F
+Gnovour-6398,Gnovour,Gnome,Paladin,10,np 
+Teslaengnr-50916,Teslaengnr,Dwarf,Mage,8,idiot
+Minhoxtwo-60263,Minhoxtwo,Gnome,Rogue,30,"thx,  gl"
