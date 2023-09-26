@@ -2210,3 +2210,115 @@ class_id: Rogue
 level: 13
 last_words: nice
 ----------------------------------------
+Player ID: Breadbake-43425
+name: Breadbake
+race_id: Dwarf
+class_id: Priest
+level: 31
+last_words: gg
+----------------------------------------
+Player ID: Hcgaz-14062
+name: Hcgaz
+race_id: Human
+class_id: Rogue
+level: 12
+last_words: Collect 2 Boar Intestines (1/3)
+----------------------------------------
+Player ID: Sêrenity-1819
+name: Sêrenity
+race_id: Night Elf
+class_id: Druid
+level: 38
+last_words: f
+----------------------------------------
+Player ID: Pinoufinou-22576
+name: Pinoufinou
+race_id: Gnome
+class_id: Warlock
+level: 8
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Booz-18855
+name: Booz
+race_id: Gnome
+class_id: Mage
+level: 16
+last_words: stay safe
+----------------------------------------
+Player ID: Avengerwrath-2686
+name: Avengerwrath
+race_id: Dwarf
+class_id: Paladin
+level: 39
+last_words: full run
+----------------------------------------
+Player ID: Elinore-21696
+name: Elinore
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: but mana goes out fast when healing
+----------------------------------------
+Player ID: Crît-39139
+name: Crît
+race_id: Human
+class_id: Rogue
+level: 16
+last_words: ty
+----------------------------------------
+Player ID: Zuliantigerw-3023
+name: Zuliantigerw
+race_id: Dwarf
+class_id: Hunter
+level: 57
+last_words: Hello
+----------------------------------------
+Player ID: Hakuquast-25323
+name: Hakuquast
+race_id: Human
+class_id: Warrior
+level: 17
+last_words: ty bb
+----------------------------------------
+Player ID: Furbolg-12187
+name: Furbolg
+race_id: Human
+class_id: Warrior
+level: 14
+last_words: hey
+----------------------------------------
+Player ID: Babidy-41487
+name: Babidy
+race_id: Gnome
+class_id: Mage
+level: 45
+last_words: y vais a lvl 1
+----------------------------------------
+Player ID: Burbb-28962
+name: Burbb
+race_id: Dwarf
+class_id: Priest
+level: 18
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Yolcina-24020
+name: Yolcina
+race_id: Night Elf
+class_id: Druid
+level: 27
+last_words: Fremal Doohickey
+----------------------------------------
+Player ID: Asuffel-45499
+name: Asuffel
+race_id: Human
+class_id: Paladin
+level: 22
+last_words: F
+----------------------------------------
+Player ID: Nightwar-17163
+name: Nightwar
+race_id: Night Elf
+class_id: Warrior
+level: 23
+last_words: 
+----------------------------------------
