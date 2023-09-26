@@ -1,6 +1,6 @@
 import os
 import random
-
+import datetime
 
 def read_players_data(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -50,7 +50,7 @@ def generate_obituaries(template_path, players):
     return obituaries
 
 
-def write_obituaries_to_files(obituaries, players):
+def write_obituaries_to_files(obituaries, players, log_file_path="player_log.txt"):
     directory = "alliance_obits"
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -58,10 +58,24 @@ def write_obituaries_to_files(obituaries, players):
     for obit, player in zip(obituaries, players):
         filename = os.path.join(directory, f"{player['Player ID']}.txt")
 
-        if not os.path.exists(filename):
+        if not os.path.exists(filename):  # Only for new players
             with open(filename, 'w', encoding='utf-8') as file:
                 file.write(obit)
 
+            # Update the log file right here for this specific player
+            update_log_file(player, log_file_path)
+
+def update_log_file(player, log_file_path):
+    with open(log_file_path, 'a', encoding='utf-8') as file:
+        entry_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        player_id = player.get('Player ID', 'Unknown')
+        name = player.get('name', 'Unknown')
+        level = player.get('level', 'Unknown')
+        race = player.get('race', 'Unknown')
+        class_id = player.get('class', 'Unknown')
+
+        log_entry = f"{entry_time} - ID: {player_id}, Name: {name}, Level: {level}, Race: {race}, Class: {class_id}\n"
+        file.write(log_entry)
 
 if __name__ == "__main__":
     players_data_path = "alliance/master_alliance.txt"
