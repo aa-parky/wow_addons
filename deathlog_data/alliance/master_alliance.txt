@@ -2469,3 +2469,24 @@ class_id: Hunter
 level: 17
 last_words: ty
 ----------------------------------------
+Player ID: Aergodar-31767
+name: Aergodar
+race_id: Human
+class_id: Paladin
+level: 43
+last_words: you 4?
+----------------------------------------
+Player ID: Tagalop-38651
+name: Tagalop
+race_id: Dwarf
+class_id: Warrior
+level: 13
+last_words: killing troggs
+----------------------------------------
+Player ID: Chabite-49394
+name: Chabite
+race_id: Night Elf
+class_id: Druid
+level: 17
+last_words: sorry
+----------------------------------------
