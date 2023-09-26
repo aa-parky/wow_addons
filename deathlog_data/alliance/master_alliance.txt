@@ -2056,3 +2056,136 @@ class_id: Priest
 level: 24
 last_words: you too, bye !
 ----------------------------------------
+Player ID: Ermeline-39971
+name: Ermeline
+race_id: Night Elf
+class_id: Hunter
+level: 26
+last_words: bye all
+----------------------------------------
+Player ID: Adventuremag-8573
+name: Adventuremag
+race_id: Gnome
+class_id: Mage
+level: 7
+last_words: NP
+----------------------------------------
+Player ID: Pavlichenko-45513
+name: Pavlichenko
+race_id: Dwarf
+class_id: Hunter
+level: 25
+last_words: DPS is the most important in low lvl
+----------------------------------------
+Player ID: Madrane-13035
+name: Madrane
+race_id: Night Elf
+class_id: Hunter
+level: 16
+last_words: THX
+----------------------------------------
+Player ID: Jbjj-16255
+name: Jbjj
+race_id: Human
+class_id: Warrior
+level: 26
+last_words: lol
+----------------------------------------
+Player ID: Blizkillme-46561
+name: Blizkillme
+race_id: Human
+class_id: Warrior
+level: 18
+last_words: starter zones are no match for me
+----------------------------------------
+Player ID: Selirum-18287
+name: Selirum
+race_id: Human
+class_id: Paladin
+level: 31
+last_words: helpüßs
+----------------------------------------
+Player ID: Masper-30857
+name: Masper
+race_id: Human
+class_id: Paladin
+level: 15
+last_words: Heyoo
+----------------------------------------
+Player ID: Obscuritas-6483
+name: Obscuritas
+race_id: Gnome
+class_id: Warlock
+level: 41
+last_words: then fozruk
+----------------------------------------
+Player ID: Maginot-5708
+name: Maginot
+race_id: Dwarf
+class_id: Paladin
+level: 25
+last_words: paladin's pet
+----------------------------------------
+Player ID: Ilsalund-32326
+name: Ilsalund
+race_id: Gnome
+class_id: Mage
+level: 19
+last_words: u2
+----------------------------------------
+Player ID: Herkáskanál-49444
+name: Herkáskanál
+race_id: Gnome
+class_id: Rogue
+level: 16
+last_words: 1
+----------------------------------------
+Player ID: Slushyturdle-34028
+name: Slushyturdle
+race_id: Dwarf
+class_id: Priest
+level: 44
+last_words: remember im still 44
+----------------------------------------
+Player ID: Áìà-17750
+name: Áìà
+race_id: Human
+class_id: Warrior
+level: 36
+last_words: during that time i need to loot some items
+----------------------------------------
+Player ID: Mixéry-56115
+name: Mixéry
+race_id: Gnome
+class_id: Mage
+level: 6
+last_words: hey
+----------------------------------------
+Player ID: Hellydess-38541
+name: Hellydess
+race_id: Human
+class_id: Warrior
+level: 53
+last_words: Loving ewvery minute of em too
+----------------------------------------
+Player ID: Resus-10340
+name: Resus
+race_id: Gnome
+class_id: Mage
+level: 26
+last_words: plus de HP
+----------------------------------------
+Player ID: Merlingf-28714
+name: Merlingf
+race_id: Gnome
+class_id: Mage
+level: 20
+last_words: 
+----------------------------------------
+Player ID: Nyrdalinho-1355
+name: Nyrdalinho
+race_id: Human
+class_id: Rogue
+level: 13
+last_words: tnx
+----------------------------------------
