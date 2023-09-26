@@ -354,3 +354,14 @@
 2023-09-26 12:16:44 - ID: Aergodar-31767, Name: Aergodar, Level: 43
 2023-09-26 12:16:44 - ID: Tagalop-38651, Name: Tagalop, Level: 13
 2023-09-26 12:16:44 - ID: Chabite-49394, Name: Chabite, Level: 17
+2023-09-26 12:31:41 - ID: Psychedelic-24123, Name: Psychedelic, Level: 29
+2023-09-26 12:31:41 - ID: Fudgedheals-16169, Name: Fudgedheals, Level: 8
+2023-09-26 12:31:41 - ID: Sowoph-44570, Name: Sowoph, Level: 13
+2023-09-26 12:31:41 - ID: Gyökér-45148, Name: Gyökér, Level: 9
+2023-09-26 12:31:41 - ID: Ahrîman-57750, Name: Ahrîman, Level: 60
+2023-09-26 12:31:41 - ID: Klayjaw-52559, Name: Klayjaw, Level: 13
+2023-09-26 12:31:41 - ID: Prdeekii-13009, Name: Prdeekii, Level: 15
+2023-09-26 12:31:41 - ID: Therabbit-37014, Name: Therabbit, Level: 8
+2023-09-26 12:31:41 - ID: Tankatronic-8491, Name: Tankatronic, Level: 24
+2023-09-26 12:31:41 - ID: Owlmard-52296, Name: Owlmard, Level: 21
+2023-09-26 12:31:41 - ID: Skynéz-7247, Name: Skynéz, Level: 11

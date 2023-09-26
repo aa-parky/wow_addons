@@ -2490,3 +2490,80 @@ class_id: Druid
 level: 17
 last_words: sorry
 ----------------------------------------
+Player ID: Psychedelic-24123
+name: Psychedelic
+race_id: Night Elf
+class_id: Warrior
+level: 29
+last_words: heyho
+----------------------------------------
+Player ID: Fudgedheals-16169
+name: Fudgedheals
+race_id: Human
+class_id: Priest
+level: 8
+last_words: mr warlock
+----------------------------------------
+Player ID: Sowoph-44570
+name: Sowoph
+race_id: Human
+class_id: Mage
+level: 13
+last_words: RIPBOZO
+----------------------------------------
+Player ID: Gyökér-45148
+name: Gyökér
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: nice
+----------------------------------------
+Player ID: Ahrîman-57750
+name: Ahrîman
+race_id: Gnome
+class_id: Mage
+level: 60
+last_words: Klingt nach jemanden der früher nen Pala Main hatte xD
+----------------------------------------
+Player ID: Klayjaw-52559
+name: Klayjaw
+race_id: Human
+class_id: Warrior
+level: 13
+last_words: Hello
+----------------------------------------
+Player ID: Prdeekii-13009
+name: Prdeekii
+race_id: Night Elf
+class_id: Druid
+level: 15
+last_words: omw there
+----------------------------------------
+Player ID: Therabbit-37014
+name: Therabbit
+race_id: Gnome
+class_id: Warlock
+level: 8
+last_words: ty
+----------------------------------------
+Player ID: Tankatronic-8491
+name: Tankatronic
+race_id: Human
+class_id: Warrior
+level: 24
+last_words: 5 MOBS! |cffffffff|Hitem
+----------------------------------------
+Player ID: Owlmard-52296
+name: Owlmard
+race_id: Night Elf
+class_id: Druid
+level: 21
+last_words: ty
+----------------------------------------
+Player ID: Skynéz-7247
+name: Skynéz
+race_id: Human
+class_id: Paladin
+level: 11
+last_words: ty
+----------------------------------------
