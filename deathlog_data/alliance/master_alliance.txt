@@ -2196,3 +2196,17 @@ class_id: Rogue
 level: 25
 last_words: dude
 ----------------------------------------
+Player ID: Kleineropa-3342
+name: Kleineropa
+race_id: Gnome
+class_id: Mage
+level: 9
+last_words: be carefull
+----------------------------------------
+Player ID: Calrouge-41439
+name: Calrouge
+race_id: Human
+class_id: Rogue
+level: 13
+last_words: nice
+----------------------------------------

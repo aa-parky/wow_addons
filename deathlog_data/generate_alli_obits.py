@@ -71,10 +71,8 @@ def update_log_file(player, log_file_path):
         player_id = player.get('Player ID', 'Unknown')
         name = player.get('name', 'Unknown')
         level = player.get('level', 'Unknown')
-        race = player.get('race', 'Unknown')
-        class_id = player.get('class', 'Unknown')
 
-        log_entry = f"{entry_time} - ID: {player_id}, Name: {name}, Level: {level}, Race: {race}, Class: {class_id}\n"
+        log_entry = f"{entry_time} - ID: {player_id}, Name: {name}, Level: {level}\n"
         file.write(log_entry)
 
 if __name__ == "__main__":
