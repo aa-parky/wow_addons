@@ -605,3 +605,15 @@
 2023-09-26 21:01:41 - ID: Morí-52722, Name: Morí, Level: 25
 2023-09-26 21:01:41 - ID: Xylophonist-21737, Name: Xylophonist, Level: 17
 2023-09-26 21:01:41 - ID: Kwv-30014, Name: Kwv, Level: 19
+2023-09-26 21:29:33 - ID: Goebbelii-49941, Name: Goebbelii, Level: 1
+2023-09-26 21:29:33 - ID: Dainy-2699, Name: Dainy, Level: 57
+2023-09-26 21:29:33 - ID: Maydaymayday-57778, Name: Maydaymayday, Level: 14
+2023-09-26 21:29:33 - ID: Vash-47505, Name: Vash, Level: 9
+2023-09-26 21:29:33 - ID: 無痛-12635, Name: 無痛, Level: 22
+2023-09-26 21:29:33 - ID: Flýññ-6320, Name: Flýññ, Level: 16
+2023-09-26 21:29:33 - ID: Gigawarr-15464, Name: Gigawarr, Level: 25
+2023-09-26 21:29:33 - ID: Peinlich-28417, Name: Peinlich, Level: 13
+2023-09-26 21:29:33 - ID: Lacrymogene-7998, Name: Lacrymogene, Level: 23
+2023-09-26 21:29:33 - ID: Slan-22964, Name: Slan, Level: 8
+2023-09-26 21:29:33 - ID: Bigberth-48479, Name: Bigberth, Level: 28
+2023-09-26 21:29:33 - ID: Pyhälohi-45850, Name: Pyhälohi, Level: 59

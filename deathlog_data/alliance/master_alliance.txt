@@ -4247,3 +4247,87 @@ class_id: Priest
 level: 19
 last_words: thx
 ----------------------------------------
+Player ID: Goebbelii-49941
+name: Goebbelii
+race_id: Human
+class_id: Rogue
+level: 1
+last_words: darm ist gleich leer
+----------------------------------------
+Player ID: Dainy-2699
+name: Dainy
+race_id: Human
+class_id: Warrior
+level: 57
+last_words: twice today
+----------------------------------------
+Player ID: Maydaymayday-57778
+name: Maydaymayday
+race_id: Night Elf
+class_id: Warrior
+level: 14
+last_words: o7, i actually died earlier was just seeing how far out to sea the wisp would go
+----------------------------------------
+Player ID: Vash-47505
+name: Vash
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: 無痛-12635
+name: 無痛
+race_id: Human
+class_id: Paladin
+level: 22
+last_words: ok
+----------------------------------------
+Player ID: Flýññ-6320
+name: Flýññ
+race_id: Human
+class_id: Mage
+level: 16
+last_words: ty
+----------------------------------------
+Player ID: Gigawarr-15464
+name: Gigawarr
+race_id: Human
+class_id: Warrior
+level: 25
+last_words: ty
+----------------------------------------
+Player ID: Peinlich-28417
+name: Peinlich
+race_id: Dwarf
+class_id: Priest
+level: 13
+last_words: shamans?
+----------------------------------------
+Player ID: Lacrymogene-7998
+name: Lacrymogene
+race_id: Human
+class_id: Warrior
+level: 23
+last_words: SSSSSSSSSSUUUUUUUUUUIIIIIIIIIIIIIIIIIIIIIIIIIII
+----------------------------------------
+Player ID: Slan-22964
+name: Slan
+race_id: Night Elf
+class_id: Druid
+level: 8
+last_words: ja
+----------------------------------------
+Player ID: Bigberth-48479
+name: Bigberth
+race_id: Gnome
+class_id: Warrior
+level: 28
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Pyhälohi-45850
+name: Pyhälohi
+race_id: Human
+class_id: Paladin
+level: 59
+last_words: FFFFFFFFFFFFFFFFFFFFFFF
+----------------------------------------
