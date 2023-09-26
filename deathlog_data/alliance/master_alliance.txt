@@ -2322,3 +2322,10 @@ class_id: Warrior
 level: 23
 last_words: 
 ----------------------------------------
+Player ID: Dinkelbrot-42320
+name: Dinkelbrot
+race_id: Night Elf
+class_id: Priest
+level: 2
+last_words: danke xD
+----------------------------------------

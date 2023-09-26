@@ -330,3 +330,4 @@
 2023-09-26 11:03:51 - ID: Yolcina-24020, Name: Yolcina, Level: 27
 2023-09-26 11:03:51 - ID: Asuffel-45499, Name: Asuffel, Level: 22
 2023-09-26 11:03:51 - ID: Nightwar-17163, Name: Nightwar, Level: 23
+2023-09-26 11:14:47 - ID: Dinkelbrot-42320, Name: Dinkelbrot, Level: 2
