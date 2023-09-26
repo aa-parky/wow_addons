@@ -3568,3 +3568,108 @@ class_id: Warrior
 level: 12
 last_words: ???
 ----------------------------------------
+Player ID: Perrun-47226
+name: Perrun
+race_id: Human
+class_id: Paladin
+level: 11
+last_words: np
+----------------------------------------
+Player ID: Moresmash-6472
+name: Moresmash
+race_id: Human
+class_id: Warrior
+level: 16
+last_words: im a solo chad
+----------------------------------------
+Player ID: Demoaa-34154
+name: Demoaa
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: sad me
+----------------------------------------
+Player ID: Priesterlein-29973
+name: Priesterlein
+race_id: Dwarf
+class_id: Priest
+level: 19
+last_words: huhu
+----------------------------------------
+Player ID: Magesephh-2247
+name: Magesephh
+race_id: Human
+class_id: Mage
+level: 15
+last_words: tyty
+----------------------------------------
+Player ID: Battleheart-7029
+name: Battleheart
+race_id: Dwarf
+class_id: Warrior
+level: 22
+last_words: not good
+----------------------------------------
+Player ID: Pzx-47168
+name: Pzx
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: shout
+----------------------------------------
+Player ID: Xrxrxrxrxr-12334
+name: Xrxrxrxrxr
+race_id: Human
+class_id: Mage
+level: 17
+last_words: ty
+----------------------------------------
+Player ID: Dorito-25238
+name: Dorito
+race_id: Dwarf
+class_id: Warrior
+level: 14
+last_words: ok
+----------------------------------------
+Player ID: Islandiaá-49826
+name: Islandiaá
+race_id: Human
+class_id: Rogue
+level: 17
+last_words: buffpls
+----------------------------------------
+Player ID: Chakalinho-51498
+name: Chakalinho
+race_id: Night Elf
+class_id: Hunter
+level: 14
+last_words: np
+----------------------------------------
+Player ID: Fajkus-35133
+name: Fajkus
+race_id: Human
+class_id: Warrior
+level: 7
+last_words: 3 HP
+----------------------------------------
+Player ID: Varsko-48759
+name: Varsko
+race_id: Night Elf
+class_id: Hunter
+level: 9
+last_words: ty
+----------------------------------------
+Player ID: Trustbear-30398
+name: Trustbear
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: inv
+----------------------------------------
+Player ID: Ralaiz-9027
+name: Ralaiz
+race_id: Human
+class_id: Paladin
+level: 41
+last_words: {rt3} RestedXP Guides
+----------------------------------------
