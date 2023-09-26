@@ -2826,3 +2826,479 @@ class_id: Rogue
 level: 18
 last_words: help quest
 ----------------------------------------
+Player ID: Rålan-58093
+name: Rålan
+race_id: Human
+class_id: Warrior
+level: 14
+last_words: go for it
+----------------------------------------
+Player ID: Finnix-37686
+name: Finnix
+race_id: Night Elf
+class_id: Hunter
+level: 35
+last_words: Hola !
+----------------------------------------
+Player ID: Tardzten-80
+name: Tardzten
+race_id: Dwarf
+class_id: Hunter
+level: 6
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Rimiio-56666
+name: Rimiio
+race_id: Dwarf
+class_id: Priest
+level: 10
+last_words: Hello
+----------------------------------------
+Player ID: Morzh-3946
+name: Morzh
+race_id: Dwarf
+class_id: Priest
+level: 25
+last_words: ^^
+----------------------------------------
+Player ID: Cannabi-14838
+name: Cannabi
+race_id: Night Elf
+class_id: Druid
+level: 11
+last_words: thx
+----------------------------------------
+Player ID: Odena-30980
+name: Odena
+race_id: Human
+class_id: Warrior
+level: 10
+last_words: you can swap it to free for all loot as i have all the armbands i need
+----------------------------------------
+Player ID: Tackyy-7134
+name: Tackyy
+race_id: Dwarf
+class_id: Paladin
+level: 14
+last_words: close one
+----------------------------------------
+Player ID: Gâbbagandâlf-39631
+name: Gâbbagandâlf
+race_id: Night Elf
+class_id: Druid
+level: 20
+last_words: inv
+----------------------------------------
+Player ID: Popular-43480
+name: Popular
+race_id: Dwarf
+class_id: Hunter
+level: 26
+last_words: ty both
+----------------------------------------
+Player ID: Dcdeath-38019
+name: Dcdeath
+race_id: Night Elf
+class_id: Druid
+level: 32
+last_words: u wanna join'?
+----------------------------------------
+Player ID: Alchibron-43134
+name: Alchibron
+race_id: Gnome
+class_id: Warlock
+level: 4
+last_words: hi
+----------------------------------------
+Player ID: Schrumms-16485
+name: Schrumms
+race_id: Night Elf
+class_id: Warrior
+level: 6
+last_words: <3
+----------------------------------------
+Player ID: Jillediesel-50143
+name: Jillediesel
+race_id: Night Elf
+class_id: Druid
+level: 35
+last_words: ty
+----------------------------------------
+Player ID: Swincan-25048
+name: Swincan
+race_id: Human
+class_id: Warrior
+level: 14
+last_words: 
+----------------------------------------
+Player ID: Hunkuspocus-43385
+name: Hunkuspocus
+race_id: Gnome
+class_id: Mage
+level: 60
+last_words: always forget about it
+----------------------------------------
+Player ID: Mewii-16301
+name: Mewii
+race_id: Gnome
+class_id: Mage
+level: 26
+last_words: says you arent eligible
+----------------------------------------
+Player ID: Bowlcutpat-16636
+name: Bowlcutpat
+race_id: Dwarf
+class_id: Priest
+level: 60
+last_words: well 3 guldies, not gonna leave then
+----------------------------------------
+Player ID: Underthesea-2077
+name: Underthesea
+race_id: Human
+class_id: Warrior
+level: 6
+last_words: Yo
+----------------------------------------
+Player ID: Renieuwër-60522
+name: Renieuwër
+race_id: Gnome
+class_id: Mage
+level: 16
+last_words: not enough respawn xD
+----------------------------------------
+Player ID: Azzeman-40031
+name: Azzeman
+race_id: Human
+class_id: Warrior
+level: 44
+last_words: cant
+----------------------------------------
+Player ID: Nfan-39239
+name: Nfan
+race_id: Human
+class_id: Warlock
+level: 13
+last_words: ty
+----------------------------------------
+Player ID: Floppafourth-54883
+name: Floppafourth
+race_id: Human
+class_id: Priest
+level: 15
+last_words: F
+----------------------------------------
+Player ID: Allisia-55933
+name: Allisia
+race_id: Human
+class_id: Paladin
+level: 26
+last_words: inv
+----------------------------------------
+Player ID: Cranedobus-18628
+name: Cranedobus
+race_id: Human
+class_id: Warrior
+level: 55
+last_words: fais pas le fou
+----------------------------------------
+Player ID: Ziidus-51051
+name: Ziidus
+race_id: Night Elf
+class_id: Warrior
+level: 17
+last_words: ty
+----------------------------------------
+Player ID: Elyxtwo-51669
+name: Elyxtwo
+race_id: Gnome
+class_id: Mage
+level: 15
+last_words: les 15 15 ?
+----------------------------------------
+Player ID: Bamihir-5154
+name: Bamihir
+race_id: Gnome
+class_id: Mage
+level: 16
+last_words: but got enough thx
+----------------------------------------
+Player ID: Troudeballe-50083
+name: Troudeballe
+race_id: Dwarf
+class_id: Hunter
+level: 16
+last_words: ty
+----------------------------------------
+Player ID: Tykokot-48953
+name: Tykokot
+race_id: Human
+class_id: Paladin
+level: 16
+last_words: party   ?
+----------------------------------------
+Player ID: Krensas-46854
+name: Krensas
+race_id: Human
+class_id: Warrior
+level: 24
+last_words: giv me quest
+----------------------------------------
+Player ID: Эльминстер-52780
+name: Эльминстер
+race_id: Gnome
+class_id: Mage
+level: 15
+last_words: это ж старинный прикол ваниллы, застрать кому-то почту потом тролля
+----------------------------------------
+Player ID: Ferrocarril-52942
+name: Ferrocarril
+race_id: Human
+class_id: Paladin
+level: 7
+last_words: igual la de comprarme unas manos no va de mas
+----------------------------------------
+Player ID: Jehsus-57195
+name: Jehsus
+race_id: Dwarf
+class_id: Priest
+level: 15
+last_words: cyaaa
+----------------------------------------
+Player ID: Furya-33474
+name: Furya
+race_id: Night Elf
+class_id: Druid
+level: 29
+last_words: sheep square
+----------------------------------------
+Player ID: Elinore-19648
+name: Elinore
+race_id: Dwarf
+class_id: Hunter
+level: 7
+last_words: hey hey
+----------------------------------------
+Player ID: Jimisahobbit-34067
+name: Jimisahobbit
+race_id: Dwarf
+class_id: Priest
+level: 10
+last_words: they in a better place now
+----------------------------------------
+Player ID: Софалох-4828
+name: Софалох
+race_id: Gnome
+class_id: Rogue
+level: 1
+last_words: го контент
+----------------------------------------
+Player ID: Nicecoc-39403
+name: Nicecoc
+race_id: Human
+class_id: Mage
+level: 31
+last_words: gzgz
+----------------------------------------
+Player ID: Freax-29626
+name: Freax
+race_id: Dwarf
+class_id: Priest
+level: 29
+last_words: take care
+----------------------------------------
+Player ID: Fornes-57150
+name: Fornes
+race_id: Human
+class_id: Rogue
+level: 5
+last_words: |cff0070dd|Hitem
+----------------------------------------
+Player ID: Abler-57290
+name: Abler
+race_id: Gnome
+class_id: Mage
+level: 26
+last_words: F
+----------------------------------------
+Player ID: Holtrax-40216
+name: Holtrax
+race_id: Gnome
+class_id: Mage
+level: 14
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Äokiji-8589
+name: Äokiji
+race_id: Gnome
+class_id: Mage
+level: 11
+last_words: inv
+----------------------------------------
+Player ID: Géngar-45048
+name: Géngar
+race_id: Human
+class_id: Priest
+level: 12
+last_words: np xd
+----------------------------------------
+Player ID: Proplaztwo-39184
+name: Proplaztwo
+race_id: Dwarf
+class_id: Hunter
+level: 5
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Oldfuk-23902
+name: Oldfuk
+race_id: Night Elf
+class_id: Druid
+level: 21
+last_words: i have
+----------------------------------------
+Player ID: Megamale-36356
+name: Megamale
+race_id: Human
+class_id: Paladin
+level: 10
+last_words: inv
+----------------------------------------
+Player ID: Voidlols-40209
+name: Voidlols
+race_id: Human
+class_id: Warrior
+level: 12
+last_words: ty
+----------------------------------------
+Player ID: Kwiatjabloni-61692
+name: Kwiatjabloni
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: hey all! dzien dobry ^)
+----------------------------------------
+Player ID: Szörpapa-4746
+name: Szörpapa
+race_id: Dwarf
+class_id: Paladin
+level: 11
+last_words: np
+----------------------------------------
+Player ID: Coldache-37377
+name: Coldache
+race_id: Night Elf
+class_id: Hunter
+level: 43
+last_words: lol
+----------------------------------------
+Player ID: Lilskimal-64827
+name: Lilskimal
+race_id: Gnome
+class_id: Rogue
+level: 7
+last_words: ty
+----------------------------------------
+Player ID: Nadabear-29650
+name: Nadabear
+race_id: Night Elf
+class_id: Druid
+level: 10
+last_words: GL
+----------------------------------------
+Player ID: Mahdude-11451
+name: Mahdude
+race_id: Gnome
+class_id: Mage
+level: 20
+last_words: Ya
+----------------------------------------
+Player ID: Bofid-8436
+name: Bofid
+race_id: Night Elf
+class_id: Druid
+level: 8
+last_words: vagyok csak tel
+----------------------------------------
+Player ID: Md-25597
+name: Md
+race_id: Gnome
+class_id: Mage
+level: 55
+last_words: tyty
+----------------------------------------
+Player ID: Tjilas-4826
+name: Tjilas
+race_id: Gnome
+class_id: Rogue
+level: 6
+last_words: what is this guild name
+----------------------------------------
+Player ID: Chillibeef-36900
+name: Chillibeef
+race_id: Night Elf
+class_id: Rogue
+level: 20
+last_words: messenger?
+----------------------------------------
+Player ID: Mimitoss-16311
+name: Mimitoss
+race_id: Dwarf
+class_id: Priest
+level: 43
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Bergotaz-8749
+name: Bergotaz
+race_id: Human
+class_id: Mage
+level: 23
+last_words: gl
+----------------------------------------
+Player ID: Jhystia-57605
+name: Jhystia
+race_id: Gnome
+class_id: Mage
+level: 25
+last_words: F
+----------------------------------------
+Player ID: Frostpinni-34324
+name: Frostpinni
+race_id: Gnome
+class_id: Mage
+level: 18
+last_words: ding 18
+----------------------------------------
+Player ID: Gnomehables-28058
+name: Gnomehables
+race_id: Gnome
+class_id: Warlock
+level: 43
+last_words: inv layer pls
+----------------------------------------
+Player ID: Blaahi-57922
+name: Blaahi
+race_id: Dwarf
+class_id: Priest
+level: 7
+last_words: uno mas
+----------------------------------------
+Player ID: Grandmarquis-5549
+name: Grandmarquis
+race_id: Night Elf
+class_id: Druid
+level: 24
+last_words: oh yeah
+----------------------------------------
+Player ID: Leidernein-16276
+name: Leidernein
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: ty
+----------------------------------------
+Player ID: Sangfugl-34406
+name: Sangfugl
+race_id: Night Elf
+class_id: Warrior
+level: 30
+last_words: good luck
+----------------------------------------
