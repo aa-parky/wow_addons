@@ -4485,3 +4485,45 @@ class_id: Warrior
 level: 6
 last_words: fuc kme
 ----------------------------------------
+Player ID: Flaria-24936
+name: Flaria
+race_id: Gnome
+class_id: Mage
+level: 40
+last_words: ciao ciao
+----------------------------------------
+Player ID: Balpraxx-8002
+name: Balpraxx
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: what you guys waiting for ?
+----------------------------------------
+Player ID: Trailerswift-2267
+name: Trailerswift
+race_id: Human
+class_id: Mage
+level: 7
+last_words: y
+----------------------------------------
+Player ID: Wâsted-19517
+name: Wâsted
+race_id: Human
+class_id: Paladin
+level: 7
+last_words: ty
+----------------------------------------
+Player ID: Persoo-24619
+name: Persoo
+race_id: Gnome
+class_id: Rogue
+level: 50
+last_words: adad
+----------------------------------------
+Player ID: Boogye-62305
+name: Boogye
+race_id: Human
+class_id: Rogue
+level: 20
+last_words: ty
+----------------------------------------

@@ -639,3 +639,9 @@
 2023-09-26 21:53:54 - ID: Roburg-38217, Name: Roburg, Level: 14
 2023-09-26 21:53:54 - ID: Kwv-27964, Name: Kwv, Level: 7
 2023-09-26 21:53:54 - ID: Etopp-11, Name: Etopp, Level: 6
+2023-09-26 22:00:40 - ID: Flaria-24936, Name: Flaria, Level: 40
+2023-09-26 22:00:40 - ID: Balpraxx-8002, Name: Balpraxx, Level: 15
+2023-09-26 22:00:40 - ID: Trailerswift-2267, Name: Trailerswift, Level: 7
+2023-09-26 22:00:40 - ID: Wâsted-19517, Name: Wâsted, Level: 7
+2023-09-26 22:00:40 - ID: Persoo-24619, Name: Persoo, Level: 50
+2023-09-26 22:00:40 - ID: Boogye-62305, Name: Boogye, Level: 20
