@@ -5,4 +5,5 @@
 5, Priest
 7, Shaman
 8, Mage
+9, Warlock
 11, Druid
