@@ -4331,3 +4331,157 @@ class_id: Paladin
 level: 59
 last_words: FFFFFFFFFFFFFFFFFFFFFFF
 ----------------------------------------
+Player ID: Aarmage-56305
+name: Aarmage
+race_id: Gnome
+class_id: Mage
+level: 15
+last_words: its after u get the horseshoes in goldshire
+----------------------------------------
+Player ID: Unduuhcc-54377
+name: Unduuhcc
+race_id: Dwarf
+class_id: Priest
+level: 29
+last_words: |cff0070dd|Hitem
+----------------------------------------
+Player ID: Cukorapuci-25618
+name: Cukorapuci
+race_id: Night Elf
+class_id: Warrior
+level: 16
+last_words: valaki beinvel layer miatt ?
+----------------------------------------
+Player ID: Ekkee-24726
+name: Ekkee
+race_id: Human
+class_id: Rogue
+level: 55
+last_words: aha
+----------------------------------------
+Player ID: Stepmomm-41066
+name: Stepmomm
+race_id: Dwarf
+class_id: Priest
+level: 21
+last_words: ty
+----------------------------------------
+Player ID: Natureuschi-30652
+name: Natureuschi
+race_id: Night Elf
+class_id: Druid
+level: 27
+last_words: good question
+----------------------------------------
+Player ID: Radytzu-7210
+name: Radytzu
+race_id: Dwarf
+class_id: Paladin
+level: 22
+last_words: plz
+----------------------------------------
+Player ID: Ashalala-44964
+name: Ashalala
+race_id: Night Elf
+class_id: Druid
+level: 17
+last_words: bb
+----------------------------------------
+Player ID: Grethild-55007
+name: Grethild
+race_id: Human
+class_id: Priest
+level: 16
+last_words: ty
+----------------------------------------
+Player ID: Lorettaa-47173
+name: Lorettaa
+race_id: Night Elf
+class_id: Hunter
+level: 16
+last_words: o_O
+----------------------------------------
+Player ID: Krammerius-2811
+name: Krammerius
+race_id: Night Elf
+class_id: Hunter
+level: 17
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Aurvandil-50815
+name: Aurvandil
+race_id: Night Elf
+class_id: Druid
+level: 36
+last_words: áhh
+----------------------------------------
+Player ID: Jamboi-60373
+name: Jamboi
+race_id: Human
+class_id: Warrior
+level: 27
+last_words: just take this
+----------------------------------------
+Player ID: Balior-2077
+name: Balior
+race_id: Human
+class_id: Warrior
+level: 12
+last_words: rdy?
+----------------------------------------
+Player ID: Mallune-48128
+name: Mallune
+race_id: Night Elf
+class_id: Druid
+level: 10
+last_words: you can use 2 handed swords?
+----------------------------------------
+Player ID: Fourly-47659
+name: Fourly
+race_id: Night Elf
+class_id: Druid
+level: 17
+last_words: why they allow no kokaine?
+----------------------------------------
+Player ID: Kittuwu-65021
+name: Kittuwu
+race_id: Night Elf
+class_id: Hunter
+level: 9
+last_words: REKT
+----------------------------------------
+Player ID: Xiga-45617
+name: Xiga
+race_id: Human
+class_id: Rogue
+level: 43
+last_words: i know
+----------------------------------------
+Player ID: Elesara-30721
+name: Elesara
+race_id: Human
+class_id: Warrior
+level: 49
+last_words: can i get a port to if pls
+----------------------------------------
+Player ID: Roburg-38217
+name: Roburg
+race_id: Dwarf
+class_id: Paladin
+level: 14
+last_words: F
+----------------------------------------
+Player ID: Kwv-27964
+name: Kwv
+race_id: Dwarf
+class_id: Hunter
+level: 7
+last_words: pussymode
+----------------------------------------
+Player ID: Etopp-11
+name: Etopp
+race_id: Dwarf
+class_id: Warrior
+level: 6
+last_words: fuc kme
+----------------------------------------
