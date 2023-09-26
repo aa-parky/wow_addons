@@ -3918,3 +3918,332 @@ class_id: Paladin
 level: 32
 last_words: i need 1
 ----------------------------------------
+Player ID: Rhagnark-47876
+name: Rhagnark
+race_id: Human
+class_id: Warrior
+level: 6
+last_words: ty
+----------------------------------------
+Player ID: Jinxqa-17512
+name: Jinxqa
+race_id: Human
+class_id: Warlock
+level: 13
+last_words: ty
+----------------------------------------
+Player ID: Cráckhead-32276
+name: Cráckhead
+race_id: Gnome
+class_id: Rogue
+level: 22
+last_words: tyty
+----------------------------------------
+Player ID: Vaelyth-35560
+name: Vaelyth
+race_id: Human
+class_id: Priest
+level: 19
+last_words: care
+----------------------------------------
+Player ID: Deani-10614
+name: Deani
+race_id: Gnome
+class_id: Warrior
+level: 5
+last_words: inv
+----------------------------------------
+Player ID: Clèm-51690
+name: Clèm
+race_id: Night Elf
+class_id: Hunter
+level: 9
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Leekaí-22694
+name: Leekaí
+race_id: Human
+class_id: Paladin
+level: 14
+last_words: take it easy
+----------------------------------------
+Player ID: Пуговка-40521
+name: Пуговка
+race_id: Gnome
+class_id: Warlock
+level: 18
+last_words: im done
+----------------------------------------
+Player ID: Daraphyna-49251
+name: Daraphyna
+race_id: Human
+class_id: Warlock
+level: 18
+last_words: ah kk
+----------------------------------------
+Player ID: Gasspect-36816
+name: Gasspect
+race_id: Human
+class_id: Warrior
+level: 29
+last_words: ty
+----------------------------------------
+Player ID: Gryzzlo-41470
+name: Gryzzlo
+race_id: Human
+class_id: Paladin
+level: 12
+last_words: ^^
+----------------------------------------
+Player ID: Hálvar-31757
+name: Hálvar
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: nabend
+----------------------------------------
+Player ID: Nemw-46810
+name: Nemw
+race_id: Human
+class_id: Priest
+level: 50
+last_words: need help
+----------------------------------------
+Player ID: Mirandä-49604
+name: Mirandä
+race_id: Human
+class_id: Rogue
+level: 13
+last_words: a pied t'es mega safe en hunt
+----------------------------------------
+Player ID: Chrizusla-33085
+name: Chrizusla
+race_id: Night Elf
+class_id: Druid
+level: 29
+last_words: I poped a link in disc
+----------------------------------------
+Player ID: Lollipot-5213
+name: Lollipot
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: another 1 coming?
+----------------------------------------
+Player ID: Lippyy-61571
+name: Lippyy
+race_id: Human
+class_id: Rogue
+level: 12
+last_words: |cff9d9d9d|Hitem
+----------------------------------------
+Player ID: Stieftank-3657
+name: Stieftank
+race_id: Human
+class_id: Warrior
+level: 18
+last_words: RIPBOZO
+----------------------------------------
+Player ID: Máximodecimo-39389
+name: Máximodecimo
+race_id: Dwarf
+class_id: Warrior
+level: 49
+last_words: bb^^
+----------------------------------------
+Player ID: Haftkhat-40496
+name: Haftkhat
+race_id: Night Elf
+class_id: Hunter
+level: 23
+last_words: ty
+----------------------------------------
+Player ID: Pfefferanyr-17529
+name: Pfefferanyr
+race_id: Gnome
+class_id: Warlock
+level: 6
+last_words: !shoot
+----------------------------------------
+Player ID: Jerachi-26654
+name: Jerachi
+race_id: Human
+class_id: Warrior
+level: 44
+last_words: think it;s your loot
+----------------------------------------
+Player ID: Furypala-32381
+name: Furypala
+race_id: Human
+class_id: Paladin
+level: 24
+last_words: ok
+----------------------------------------
+Player ID: Когнас-43384
+name: Когнас
+race_id: Night Elf
+class_id: Druid
+level: 12
+last_words: КУ
+----------------------------------------
+Player ID: Tælahiv-33200
+name: Tælahiv
+race_id: Human
+class_id: Mage
+level: 17
+last_words: mana
+----------------------------------------
+Player ID: Leny-48541
+name: Leny
+race_id: Gnome
+class_id: Mage
+level: 18
+last_words: gz
+----------------------------------------
+Player ID: Arén-12591
+name: Arén
+race_id: Night Elf
+class_id: Druid
+level: 25
+last_words: busy soloing deadmines..
+----------------------------------------
+Player ID: Невский-64976
+name: Невский
+race_id: Human
+class_id: Paladin
+level: 8
+last_words: я бьёрна нашёл xdd
+----------------------------------------
+Player ID: Kwees-2943
+name: Kwees
+race_id: Human
+class_id: Rogue
+level: 23
+last_words: 50
+----------------------------------------
+Player ID: Noramia-33629
+name: Noramia
+race_id: Gnome
+class_id: Mage
+level: 19
+last_words: +1 TP
+----------------------------------------
+Player ID: Claesq-12565
+name: Claesq
+race_id: Human
+class_id: Warrior
+level: 42
+last_words: hello
+----------------------------------------
+Player ID: Skariy-6443
+name: Skariy
+race_id: Dwarf
+class_id: Priest
+level: 60
+last_words: tyty
+----------------------------------------
+Player ID: Chickenoven-10125
+name: Chickenoven
+race_id: Gnome
+class_id: Rogue
+level: 16
+last_words: 
+----------------------------------------
+Player ID: Badassica-62548
+name: Badassica
+race_id: Human
+class_id: Rogue
+level: 9
+last_words: inc
+----------------------------------------
+Player ID: Carnivo-19516
+name: Carnivo
+race_id: Gnome
+class_id: Mage
+level: 32
+last_words: min buyout only 2g tho
+----------------------------------------
+Player ID: Notthebeard-55346
+name: Notthebeard
+race_id: Dwarf
+class_id: Hunter
+level: 29
+last_words: not on that one yet
+----------------------------------------
+Player ID: Missamane-1674
+name: Missamane
+race_id: Night Elf
+class_id: Druid
+level: 18
+last_words: ++
+----------------------------------------
+Player ID: Fanecabrava-6347
+name: Fanecabrava
+race_id: Human
+class_id: Rogue
+level: 45
+last_words: pero esos tiran pompa a lo mejor
+----------------------------------------
+Player ID: Kiimane-47346
+name: Kiimane
+race_id: Human
+class_id: Rogue
+level: 19
+last_words: gl palataa taas (Y)
+----------------------------------------
+Player ID: Bubblefart-1994
+name: Bubblefart
+race_id: Human
+class_id: Paladin
+level: 13
+last_words: D
+----------------------------------------
+Player ID: Exolith-44598
+name: Exolith
+race_id: Dwarf
+class_id: Hunter
+level: 44
+last_words: mort hier
+----------------------------------------
+Player ID: Sussypucker-33361
+name: Sussypucker
+race_id: Human
+class_id: Paladin
+level: 7
+last_words: invite
+----------------------------------------
+Player ID: Klasson-21775
+name: Klasson
+race_id: Human
+class_id: Rogue
+level: 21
+last_words: lol
+----------------------------------------
+Player ID: Bann-24898
+name: Bann
+race_id: Night Elf
+class_id: Hunter
+level: 12
+last_words: np play safe !
+----------------------------------------
+Player ID: Morí-52722
+name: Morí
+race_id: Gnome
+class_id: Mage
+level: 25
+last_words: i sheep after zap?
+----------------------------------------
+Player ID: Xylophonist-21737
+name: Xylophonist
+race_id: Human
+class_id: Paladin
+level: 17
+last_words: Ty
+----------------------------------------
+Player ID: Kwv-30014
+name: Kwv
+race_id: Human
+class_id: Priest
+level: 19
+last_words: thx
+----------------------------------------
