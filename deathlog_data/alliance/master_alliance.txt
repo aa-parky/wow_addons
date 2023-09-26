@@ -3302,3 +3302,269 @@ class_id: Warrior
 level: 30
 last_words: good luck
 ----------------------------------------
+Player ID: Blöcko-55952
+name: Blöcko
+race_id: Human
+class_id: Warrior
+level: 27
+last_words: sorry too low lvl, im looking for a 27+ party
+----------------------------------------
+Player ID: Rakan-18419
+name: Rakan
+race_id: Gnome
+class_id: Mage
+level: 14
+last_words: yea
+----------------------------------------
+Player ID: Friteman-16453
+name: Friteman
+race_id: Gnome
+class_id: Mage
+level: 58
+last_words: FF
+----------------------------------------
+Player ID: Sorogue-38138
+name: Sorogue
+race_id: Night Elf
+class_id: Rogue
+level: 15
+last_words: ca passe avec evasion lol
+----------------------------------------
+Player ID: Melkorak-64979
+name: Melkorak
+race_id: Human
+class_id: Mage
+level: 6
+last_words: yoink
+----------------------------------------
+Player ID: Boitameu-49047
+name: Boitameu
+race_id: Human
+class_id: Mage
+level: 15
+last_words: A ce soir
+----------------------------------------
+Player ID: Tchouameni-36682
+name: Tchouameni
+race_id: Human
+class_id: Warrior
+level: 27
+last_words: want to do the escort quest too?
+----------------------------------------
+Player ID: Doktoranten-6846
+name: Doktoranten
+race_id: Night Elf
+class_id: Priest
+level: 13
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Focalorx-43633
+name: Focalorx
+race_id: Night Elf
+class_id: Hunter
+level: 28
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Rogadicta-9089
+name: Rogadicta
+race_id: Human
+class_id: Rogue
+level: 29
+last_words: donde puedo conseguir buenas armas para rogue combat lvl 30+?
+----------------------------------------
+Player ID: Bscssc-38815
+name: Bscssc
+race_id: Human
+class_id: Paladin
+level: 24
+last_words: help
+----------------------------------------
+Player ID: Elcyy-46540
+name: Elcyy
+race_id: Human
+class_id: Warrior
+level: 42
+last_words: Interrupted Eclair de givre on Magus du Syndicat
+----------------------------------------
+Player ID: Ônï-52093
+name: Ônï
+race_id: Human
+class_id: Warrior
+level: 13
+last_words: Hi all
+----------------------------------------
+Player ID: Omegahcnjoyr-27232
+name: Omegahcnjoyr
+race_id: Gnome
+class_id: Rogue
+level: 27
+last_words: ok
+----------------------------------------
+Player ID: Wype-52917
+name: Wype
+race_id: Gnome
+class_id: Mage
+level: 14
+last_words: I have a 9 year old son trying to train him up to heal
+----------------------------------------
+Player ID: Dekkahpriest-64044
+name: Dekkahpriest
+race_id: Human
+class_id: Priest
+level: 7
+last_words: I just did crystal lake on lvl 7
+----------------------------------------
+Player ID: Erynnyes-34518
+name: Erynnyes
+race_id: Night Elf
+class_id: Druid
+level: 24
+last_words: hmm ok
+----------------------------------------
+Player ID: Scorrpio-39556
+name: Scorrpio
+race_id: Human
+class_id: Warrior
+level: 11
+last_words: ty bye bye
+----------------------------------------
+Player ID: Terryce-50451
+name: Terryce
+race_id: Human
+class_id: Rogue
+level: 17
+last_words: nah im done with this sry
+----------------------------------------
+Player ID: Mvpxd-53377
+name: Mvpxd
+race_id: Night Elf
+class_id: Hunter
+level: 11
+last_words: sure
+----------------------------------------
+Player ID: Hawkiel-34482
+name: Hawkiel
+race_id: Human
+class_id: Warrior
+level: 6
+last_words: xD
+----------------------------------------
+Player ID: Icefella-45909
+name: Icefella
+race_id: Gnome
+class_id: Mage
+level: 23
+last_words: someone layer me please
+----------------------------------------
+Player ID: Lyriûm-14167
+name: Lyriûm
+race_id: Human
+class_id: Mage
+level: 19
+last_words: i take moon
+----------------------------------------
+Player ID: Arkanaa-36765
+name: Arkanaa
+race_id: Human
+class_id: Mage
+level: 16
+last_words: lfg [[14] Die Volksmiliz (13)]wwwww
+----------------------------------------
+Player ID: Maryup-26544
+name: Maryup
+race_id: Human
+class_id: Mage
+level: 12
+last_words: ty bye
+----------------------------------------
+Player ID: Craqqhead-34664
+name: Craqqhead
+race_id: Dwarf
+class_id: Warrior
+level: 24
+last_words: lol balzakje
+----------------------------------------
+Player ID: Lilalberto-49516
+name: Lilalberto
+race_id: Night Elf
+class_id: Hunter
+level: 27
+last_words: how u got over there?
+----------------------------------------
+Player ID: Jeezusus-4451
+name: Jeezusus
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: xD
+----------------------------------------
+Player ID: Groni-5766
+name: Groni
+race_id: Gnome
+class_id: Mage
+level: 35
+last_words: together
+----------------------------------------
+Player ID: Yortax-24467
+name: Yortax
+race_id: Human
+class_id: Priest
+level: 12
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Hatedying-62125
+name: Hatedying
+race_id: Night Elf
+class_id: Hunter
+level: 6
+last_words: ty
+----------------------------------------
+Player ID: Glid-60842
+name: Glid
+race_id: Dwarf
+class_id: Warrior
+level: 14
+last_words: busy here
+----------------------------------------
+Player ID: Némoria-24247
+name: Némoria
+race_id: Human
+class_id: Warrior
+level: 8
+last_words: can u inv ?
+----------------------------------------
+Player ID: Imabird-10936
+name: Imabird
+race_id: Night Elf
+class_id: Rogue
+level: 17
+last_words: hi
+----------------------------------------
+Player ID: Bønked-44518
+name: Bønked
+race_id: Human
+class_id: Warrior
+level: 13
+last_words: that is why rogue is bis
+----------------------------------------
+Player ID: Beerspirit-24917
+name: Beerspirit
+race_id: Dwarf
+class_id: Hunter
+level: 48
+last_words: rdy
+----------------------------------------
+Player ID: Mujuone-48093
+name: Mujuone
+race_id: Night Elf
+class_id: Druid
+level: 20
+last_words: inv pls
+----------------------------------------
+Player ID: Guiawar-6736
+name: Guiawar
+race_id: Human
+class_id: Warrior
+level: 12
+last_words: ???
+----------------------------------------
