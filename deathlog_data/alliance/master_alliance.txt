@@ -2329,3 +2329,143 @@ class_id: Priest
 level: 2
 last_words: danke xD
 ----------------------------------------
+Player ID: Drmuff-13416
+name: Drmuff
+race_id: Dwarf
+class_id: Hunter
+level: 13
+last_words: so nice
+----------------------------------------
+Player ID: Edwvancleef-37777
+name: Edwvancleef
+race_id: Human
+class_id: Rogue
+level: 12
+last_words: ty guys
+----------------------------------------
+Player ID: Kaspiez-4056
+name: Kaspiez
+race_id: Human
+class_id: Rogue
+level: 10
+last_words: Man...
+----------------------------------------
+Player ID: Kheneda-53941
+name: Kheneda
+race_id: Human
+class_id: Mage
+level: 13
+last_words: hello
+----------------------------------------
+Player ID: Jepherson-48653
+name: Jepherson
+race_id: Human
+class_id: Paladin
+level: 37
+last_words: wtf lag
+----------------------------------------
+Player ID: Babombahc-12947
+name: Babombahc
+race_id: Human
+class_id: Rogue
+level: 14
+last_words: cya ^^
+----------------------------------------
+Player ID: Nymi-42605
+name: Nymi
+race_id: Night Elf
+class_id: Druid
+level: 17
+last_words: They'll arive in 1 h
+----------------------------------------
+Player ID: Ralias-57778
+name: Ralias
+race_id: Night Elf
+class_id: Hunter
+level: 24
+last_words: yo
+----------------------------------------
+Player ID: Moisti-4270
+name: Moisti
+race_id: Human
+class_id: Rogue
+level: 10
+last_words: let me get aggro from mobs
+----------------------------------------
+Player ID: Genosix-14034
+name: Genosix
+race_id: Dwarf
+class_id: Priest
+level: 21
+last_words: ty!
+----------------------------------------
+Player ID: Anøwïn-57941
+name: Anøwïn
+race_id: Human
+class_id: Mage
+level: 49
+last_words: ;p
+----------------------------------------
+Player ID: Marifrance-26615
+name: Marifrance
+race_id: Human
+class_id: Mage
+level: 13
+last_words: brb rgn
+----------------------------------------
+Player ID: Polmerià-47352
+name: Polmerià
+race_id: Human
+class_id: Rogue
+level: 31
+last_words: [La fiancée de l'Embaumeur (253)]
+----------------------------------------
+Player ID: Hellspawnx-10082
+name: Hellspawnx
+race_id: Night Elf
+class_id: Hunter
+level: 19
+last_words: ty gl
+----------------------------------------
+Player ID: Magicznybusz-25022
+name: Magicznybusz
+race_id: Night Elf
+class_id: Druid
+level: 12
+last_words: see ya!
+----------------------------------------
+Player ID: Madmàx-43058
+name: Madmàx
+race_id: Human
+class_id: Paladin
+level: 8
+last_words: hlp
+----------------------------------------
+Player ID: Memoridiez-46418
+name: Memoridiez
+race_id: Human
+class_id: Mage
+level: 23
+last_words: thx
+----------------------------------------
+Player ID: Стильрайдер-56194
+name: Стильрайдер
+race_id: Night Elf
+class_id: Hunter
+level: 11
+last_words: TY
+----------------------------------------
+Player ID: Sugardaddhy-49875
+name: Sugardaddhy
+race_id: Night Elf
+class_id: Hunter
+level: 13
+last_words: yo
+----------------------------------------
+Player ID: Cikontwo-18571
+name: Cikontwo
+race_id: Night Elf
+class_id: Hunter
+level: 17
+last_words: ty
+----------------------------------------
