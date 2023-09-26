@@ -2189,3 +2189,10 @@ class_id: Rogue
 level: 13
 last_words: tnx
 ----------------------------------------
+Player ID: Qris-5305
+name: Qris
+race_id: Human
+class_id: Rogue
+level: 25
+last_words: dude
+----------------------------------------
