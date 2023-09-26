@@ -2567,3 +2567,262 @@ class_id: Paladin
 level: 11
 last_words: ty
 ----------------------------------------
+Player ID: Fastpinkboat-56040
+name: Fastpinkboat
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: ;D yeah its quite something hehe
+----------------------------------------
+Player ID: Zalbar-18101
+name: Zalbar
+race_id: Human
+class_id: Mage
+level: 24
+last_words: towerr pls)
+----------------------------------------
+Player ID: Cølimago-6152
+name: Cølimago
+race_id: Gnome
+class_id: Mage
+level: 42
+last_words: gg tank ^^
+----------------------------------------
+Player ID: Aractô-58137
+name: Aractô
+race_id: Human
+class_id: Mage
+level: 12
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Longjamie-51103
+name: Longjamie
+race_id: Dwarf
+class_id: Hunter
+level: 9
+last_words: fuck
+----------------------------------------
+Player ID: Immersif-9991
+name: Immersif
+race_id: Human
+class_id: Paladin
+level: 18
+last_words: ty
+----------------------------------------
+Player ID: Kuzzekurt-34021
+name: Kuzzekurt
+race_id: Gnome
+class_id: Mage
+level: 37
+last_words: Nah but better buy in BB then stormwind
+----------------------------------------
+Player ID: Demononex-59620
+name: Demononex
+race_id: Gnome
+class_id: Warlock
+level: 13
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Mylta-11645
+name: Mylta
+race_id: Human
+class_id: Mage
+level: 8
+last_words: eftersom det skedde precis samtidigt för vissa spelare, och nattpräst o jag samtidigt på samma layer
+----------------------------------------
+Player ID: Xussy-37988
+name: Xussy
+race_id: Human
+class_id: Warrior
+level: 27
+last_words: run
+----------------------------------------
+Player ID: Wowdeveloper-39435
+name: Wowdeveloper
+race_id: Gnome
+class_id: Mage
+level: 36
+last_words: sweet
+----------------------------------------
+Player ID: Hemorrojdn-45354
+name: Hemorrojdn
+race_id: Gnome
+class_id: Warrior
+level: 10
+last_words: en av oss
+----------------------------------------
+Player ID: Ullablåkulla-35521
+name: Ullablåkulla
+race_id: Dwarf
+class_id: Priest
+level: 11
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Janhus-1594
+name: Janhus
+race_id: Night Elf
+class_id: Druid
+level: 29
+last_words: s
+----------------------------------------
+Player ID: Savethecat-21055
+name: Savethecat
+race_id: Night Elf
+class_id: Druid
+level: 14
+last_words: ty
+----------------------------------------
+Player ID: Prolapz-15336
+name: Prolapz
+race_id: Night Elf
+class_id: Hunter
+level: 11
+last_words: nice
+----------------------------------------
+Player ID: Earz-36995
+name: Earz
+race_id: Night Elf
+class_id: Rogue
+level: 60
+last_words: F
+----------------------------------------
+Player ID: Traynardeue-6032
+name: Traynardeue
+race_id: Human
+class_id: Rogue
+level: 10
+last_words: wait
+----------------------------------------
+Player ID: Oshoila-1611
+name: Oshoila
+race_id: Human
+class_id: Warrior
+level: 31
+last_words: lol
+----------------------------------------
+Player ID: Yoînk-33457
+name: Yoînk
+race_id: Human
+class_id: Rogue
+level: 19
+last_words: hey again =)
+----------------------------------------
+Player ID: Culex-60553
+name: Culex
+race_id: Gnome
+class_id: Mage
+level: 19
+last_words: that mob hits like a truck
+----------------------------------------
+Player ID: Sussybaaka-20251
+name: Sussybaaka
+race_id: Dwarf
+class_id: Priest
+level: 21
+last_words: ooom
+----------------------------------------
+Player ID: Jeanpeupu-10864
+name: Jeanpeupu
+race_id: Dwarf
+class_id: Priest
+level: 10
+last_words: WAIT
+----------------------------------------
+Player ID: Hiruiil-46822
+name: Hiruiil
+race_id: Human
+class_id: Paladin
+level: 28
+last_words: ty buddy
+----------------------------------------
+Player ID: Brocolista-47559
+name: Brocolista
+race_id: Gnome
+class_id: Rogue
+level: 17
+last_words: haha okay
+----------------------------------------
+Player ID: Drafty-9445
+name: Drafty
+race_id: Gnome
+class_id: Warrior
+level: 9
+last_words: arathi highlands is an option too
+----------------------------------------
+Player ID: Moaossy-4482
+name: Moaossy
+race_id: Dwarf
+class_id: Paladin
+level: 6
+last_words: valverge ouais
+----------------------------------------
+Player ID: Bankthoras-55269
+name: Bankthoras
+race_id: Human
+class_id: Paladin
+level: 8
+last_words: help
+----------------------------------------
+Player ID: Pierdalaj-19852
+name: Pierdalaj
+race_id: Dwarf
+class_id: Rogue
+level: 6
+last_words: 4sure
+----------------------------------------
+Player ID: Kultyz-4392
+name: Kultyz
+race_id: Human
+class_id: Warrior
+level: 20
+last_words: they stun its a pain
+----------------------------------------
+Player ID: Blazeborn-26073
+name: Blazeborn
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: ^^
+----------------------------------------
+Player ID: Slickpatty-60997
+name: Slickpatty
+race_id: Human
+class_id: Rogue
+level: 20
+last_words: feels dangerous
+----------------------------------------
+Player ID: Oltin-466
+name: Oltin
+race_id: Night Elf
+class_id: Druid
+level: 39
+last_words: hi ok
+----------------------------------------
+Player ID: Haozhanshi-10041
+name: Haozhanshi
+race_id: Human
+class_id: Warrior
+level: 19
+last_words: same haha
+----------------------------------------
+Player ID: Oumpilas-27767
+name: Oumpilas
+race_id: Human
+class_id: Priest
+level: 10
+last_words: ty
+----------------------------------------
+Player ID: Rocni-54330
+name: Rocni
+race_id: Human
+class_id: Rogue
+level: 25
+last_words: i dont have
+----------------------------------------
+Player ID: Zoldars-18966
+name: Zoldars
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: help quest
+----------------------------------------

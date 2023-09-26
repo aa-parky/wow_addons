@@ -298,6 +298,18 @@ level: 8
 map_id: 1429
 last_words: ez
 ----------------------------------------
+Player ID: Fastpinkboat-56040
+class_id: Hunter
+guild: 
+date: 1695727922
+map_pos: 0.2263,0.4426
+source_id: 1400
+name: Fastpinkboat
+race_id: Night Elf
+level: 8
+map_id: 1437
+last_words: ;D yeah its quite something hehe
+----------------------------------------
 Player ID: Alessil-50950
 class_id: Hunter
 guild: Cooldowns Syndrome
@@ -670,6 +682,18 @@ level: 23
 map_id: 1440
 last_words: imagine having wf and rend buff and not blessing of salvation
 ----------------------------------------
+Player ID: Zalbar-18101
+class_id: Mage
+guild: Sound of Silence
+date: 1695728800
+map_pos: 0.5272,0.2341
+source_id: 14893
+name: Zalbar
+race_id: Human
+level: 24
+map_id: 1413
+last_words: towerr pls)
+----------------------------------------
 Player ID: Benjiwarrior-52009
 class_id: Warrior
 guild: 
@@ -778,6 +802,18 @@ level: 8
 map_id: 1438
 last_words: RIP
 ----------------------------------------
+Player ID: Cølimago-6152
+class_id: Mage
+guild: Flow
+date: 1695729547
+map_pos: 
+source_id: 7320
+name: Cølimago
+last_words: gg tank ^^
+level: 42
+race_id: Gnome
+instance_id: 70
+----------------------------------------
 Player ID: Zboubax-9676
 class_id: Hunter
 guild: Chokbar De Zinzin
@@ -789,6 +825,18 @@ last_words: je pull ?
 level: 23
 map_id: 1433
 race_id: Dwarf
+----------------------------------------
+Player ID: Aractô-58137
+class_id: Mage
+guild: YES
+date: 1695730126
+map_pos: 0.3555,0.2138
+last_words: {rt3} RestedXP Guides: Je viens de gagner un niveau depuis 11 vers 12 en 53 minutes 9 secondes
+name: Aractô
+race_id: Human
+level: 12
+map_id: 1432
+source_id: -1
 ----------------------------------------
 Player ID: Pavlichenko-45513
 class_id: Hunter
@@ -993,6 +1041,18 @@ last_words: gz
 level: 23
 map_id: 1440
 race_id: Night Elf
+----------------------------------------
+Player ID: Longjamie-51103
+class_id: Hunter
+guild: 
+date: 1695730965
+map_pos: 0.7144,0.5160
+source_id: 1119
+name: Longjamie
+last_words: fuck
+map_id: 1426
+level: 9
+race_id: Dwarf
 ----------------------------------------
 Player ID: Keijin-60545
 class_id: Warrior
@@ -1246,6 +1306,18 @@ level: 36
 map_id: 1443
 race_id: Dwarf
 ----------------------------------------
+Player ID: Immersif-9991
+class_id: Paladin
+guild: 
+date: 1695730599
+map_pos: 0.7762,0.6806
+source_id: -1
+name: Immersif
+race_id: Human
+level: 18
+map_id: 1433
+last_words: ty
+----------------------------------------
 Player ID: Florinsalam-26446
 class_id: Warrior
 guild: 
@@ -1281,6 +1353,30 @@ last_words: starter zones are no match for me
 level: 18
 map_id: 1439
 race_id: Human
+----------------------------------------
+Player ID: Kuzzekurt-34021
+class_id: Mage
+guild: HC Andersen Elite
+date: 1695728496
+map_pos: 0.3074,0.2355
+source_id: 686
+name: Kuzzekurt
+race_id: Gnome
+level: 37
+map_id: 1434
+last_words: Nah but better buy in BB then stormwind
+----------------------------------------
+Player ID: Demononex-59620
+class_id: Warlock
+guild: 
+date: 1695731520
+map_pos: 0.4110,0.1883
+source_id: 1176
+name: Demononex
+last_words: {rt1} Questie : 1/1 Brass Collar for [[9] Princess Must Die! (88)]!
+map_id: 1432
+level: 13
+race_id: Gnome
 ----------------------------------------
 Player ID: Kalyopsix-7561
 class_id: Warrior
@@ -1341,6 +1437,18 @@ race_id: Night Elf
 level: 15
 map_id: 1439
 last_words: :(
+----------------------------------------
+Player ID: Mylta-11645
+class_id: Mage
+guild: Hjältarna
+date: 1695728828
+map_pos: 0.6807,0.8118
+source_id: 390
+name: Mylta
+race_id: Human
+level: 8
+map_id: 1429
+last_words: eftersom det skedde precis samtidigt för vissa spelare, och nattpräst o jag samtidigt på samma layer
 ----------------------------------------
 Player ID: Tyrandka-31405
 class_id: Warrior
@@ -1798,6 +1906,42 @@ level: 13
 map_id: 1436
 race_id: Dwarf
 ----------------------------------------
+Player ID: Apixhc-13798
+class_id: Hunter
+guild: Danger Dolls HC
+date: 1695648155
+map_pos: 0.4355,0.6960
+last_words: gl and stay safe
+name: Apixhc
+source_id: 10664
+level: 60
+map_id: 1415
+race_id: Dwarf
+----------------------------------------
+Player ID: Huunthc-59442
+class_id: Hunter
+guild: Miséricørde
+date: 1695627250
+map_pos: 0.5135,0.1363
+source_id: -1
+name: Huunthc
+race_id: Night Elf
+level: 11
+map_id: 1436
+last_words: perso j'vois le niveau de jeu de certain j'ai peur 
+----------------------------------------
+Player ID: Xussy-37988
+class_id: Warrior
+guild: 
+date: 1695731467
+map_pos: 0.4860,0.4599
+source_id: 1038
+name: Xussy
+last_words: run
+map_id: 1437
+level: 27
+race_id: Human
+----------------------------------------
 Player ID: Hamiltons-63877
 class_id: Mage
 guild: HGC
@@ -1809,6 +1953,42 @@ race_id: Human
 level: 15
 map_id: 1433
 last_words: u so cute
+----------------------------------------
+Player ID: Wowdeveloper-39435
+class_id: Mage
+guild: Teatime
+date: 1695731305
+map_pos: 0.4640,0.4747
+source_id: 2254
+name: Wowdeveloper
+last_words: sweet
+map_id: 1416
+level: 36
+race_id: Gnome
+----------------------------------------
+Player ID: Hemorrojdn-45354
+class_id: Warrior
+guild: JEHOVAS
+date: 1695731295
+map_pos: 0.7922,0.6260
+source_id: 118
+name: Hemorrojdn
+last_words: en av oss
+map_id: 1429
+level: 10
+race_id: Gnome
+----------------------------------------
+Player ID: Ullablåkulla-35521
+class_id: Priest
+guild: JEHOVAS
+date: 1695731286
+map_pos: 0.7937,0.6182
+source_id: 46
+name: Ullablåkulla
+last_words: {rt3} RestedXP Guides: I just leveled from 10 to 11 in 1 hour 55 minutes 50 seconds
+map_id: 1429
+level: 11
+race_id: Dwarf
 ----------------------------------------
 Player ID: Ketaminkalt-50716
 class_id: Warrior
@@ -1834,6 +2014,18 @@ level: 18
 map_id: 1436
 race_id: Human
 ----------------------------------------
+Player ID: Fudgedheals-16169
+class_id: Priest
+guild: The Last Crusade
+date: 1695727808
+map_pos: 0.5865,0.6427
+source_id: 1922
+name: Fudgedheals
+last_words: mr warlock
+level: 8
+map_id: 1429
+race_id: Human
+----------------------------------------
 Player ID: Qian-46130
 class_id: Hunter
 guild: Laubschimmer
@@ -1857,6 +2049,30 @@ race_id: Human
 level: 11
 map_id: 1436
 last_words: ty ;)
+----------------------------------------
+Player ID: Gyökér-45148
+class_id: Druid
+guild: 
+date: 1695727749
+map_pos: 0.7632,0.5903
+source_id: 732
+name: Gyökér
+last_words: nice
+level: 9
+map_id: 1429
+race_id: Night Elf
+----------------------------------------
+Player ID: Ahrîman-57750
+class_id: Mage
+guild: HCGoblins
+date: 1695727619
+map_pos: 0.3313,0.4973
+source_id: 15449
+name: Ahrîman
+last_words: Klingt nach jemanden der früher nen Pala Main hatte xD
+level: 60
+map_id: 1451
+race_id: Gnome
 ----------------------------------------
 Player ID: Crashkill-62050
 class_id: Warrior
@@ -1894,6 +2110,30 @@ level: 10
 map_id: 1438
 race_id: Night Elf
 ----------------------------------------
+Player ID: Janhus-1594
+class_id: Druid
+guild: MoorevarietyHC
+date: 1695729934
+map_pos: 0.5128,0.0816
+source_id: 4062
+name: Janhus
+race_id: Night Elf
+level: 29
+map_id: 1437
+last_words: s
+----------------------------------------
+Player ID: Savethecat-21055
+class_id: Druid
+guild: 
+date: 1695729843
+map_pos: 0.3738,0.1806
+source_id: 1174
+name: Savethecat
+race_id: Night Elf
+level: 14
+map_id: 1432
+last_words: ty
+----------------------------------------
 Player ID: Slishet-38053
 class_id: Warrior
 guild: 
@@ -1917,6 +2157,30 @@ source_id: 7347
 level: 40
 race_id: Night Elf
 instance_id: 129
+----------------------------------------
+Player ID: Babombahc-12947
+class_id: Rogue
+guild: Den som lever får se
+date: 1695726438
+map_pos: 0.4987,0.1921
+source_id: 502
+name: Babombahc
+last_words: cya ^^
+level: 14
+map_id: 1436
+race_id: Human
+----------------------------------------
+Player ID: Prolapz-15336
+class_id: Hunter
+guild: This Time its for Real
+date: 1695729423
+map_pos: 0.3770,0.5118
+last_words: nice
+name: Prolapz
+race_id: Night Elf
+level: 11
+map_id: 1439
+source_id: 2069
 ----------------------------------------
 Player ID: Multicat-6503
 class_id: Druid
@@ -1990,6 +2254,18 @@ level: 13
 map_id: 1431
 last_words: {rt1} Questie : 8/8 Torn Murloc Fin for [[10] Bounty on Murlocs (46)]!
 ----------------------------------------
+Player ID: Moisti-4270
+class_id: Rogue
+guild: Rogues
+date: 1695725367
+map_pos: 0.4368,0.9268
+source_id: -1
+name: Moisti
+last_words: let me get aggro from mobs
+level: 10
+map_id: 1429
+race_id: Human
+----------------------------------------
 Player ID: Ícé-34057
 class_id: Mage
 guild: HC Norge Uncensored
@@ -2001,6 +2277,18 @@ race_id: Gnome
 level: 13
 map_id: 1436
 last_words: i got you
+----------------------------------------
+Player ID: Nostalgybolt-27965
+class_id: Mage
+guild: 
+date: 1695636507
+map_pos: 0.3874,0.5596
+source_id: 2931
+name: Nostalgybolt
+race_id: Gnome
+level: 42
+map_id: 1418
+last_words: yeaah
 ----------------------------------------
 Player ID: Pasallopecie-61741
 class_id: Warrior
@@ -2025,6 +2313,54 @@ last_words: Thx guys :)
 level: 21
 map_id: 1439
 race_id: Gnome
+----------------------------------------
+Player ID: Anøwïn-57941
+class_id: Mage
+guild: Memento Mori
+date: 1695724901
+map_pos: 0.6667,0.7512
+source_id: 2645
+name: Anøwïn
+last_words: ;p
+level: 49
+map_id: 1425
+race_id: Human
+----------------------------------------
+Player ID: Marifrance-26615
+class_id: Mage
+guild: 
+date: 1695724835
+map_pos: 0.5007,0.1982
+source_id: 502
+name: Marifrance
+last_words: brb rgn
+level: 13
+map_id: 1436
+race_id: Human
+----------------------------------------
+Player ID: Prdeekii-13009
+class_id: Druid
+guild: Druids
+date: 1695727405
+map_pos: 0.3748,0.6906
+source_id: 2164
+name: Prdeekii
+last_words: omw there
+level: 15
+map_id: 1439
+race_id: Night Elf
+----------------------------------------
+Player ID: Chabite-49394
+class_id: Druid
+guild: Mob Psycho Killa Crew
+date: 1695726681
+map_pos: 0.5704,0.2199
+source_id: -1
+name: Chabite
+race_id: Night Elf
+level: 17
+map_id: 1439
+last_words: sorry
 ----------------------------------------
 Player ID: Venaya-50647
 class_id: Druid
@@ -2062,6 +2398,18 @@ level: 41
 map_id: 1444
 race_id: Dwarf
 ----------------------------------------
+Player ID: Wyren-61168
+class_id: Warrior
+guild: Knights Templar
+date: 1695712678
+map_pos: 0.7715,0.4427
+source_id: 429
+name: Wyren
+last_words: but i do all
+level: 25
+map_id: 1433
+race_id: Human
+----------------------------------------
 Player ID: Byxan-3433
 class_id: Warrior
 guild: instagib
@@ -2085,6 +2433,18 @@ last_words: paladin's pet
 level: 25
 race_id: Dwarf
 instance_id: 34
+----------------------------------------
+Player ID: Magephorn-37796
+class_id: Mage
+guild: 
+date: 1695653895
+map_pos: 0.4061,0.3705
+source_id: 157
+name: Magephorn
+race_id: Human
+level: 11
+map_id: 1436
+last_words: MONEEEEY
 ----------------------------------------
 Player ID: Oxydia-28677
 class_id: Warrior
@@ -2110,17 +2470,53 @@ level: 8
 map_id: 1429
 last_words: do you need more?
 ----------------------------------------
-Player ID: Fudgedheals-16169
-class_id: Priest
-guild: The Last Crusade
-date: 1695727808
-map_pos: 0.5865,0.6427
-source_id: 1922
-name: Fudgedheals
-last_words: mr warlock
-map_id: 1429
-level: 8
+Player ID: Nymi-42605
+class_id: Druid
+guild: Adventurers
+date: 1695726152
+map_pos: 0.5557,0.2650
+source_id: 2336
+name: Nymi
+last_words: They'll arive in 1 h
+level: 17
+map_id: 1439
+race_id: Night Elf
+----------------------------------------
+Player ID: Nyv-40498
+class_id: Rogue
+guild: Go Agane
+date: 1695627844
+map_pos: 
+source_id: 9267
+name: Nyv
+last_words: pls
+level: 60
 race_id: Human
+instance_id: 229
+----------------------------------------
+Player ID: Ralias-57778
+class_id: Hunter
+guild: Miséricørde
+date: 1695725528
+map_pos: 0.7265,0.6238
+source_id: -1
+name: Ralias
+last_words: yo
+level: 24
+map_id: 1442
+race_id: Night Elf
+----------------------------------------
+Player ID: Mokrazuzia-35561
+class_id: Warlock
+guild: ZAKON
+date: 1695543112
+map_pos: 0.3554,0.1956
+source_id: 1175
+name: Mokrazuzia
+race_id: Gnome
+level: 14
+map_id: 1432
+last_words: fak nie tu xd
 ----------------------------------------
 Player ID: Kototaipbis-29701
 class_id: Warlock
@@ -2134,89 +2530,41 @@ level: 21
 map_id: 1433
 last_words: Ouais on sait xD
 ----------------------------------------
-Player ID: Sowoph-44570
-class_id: Mage
-guild: Spaceglider
-date: 1695727774
-map_pos: 0.3841,0.2999
-source_id: 1172
-name: Sowoph
-last_words: RIPBOZO 
-map_id: 1432
-level: 13
-race_id: Human
-----------------------------------------
-Player ID: Gyökér-45148
+Player ID: Yolcina-24020
 class_id: Druid
-guild: 
-date: 1695727749
-map_pos: 0.7632,0.5903
-source_id: 732
-name: Gyökér
-last_words: nice
-map_id: 1429
-level: 9
+guild: HGC
+date: 1695720992
+map_pos: 0.2966,0.3052
+source_id: 1014
+name: Yolcina
+last_words: Fremal Doohickey
+level: 27
+map_id: 1437
 race_id: Night Elf
 ----------------------------------------
-Player ID: Ahrîman-57750
-class_id: Mage
-guild: HCGoblins
-date: 1695727619
-map_pos: 0.3313,0.4973
-source_id: 15449
-name: Ahrîman
-last_words: Klingt nach jemanden der früher nen Pala Main hatte xD
-map_id: 1451
-level: 60
-race_id: Gnome
+Player ID: Madguiden-14432
+class_id: Hunter
+guild: Dolk og Skede
+date: 1695710066
+map_pos: 0.7605,0.7258
+source_id: 3807
+name: Madguiden
+race_id: Dwarf
+level: 29
+map_id: 1440
+last_words: |cff0070dd|Hitem:13137:33:::::::29:::::::::|h[Ironweaver]|h|r så burde jeg og kunne holde et par levels mere xD
 ----------------------------------------
-Player ID: Klayjaw-52559
-class_id: Warrior
-guild: HC Myth
-date: 1695727478
-map_pos: 0.3758,0.3648
-source_id: 1202
-name: Klayjaw
-last_words: Hello
-map_id: 1432
-level: 13
-race_id: Human
-----------------------------------------
-Player ID: Prdeekii-13009
-class_id: Druid
-guild: Druids
-date: 1695727405
-map_pos: 0.3748,0.6906
-source_id: 2164
-name: Prdeekii
-last_words: omw there
-map_id: 1439
-level: 15
-race_id: Night Elf
-----------------------------------------
-Player ID: Mixéry-56115
-class_id: Mage
-guild: Die Soldaten Lordaerons
-date: 1695716395
-map_pos: 0.4589,0.4707
-source_id: 1131
-name: Mixéry
-race_id: Gnome
-level: 6
-map_id: 1426
-last_words: hey
-----------------------------------------
-Player ID: Skritnitsa-28870
+Player ID: Nyrdalinho-1355
 class_id: Rogue
 guild: 
-date: 1695711938
-map_pos: 0.4462,0.5702
-source_id: -1
-name: Skritnitsa
-race_id: Night Elf
-level: 8
-map_id: 1438
-last_words: thx for group
+date: 1695715404
+map_pos: 0.3119,0.7311
+source_id: 1162
+name: Nyrdalinho
+last_words: tnx
+level: 13
+map_id: 1432
+race_id: Human
 ----------------------------------------
 Player ID: Biero-41259
 class_id: Mage
@@ -2230,17 +2578,17 @@ level: 56
 map_id: 1439
 race_id: Gnome
 ----------------------------------------
-Player ID: Babombahc-12947
+Player ID: Earz-36995
 class_id: Rogue
-guild: Den som lever får se
-date: 1695726438
-map_pos: 0.4987,0.1921
-source_id: 502
-name: Babombahc
-last_words: cya ^^
-level: 14
-map_id: 1436
-race_id: Human
+guild: Go Agane
+date: 1695729974
+map_pos: 
+source_id: 8921
+name: Earz
+last_words: F
+level: 60
+race_id: Night Elf
+instance_id: 230
 ----------------------------------------
 Player ID: Therabbit-37014
 class_id: Warlock
@@ -2250,8 +2598,8 @@ map_pos: 0.2757,0.4204
 source_id: 1211
 name: Therabbit
 last_words: ty
-map_id: 1426
 level: 8
+map_id: 1426
 race_id: Gnome
 ----------------------------------------
 Player ID: Velosian-28171
@@ -2266,17 +2614,17 @@ level: 15
 map_id: 1426
 last_words: damn gnolls kept resisting
 ----------------------------------------
-Player ID: Dinkelbrot-42320
-class_id: Priest
-guild: Die Soldaten Lordaerons
-date: 1695722706
-map_pos: 0.6173,0.4333
+Player ID: Traynardeue-6032
+class_id: Rogue
+guild: Knights of Eternity
+date: 1695730305
+map_pos: 0.2579,0.8573
 source_id: -1
-name: Dinkelbrot
-race_id: Night Elf
-level: 2
-map_id: 1438
-last_words: danke xD
+name: Traynardeue
+race_id: Human
+level: 10
+map_id: 1429
+last_words: wait
 ----------------------------------------
 Player ID: Crît-39139
 class_id: Rogue
@@ -2290,77 +2638,41 @@ level: 16
 map_id: 1432
 race_id: Human
 ----------------------------------------
-Player ID: Moisti-4270
-class_id: Rogue
-guild: Rogues
-date: 1695725367
-map_pos: 0.4368,0.9268
-source_id: -1
-name: Moisti
-last_words: let me get aggro from mobs
-level: 10
-map_id: 1429
-race_id: Human
-----------------------------------------
-Player ID: Nostalgybolt-27965
-class_id: Mage
-guild: 
-date: 1695636507
-map_pos: 0.3874,0.5596
-source_id: 2931
-name: Nostalgybolt
-race_id: Gnome
-level: 42
-map_id: 1418
-last_words: yeaah
-----------------------------------------
-Player ID: Anøwïn-57941
-class_id: Mage
-guild: Memento Mori
-date: 1695724901
-map_pos: 0.6667,0.7512
-source_id: 2645
-name: Anøwïn
-last_words: ;p
-level: 49
-map_id: 1425
-race_id: Human
-----------------------------------------
-Player ID: Polmerià-47352
-class_id: Rogue
-guild: Les Travailleuses du Pex
-date: 1695726196
-map_pos: 0.2030,0.2353
-source_id: -1
-name: Polmerià
-last_words: [La fiancée de l'Embaumeur (253)]
-level: 31
-map_id: 1431
-race_id: Human
-----------------------------------------
-Player ID: Marifrance-26615
-class_id: Mage
-guild: 
-date: 1695724835
-map_pos: 0.5007,0.1982
-source_id: 502
-name: Marifrance
-last_words: brb rgn
-level: 13
-map_id: 1436
-race_id: Human
-----------------------------------------
-Player ID: Hellspawnx-10082
+Player ID: Machalotee-295
 class_id: Hunter
 guild: 
-date: 1695724718
-map_pos: 0.5774,0.2508
-source_id: 2182
-name: Hellspawnx
-last_words: ty gl
-level: 19
-map_id: 1439
+date: 1695638016
+map_pos: 0.3828,0.4863
+source_id: 2163
+name: Machalotee
 race_id: Night Elf
+level: 12
+map_id: 1439
+last_words: owl
+----------------------------------------
+Player ID: Hakuquast-25323
+class_id: Warrior
+guild: 
+date: 1695722501
+map_pos: 0.3695,0.6792
+source_id: 2204
+name: Hakuquast
+last_words: ty bb
+level: 17
+map_id: 1439
+race_id: Human
+----------------------------------------
+Player ID: Slushyturdle-34028
+class_id: Priest
+guild: Legenden der Allianz
+date: 1695716988
+map_pos: 
+source_id: 12220
+name: Slushyturdle
+last_words: remember im still 44
+level: 44
+race_id: Dwarf
+instance_id: 349
 ----------------------------------------
 Player ID: Fasbifurieux-50310
 class_id: Hunter
@@ -2422,29 +2734,29 @@ level: 14
 map_id: 1439
 race_id: Night Elf
 ----------------------------------------
-Player ID: Madmàx-43058
-class_id: Paladin
-guild: 
-date: 1695724139
-map_pos: 0.6871,0.7664
-source_id: 390
-name: Madmàx
-last_words: hlp
+Player ID: Clissy-51024
+class_id: Rogue
+guild: Subversion
+date: 1695643095
+map_pos: 0.8152,0.5699
+source_id: 46
+name: Clissy
+race_id: Human
 level: 8
 map_id: 1429
-race_id: Human
+last_words: F
 ----------------------------------------
-Player ID: Awoogers-46920
-class_id: Hunter
-guild: 
-date: 1695634960
-map_pos: 0.5396,0.5138
-source_id: 2003
-name: Awoogers
-last_words: cheers
-level: 8
-map_id: 1438
-race_id: Night Elf
+Player ID: Contractor-39177
+class_id: Rogue
+guild: Go Agane
+date: 1695513748
+map_pos: 0.3338,0.8630
+source_id: 2208
+name: Contractor
+race_id: Human
+level: 22
+map_id: 1439
+last_words: hadnt joined a guild since i died and i thought what better guild to chose than this :D
 ----------------------------------------
 Player ID: Sauzer-55175
 class_id: Paladin
@@ -2470,53 +2782,65 @@ level: 57
 map_id: 1423
 race_id: Dwarf
 ----------------------------------------
-Player ID: Wyren-61168
-class_id: Warrior
-guild: Knights Templar
-date: 1695712678
-map_pos: 0.7715,0.4427
-source_id: 429
-name: Wyren
-last_words: but i do all
-level: 25
-map_id: 1433
-race_id: Human
-----------------------------------------
-Player ID: Nymi-42605
-class_id: Druid
-guild: Adventurers
-date: 1695726152
-map_pos: 0.5557,0.2650
-source_id: 2336
-name: Nymi
-last_words: They'll arive in 1 h
-level: 17
-map_id: 1439
-race_id: Night Elf
-----------------------------------------
-Player ID: Ralias-57778
-class_id: Hunter
-guild: Miséricørde
-date: 1695725528
-map_pos: 0.7265,0.6238
-source_id: -1
-name: Ralias
-last_words: yo
-level: 24
-map_id: 1442
-race_id: Night Elf
-----------------------------------------
-Player ID: Mokrazuzia-35561
-class_id: Warlock
-guild: ZAKON
-date: 1695543112
-map_pos: 0.3554,0.1956
-source_id: 1175
-name: Mokrazuzia
+Player ID: Lekorvi-16857
+class_id: Mage
+guild: 
+date: 1695654407
+map_pos: 0.6415,0.7032
+source_id: 205
+name: Lekorvi
 race_id: Gnome
-level: 14
-map_id: 1432
-last_words: fak nie tu xd
+level: 21
+map_id: 1431
+last_words: sorry no can do 
+----------------------------------------
+Player ID: Drago-7544
+class_id: Warrior
+guild: BULGARIA
+date: 1695652616
+map_pos: 0.4806,0.6309
+source_id: 9026
+name: Drago
+race_id: Human
+level: 59
+map_id: 1415
+last_words: strah me e s randoms na brd :D
+----------------------------------------
+Player ID: Vistezo-27651
+class_id: Warrior
+guild: 
+date: 1695502134
+map_pos: 0.3232,0.4678
+source_id: 485
+name: Vistezo
+race_id: Human
+level: 19
+map_id: 1433
+last_words: ty bb
+----------------------------------------
+Player ID: Floppathird-7661
+class_id: Priest
+guild: Лесная Братва
+date: 1695654353
+map_pos: 0.2942,0.9163
+source_id: 478
+name: Floppathird
+race_id: Human
+level: 10
+map_id: 1429
+last_words: у меня 0 до сих пор
+----------------------------------------
+Player ID: Zoldars-6263
+class_id: Rogue
+guild: 
+date: 1695504378
+map_pos: 0.7020,0.7580
+source_id: -1
+name: Zoldars
+last_words: ty
+level: 7
+map_id: 1429
+race_id: Human
 ----------------------------------------
 Player ID: Satiraka-59892
 class_id: Priest
@@ -2542,78 +2866,6 @@ level: 17
 map_id: 1439
 last_words: bidde
 ----------------------------------------
-Player ID: Dorito-15106
-class_id: Mage
-guild: Drumroll
-date: 1695655300
-map_pos: 0.1114,0.6492
-source_id: 1418
-name: Dorito
-race_id: Gnome
-level: 29
-map_id: 1437
-last_words: worth
-----------------------------------------
-Player ID: Yolcina-24020
-class_id: Druid
-guild: HGC
-date: 1695720992
-map_pos: 0.2966,0.3052
-source_id: 1014
-name: Yolcina
-last_words: Fremal Doohickey
-level: 27
-map_id: 1437
-race_id: Night Elf
-----------------------------------------
-Player ID: Madguiden-14432
-class_id: Hunter
-guild: Dolk og Skede
-date: 1695710066
-map_pos: 0.7605,0.7258
-source_id: 3807
-name: Madguiden
-race_id: Dwarf
-level: 29
-map_id: 1440
-last_words: |cff0070dd|Hitem:13137:33:::::::29:::::::::|h[Ironweaver]|h|r så burde jeg og kunne holde et par levels mere xD
-----------------------------------------
-Player ID: Nyrdalinho-1355
-class_id: Rogue
-guild: 
-date: 1695715404
-map_pos: 0.3119,0.7311
-source_id: 1162
-name: Nyrdalinho
-last_words: tnx
-level: 13
-map_id: 1432
-race_id: Human
-----------------------------------------
-Player ID: Anuvaone-25975
-class_id: Warrior
-guild: Lord of the Dings
-date: 1695542506
-map_pos: 0.7108,0.5448
-source_id: 5434
-name: Anuvaone
-race_id: Dwarf
-level: 40
-map_id: 1445
-last_words: {rt3} RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
-----------------------------------------
-Player ID: Clotted-6412
-class_id: Mage
-guild: 
-date: 1695641005
-map_pos: 0.6783,0.6327
-source_id: 1167
-name: Clotted
-last_words: ggs
-level: 19
-map_id: 1432
-race_id: Human
-----------------------------------------
 Player ID: Áìà-17750
 class_id: Warrior
 guild: 
@@ -2626,17 +2878,125 @@ level: 36
 map_id: 1417
 last_words: during that time i need to loot some items
 ----------------------------------------
-Player ID: Orrlen-25215
-class_id: Paladin
-guild: Beispiel Gildenname
-date: 1695633188
-map_pos: 0.3433,0.3258
-source_id: -1
-name: Orrlen
-last_words: F
-level: 13
-map_id: 1436
+Player ID: Merlingf-28714
+class_id: Mage
+guild: Mages
+date: 1695715037
+map_pos: 0.7510,0.8180
+source_id: 485
+name: Merlingf
+last_words: :m
+level: 20
+map_id: 1433
+race_id: Gnome
+----------------------------------------
+Player ID: Dorito-15106
+class_id: Mage
+guild: Drumroll
+date: 1695655300
+map_pos: 0.1114,0.6492
+source_id: 1418
+name: Dorito
+race_id: Gnome
+level: 29
+map_id: 1437
+last_words: worth
+----------------------------------------
+Player ID: Oshoila-1611
+class_id: Warrior
+guild: Go Agane
+date: 1695728525
+map_pos: 0.3216,0.2382
+source_id: -3
+name: Oshoila
 race_id: Human
+level: 31
+map_id: 1441
+last_words: lol
+----------------------------------------
+Player ID: Vanheden-16740
+class_id: Priest
+guild: 
+date: 1695634256
+map_pos: 
+source_id: 1716
+name: Vanheden
+last_words: ty
+level: 26
+race_id: Dwarf
+instance_id: 34
+----------------------------------------
+Player ID: Kléiahc-56307
+class_id: Hunter
+guild: 
+date: 1695503435
+map_pos: 0.5147,0.5147
+source_id: 1038
+name: Kléiahc
+race_id: Night Elf
+level: 29
+map_id: 1437
+last_words: pull back
+----------------------------------------
+Player ID: Yoînk-33457
+class_id: Rogue
+guild: Memento Mori
+date: 1695730381
+map_pos: 0.3562,0.4272
+source_id: 485
+name: Yoînk
+race_id: Human
+level: 19
+map_id: 1433
+last_words: hey again =)
+----------------------------------------
+Player ID: Avathar-54416
+class_id: Warrior
+guild: 
+date: 1695636759
+map_pos: 0.3352,0.3288
+source_id: -1
+name: Avathar
+last_words: wtf
+level: 26
+map_id: 1437
+race_id: Human
+----------------------------------------
+Player ID: Kittycatsix-63362
+class_id: Rogue
+guild: HC Spain
+date: 1695504033
+map_pos: 0.5503,0.3486
+source_id: 2180
+name: Kittycatsix
+last_words: HOLAAA
+level: 17
+map_id: 1439
+race_id: Gnome
+----------------------------------------
+Player ID: Qris-5305
+class_id: Rogue
+guild: GODSENT
+date: 1695718181
+map_pos: 0.6665,0.7460
+source_id: 533
+name: Qris
+last_words: dude
+level: 25
+map_id: 1431
+race_id: Human
+----------------------------------------
+Player ID: Wasäbi-15371
+class_id: Druid
+guild: Dice
+date: 1695626943
+map_pos: 0.3577,0.2750
+source_id: 1177
+name: Wasäbi
+last_words: morning!
+level: 12
+map_id: 1432
+race_id: Night Elf
 ----------------------------------------
 Player ID: Ritogames-57368
 class_id: Mage
@@ -2650,29 +3010,41 @@ level: 23
 map_id: 1415
 last_words: he is completed already
 ----------------------------------------
-Player ID: Kilhom-29355
-class_id: Hunter
-guild: Pero la quería tanto
-date: 1695633660
-map_pos: 0.2969,0.5063
-source_id: -1
-name: Kilhom
-race_id: Dwarf
-level: 16
-map_id: 1436
-last_words: lo puedes mira en atlas loot
-----------------------------------------
-Player ID: Slushyturdle-34028
+Player ID: Ramsie-62874
 class_id: Priest
 guild: Legenden der Allianz
-date: 1695716988
-map_pos: 
-source_id: 12220
-name: Slushyturdle
-last_words: remember im still 44
-level: 44
+date: 1695631105
+map_pos: 0.6435,0.8213
+source_id: -1
+name: Ramsie
+last_words: F
+level: 36
+map_id: 1443
 race_id: Dwarf
-instance_id: 349
+----------------------------------------
+Player ID: Naravas-51231
+class_id: Warrior
+guild: Soldaten der Allianz
+date: 1695633628
+map_pos: 0.3150,0.8360
+source_id: -1
+name: Naravas
+race_id: Dwarf
+level: 19
+map_id: 1436
+last_words: ty
+----------------------------------------
+Player ID: Nedjs-26914
+class_id: Warrior
+guild: 
+date: 1695629909
+map_pos: 0.3536,0.7364
+source_id: 1161
+name: Nedjs
+race_id: Human
+level: 11
+map_id: 1432
+last_words: ty ++
 ----------------------------------------
 Player ID: Arbeitszeit-41553
 class_id: Rogue
@@ -2685,18 +3057,6 @@ last_words: F
 level: 15
 map_id: 1436
 race_id: Human
-----------------------------------------
-Player ID: Machalotee-295
-class_id: Hunter
-guild: 
-date: 1695638016
-map_pos: 0.3828,0.4863
-source_id: 2163
-name: Machalotee
-race_id: Night Elf
-level: 12
-map_id: 1439
-last_words: owl
 ----------------------------------------
 Player ID: Darssouille-42571
 class_id: Paladin
@@ -2718,20 +3078,8 @@ map_pos: 0.3298,0.2201
 source_id: 3732
 name: Tankatronic
 last_words: 5 MOBS! |cffffffff|Hitem:5366::::::::24:::::::::|h[Glowing Soul Gem]|h|r
-map_id: 1440
 level: 24
-race_id: Human
-----------------------------------------
-Player ID: Hakuquast-25323
-class_id: Warrior
-guild: 
-date: 1695722501
-map_pos: 0.3695,0.6792
-source_id: 2204
-name: Hakuquast
-last_words: ty bb
-level: 17
-map_id: 1439
+map_id: 1440
 race_id: Human
 ----------------------------------------
 Player ID: Dilerxz-26303
@@ -2746,17 +3094,29 @@ level: 58
 map_id: 1452
 race_id: Human
 ----------------------------------------
-Player ID: Qris-5305
-class_id: Rogue
-guild: GODSENT
-date: 1695718181
-map_pos: 0.6665,0.7460
-source_id: 533
-name: Qris
-last_words: dude
-level: 25
-map_id: 1431
+Player ID: Leandrin-30590
+class_id: Warlock
+guild: Fraktion XIlI
+date: 1695504097
+map_pos: 0.4165,0.7796
+source_id: -1
+name: Leandrin
+last_words: scheint ja gehfahrlos zu sein.,falls man nicht in den kanal fällt :)
+level: 7
+map_id: 1429
 race_id: Human
+----------------------------------------
+Player ID: Kilhom-29355
+class_id: Hunter
+guild: Pero la quería tanto
+date: 1695633660
+map_pos: 0.2969,0.5063
+source_id: -1
+name: Kilhom
+race_id: Dwarf
+level: 16
+map_id: 1436
+last_words: lo puedes mira en atlas loot
 ----------------------------------------
 Player ID: Idieiquitlul-1227
 class_id: Warrior
@@ -2782,17 +3142,41 @@ level: 13
 map_id: 1432
 race_id: Human
 ----------------------------------------
-Player ID: Magicznybusz-25022
-class_id: Druid
-guild: N E R D
-date: 1695724205
-map_pos: 0.2503,0.4232
-source_id: 1400
-name: Magicznybusz
-last_words: see ya!
-level: 12
-map_id: 1437
+Player ID: Freelf-10894
+class_id: Hunter
+guild: 
+date: 1695650459
+map_pos: 0.3596,0.8375
+source_id: 2156
+name: Freelf
+last_words: ty
+level: 18
+map_id: 1439
 race_id: Night Elf
+----------------------------------------
+Player ID: Mixéry-56115
+class_id: Mage
+guild: Die Soldaten Lordaerons
+date: 1695716395
+map_pos: 0.4589,0.4707
+source_id: 1131
+name: Mixéry
+race_id: Gnome
+level: 6
+map_id: 1426
+last_words: hey
+----------------------------------------
+Player ID: Farfora-46961
+class_id: Hunter
+guild: Dice
+date: 1695650465
+map_pos: 0.4107,0.7970
+source_id: 1727
+name: Farfora
+last_words: care behind 
+level: 23
+map_id: 1415
+race_id: Dwarf
 ----------------------------------------
 Player ID: Topriest-55697
 class_id: Priest
@@ -2830,17 +3214,17 @@ level: 16
 map_id: 1439
 race_id: Human
 ----------------------------------------
-Player ID: Lekorvi-16857
+Player ID: Culex-60553
 class_id: Mage
-guild: 
-date: 1695654407
-map_pos: 0.6415,0.7032
-source_id: 205
-name: Lekorvi
+guild: Anima Allstars
+date: 1695728066
+map_pos: 0.7350,0.2094
+source_id: 1180
+name: Culex
 race_id: Gnome
-level: 21
-map_id: 1431
-last_words: sorry no can do 
+level: 19
+map_id: 1432
+last_words: that mob hits like a truck
 ----------------------------------------
 Player ID: Borden-15350
 class_id: Paladin
@@ -2854,101 +3238,17 @@ level: 6
 map_id: 1429
 last_words: yo
 ----------------------------------------
-Player ID: Clissy-51024
-class_id: Rogue
-guild: Subversion
-date: 1695643095
-map_pos: 0.8152,0.5699
-source_id: 46
-name: Clissy
-race_id: Human
-level: 8
-map_id: 1429
-last_words: F
-----------------------------------------
-Player ID: Gohr-8893
-class_id: Warrior
-guild: 
-date: 1695649691
-map_pos: 0.7132,0.5189
-source_id: 1117
-name: Gohr
-race_id: Gnome
-level: 10
-map_id: 1426
-last_words: Thanks !!
-----------------------------------------
-Player ID: Floppathird-7661
-class_id: Priest
-guild: Лесная Братва
-date: 1695654353
-map_pos: 0.2942,0.9163
-source_id: 478
-name: Floppathird
-race_id: Human
-level: 10
-map_id: 1429
-last_words: у меня 0 до сих пор
-----------------------------------------
-Player ID: Bimbobeutlin-59630
-class_id: Mage
-guild: Bande am Rande
-date: 1695651344
-map_pos: 
-source_id: 1708
-name: Bimbobeutlin
-last_words: wenn ich wieder mana habe :D
-level: 24
-race_id: Gnome
-instance_id: 34
-----------------------------------------
-Player ID: Стильрайдер-56194
-class_id: Hunter
-guild: This Time its for Real
-date: 1695724647
-map_pos: 0.3713,0.4974
-source_id: -1
-name: Стильрайдер
-last_words: TY
-level: 11
-map_id: 1439
+Player ID: Magicznybusz-25022
+class_id: Druid
+guild: N E R D
+date: 1695724205
+map_pos: 0.2503,0.4232
+source_id: 1400
+name: Magicznybusz
+last_words: see ya!
+level: 12
+map_id: 1437
 race_id: Night Elf
-----------------------------------------
-Player ID: Merlingf-28714
-class_id: Mage
-guild: Mages
-date: 1695715037
-map_pos: 0.7510,0.8180
-source_id: 485
-name: Merlingf
-last_words: :m
-level: 20
-map_id: 1433
-race_id: Gnome
-----------------------------------------
-Player ID: Himejima-33752
-class_id: Mage
-guild: Mokrobrek
-date: 1695645732
-map_pos: 0.3928,0.7167
-source_id: 441
-name: Himejima
-race_id: Human
-level: 17
-map_id: 1433
-last_words: to mi nějak nesedí :D já za priesta nemohl rebuffnout flagnutého party membera
-----------------------------------------
-Player ID: Zoldars-6263
-class_id: Rogue
-guild: 
-date: 1695504378
-map_pos: 0.7020,0.7580
-source_id: -1
-name: Zoldars
-last_words: ty
-level: 7
-map_id: 1429
-race_id: Human
 ----------------------------------------
 Player ID: Kegsmash-29801
 class_id: Warrior
@@ -2962,221 +3262,17 @@ level: 18
 map_id: 1439
 last_words: ty
 ----------------------------------------
-Player ID: Avathar-54416
-class_id: Warrior
-guild: 
-date: 1695636759
-map_pos: 0.3352,0.3288
-source_id: -1
-name: Avathar
-last_words: wtf
-level: 26
-map_id: 1437
-race_id: Human
-----------------------------------------
-Player ID: Breadbake-43425
-class_id: Priest
-guild: 
-date: 1695720540
-map_pos: 0.5200,0.4434
-source_id: 1034
-name: Breadbake
-race_id: Dwarf
-level: 31
-map_id: 1437
-last_words: gg
-----------------------------------------
-Player ID: Vanheden-16740
-class_id: Priest
-guild: 
-date: 1695634256
-map_pos: 
-source_id: 1716
-name: Vanheden
-last_words: ty
-level: 26
-race_id: Dwarf
-instance_id: 34
-----------------------------------------
-Player ID: Asuffel-45499
-class_id: Paladin
-guild: YES
-date: 1695721683
-map_pos: 0.2459,0.3691
-source_id: 426
-name: Asuffel
-last_words: F
-level: 22
-map_id: 1433
-race_id: Human
-----------------------------------------
-Player ID: Wasäbi-15371
-class_id: Druid
-guild: Dice
-date: 1695626943
-map_pos: 0.3577,0.2750
-source_id: 1177
-name: Wasäbi
-last_words: morning!
-level: 12
-map_id: 1432
-race_id: Night Elf
-----------------------------------------
-Player ID: Memoridiez-46418
-class_id: Mage
-guild: 
-date: 1695723901
-map_pos: 0.3417,0.6759
-source_id: 3781
-name: Memoridiez
-last_words: thx
-level: 23
-map_id: 1440
-race_id: Human
-----------------------------------------
-Player ID: Naravas-51231
-class_id: Warrior
-guild: Soldaten der Allianz
-date: 1695633628
-map_pos: 0.3150,0.8360
-source_id: -1
-name: Naravas
-race_id: Dwarf
-level: 19
-map_id: 1436
-last_words: ty
-----------------------------------------
-Player ID: Ailise-34134
-class_id: Mage
-guild: 
-date: 1695650580
-map_pos: 0.5397,0.7593
-source_id: 441
-name: Ailise
-last_words: cya
-level: 21
-map_id: 1433
-race_id: Human
-----------------------------------------
-Player ID: Nedjs-26914
-class_id: Warrior
-guild: 
-date: 1695629909
-map_pos: 0.3536,0.7364
-source_id: 1161
-name: Nedjs
-race_id: Human
-level: 11
-map_id: 1432
-last_words: ty ++
-----------------------------------------
-Player ID: Sugardaddhy-49875
+Player ID: Pewpewgaming-39981
 class_id: Hunter
-guild: Apogée
-date: 1695725814
-map_pos: 0.4249,0.1836
-source_id: 834
-name: Sugardaddhy
-last_words: yo
-level: 13
-map_id: 1436
-race_id: Night Elf
-----------------------------------------
-Player ID: Nosumm-31013
-class_id: Warlock
-guild: Hódító Hódok
-date: 1695631204
-map_pos: 0.2593,0.8207
-source_id: 448
-name: Nosumm
-race_id: Human
-level: 11
-map_id: 1429
-last_words: :d
-----------------------------------------
-Player ID: Leandrin-30590
-class_id: Warlock
-guild: Fraktion XIlI
-date: 1695504097
-map_pos: 0.4165,0.7796
-source_id: -1
-name: Leandrin
-last_words: scheint ja gehfahrlos zu sein.,falls man nicht in den kanal fällt :)
-level: 7
-map_id: 1429
-race_id: Human
-----------------------------------------
-Player ID: Tacoxo-38282
-class_id: Priest
-guild: Going Under
-date: 1695653839
-map_pos: 0.2677,0.4507
-source_id: 1127
-name: Tacoxo
-race_id: Dwarf
-level: 8
-map_id: 1426
-last_words: ty
-----------------------------------------
-Player ID: Moarbrew-7178
-class_id: Priest
 guild: 
-date: 1695631355
-map_pos: 0.6284,0.1186
-source_id: -3
-name: Moarbrew
-last_words: Wand gang hype !
-level: 16
-map_id: 1426
-race_id: Dwarf
-----------------------------------------
-Player ID: Arknt-62781
-class_id: Rogue
-guild: 
-date: 1695503237
-map_pos: 0.3857,0.8545
-source_id: 2338
-name: Arknt
-last_words: ty
-level: 19
-map_id: 1439
-race_id: Human
-----------------------------------------
-Player ID: Cpthc-29685
-class_id: Druid
-guild: 
-date: 1695632917
-map_pos: 0.8434,0.5051
-source_id: 431
-name: Cpthc
-race_id: Night Elf
-level: 27
-map_id: 1433
-last_words: dafuq are u doing??
-----------------------------------------
-Player ID: Tagalop-38651
-class_id: Warrior
-guild: 
-date: 1695726750
-map_pos: 0.3525,0.8726
-source_id: 1164
-name: Tagalop
-race_id: Dwarf
-level: 13
+date: 1695713877
+map_pos: 0.6803,0.4148
+source_id: 2477
+name: Pewpewgaming
+last_words: ^^
+level: 17
 map_id: 1432
-last_words: killing troggs
-----------------------------------------
-Player ID: Nopeitwo-61484
-class_id: Rogue
-guild: 
-date: 1695650368
-map_pos: 0.4115,0.7797
-source_id: 327
-name: Nopeitwo
-last_words: ty
-level: 7
-map_id: 1429
-race_id: Human
+race_id: Night Elf
 ----------------------------------------
 Player ID: Ilsalund-32326
 class_id: Mage
@@ -3190,101 +3286,89 @@ level: 19
 map_id: 1433
 last_words: u2
 ----------------------------------------
-Player ID: Lägerer-5701
-class_id: Rogue
-guild: F To Pay Respects
-date: 1695501967
-map_pos: 0.6803,0.7933
-source_id: -1
-name: Lägerer
-last_words: np
-level: 9
-map_id: 1429
-race_id: Human
+Player ID: Bimbobeutlin-59630
+class_id: Mage
+guild: Bande am Rande
+date: 1695651344
+map_pos: 
+source_id: 1708
+name: Bimbobeutlin
+last_words: wenn ich wieder mana habe :D
+level: 24
+race_id: Gnome
+instance_id: 34
 ----------------------------------------
-Player ID: Apuh-39581
-class_id: Hunter
+Player ID: Cpthc-29685
+class_id: Druid
 guild: 
-date: 1695504114
-map_pos: 0.1443,0.3645
-source_id: 785
-name: Apuh
-last_words: 60s-1g if you get lucky I think
+date: 1695632917
+map_pos: 0.8434,0.5051
+source_id: 431
+name: Cpthc
+race_id: Night Elf
 level: 27
-map_id: 1431
+map_id: 1433
+last_words: dafuq are u doing??
+----------------------------------------
+Player ID: Стильрайдер-56194
+class_id: Hunter
+guild: This Time its for Real
+date: 1695724647
+map_pos: 0.3713,0.4974
+source_id: -1
+name: Стильрайдер
+last_words: TY
+level: 11
+map_id: 1439
 race_id: Night Elf
 ----------------------------------------
-Player ID: Farfora-46961
-class_id: Hunter
-guild: Dice
-date: 1695650465
-map_pos: 0.4107,0.7970
-source_id: 1727
-name: Farfora
-last_words: care behind 
-level: 23
+Player ID: Reijinko-19004
+class_id: Warrior
+guild: 
+date: 1695654943
+map_pos: 0.4342,0.2699
+source_id: 504
+name: Reijinko
+race_id: Human
+level: 13
+map_id: 1436
+last_words: thx
+----------------------------------------
+Player ID: Sussybaaka-20251
+class_id: Priest
+guild: 
+date: 1695731514
+map_pos: 0.4112,0.7933
+source_id: 624
+name: Sussybaaka
+last_words: ooom
 map_id: 1415
+level: 21
 race_id: Dwarf
 ----------------------------------------
-Player ID: Donpito-51820
+Player ID: Mvn-32092
 class_id: Warrior
-guild: Pero la quería tanto
-date: 1695651732
-map_pos: 0.2214,0.1370
-source_id: 595
-name: Donpito
-race_id: Night Elf
-level: 36
-map_id: 1434
-last_words: Buenas tardes
+guild: loser
+date: 1695654868
+map_pos: 0.6901,0.7437
+source_id: 441
+name: Mvn
+race_id: Human
+level: 18
+map_id: 1433
+last_words: pls
 ----------------------------------------
-Player ID: Atranaxotrax-25282
-class_id: Rogue
-guild: 
-date: 1695644280
-map_pos: 0.3770,0.2455
-source_id: -1
-name: Atranaxotrax
-race_id: Night Elf
-level: 11
-map_id: 1438
-last_words: np
-----------------------------------------
-Player ID: Lagdcban-42509
+Player ID: Sowoph-44570
 class_id: Mage
-guild: 
-date: 1695631834
-map_pos: 0.2266,0.5197
-source_id: 1121
-name: Lagdcban
-race_id: Gnome
-level: 8
-map_id: 1426
-last_words: idiot
-----------------------------------------
-Player ID: Kleineropa-3342
-class_id: Mage
-guild: 
-date: 1695719276
-map_pos: 0.2110,0.5416
-source_id: 1122
-name: Kleineropa
-last_words: be carefull
-level: 9
-map_id: 1426
-race_id: Gnome
-----------------------------------------
-Player ID: Toeboy-7588
-class_id: Warlock
-guild: 
-date: 1695513847
-map_pos: 0.7792,0.6263
-source_id: 6123
-name: Toeboy
-race_id: Gnome
-level: 12
-map_id: 1426
-last_words: i just like them :)
+guild: Spaceglider
+date: 1695727774
+map_pos: 0.3841,0.2999
+source_id: 1172
+name: Sowoph
+last_words: RIPBOZO 
+level: 13
+map_id: 1432
+race_id: Human
 ----------------------------------------
 Player ID: Daethers-21494
 class_id: Rogue
@@ -3298,65 +3382,41 @@ level: 21
 map_id: 1433
 last_words: need only one more
 ----------------------------------------
-Player ID: Redroot-49160
+Player ID: Rïñ-31427
 class_id: Druid
-guild: YES
-date: 1695652131
-map_pos: 0.5553,0.3544
-source_id: 2180
-name: Redroot
-last_words: la boite a caca oO
-level: 17
-map_id: 1439
+guild: ZAKON
+date: 1695503180
+map_pos: 0.4114,0.7970
+source_id: 824
+name: Rïñ
+last_words: xD
+level: 23
+map_id: 1415
 race_id: Night Elf
 ----------------------------------------
-Player ID: Holymekael-31921
-class_id: Paladin
-guild: 
-date: 1695626588
-map_pos: 0.8120,0.5516
-source_id: 46
-name: Holymekael
-last_words: ??
-level: 8
-map_id: 1429
-race_id: Human
-----------------------------------------
-Player ID: Sibmage-19637
+Player ID: Himejima-33752
 class_id: Mage
+guild: Mokrobrek
+date: 1695645732
+map_pos: 0.3928,0.7167
+source_id: 441
+name: Himejima
+race_id: Human
+level: 17
+map_id: 1433
+last_words: to mi nějak nesedí :D já za priesta nemohl rebuffnout flagnutého party membera
+----------------------------------------
+Player ID: Breadbake-43425
+class_id: Priest
 guild: 
-date: 1695650964
-map_pos: 0.4336,0.3856
-source_id: 114
-name: Sibmage
-race_id: Gnome
-level: 13
-map_id: 1436
-last_words: gg gl
-----------------------------------------
-Player ID: Kevîn-21713
-class_id: Warrior
-guild: Memento Mori
-date: 1695632904
-map_pos: 0.4771,0.3474
-source_id: 2189
-name: Kevîn
-race_id: Night Elf
-level: 13
-map_id: 1439
-last_words: can relate
-----------------------------------------
-Player ID: Sicknèss-48789
-class_id: Warlock
-guild: Viva Hollandia
-date: 1695634109
-map_pos: 0.4929,0.5752
-source_id: 1126
-name: Sicknèss
-last_words: F
-level: 6
-map_id: 1426
-race_id: Gnome
+date: 1695720540
+map_pos: 0.5200,0.4434
+source_id: 1034
+name: Breadbake
+race_id: Dwarf
+level: 31
+map_id: 1437
+last_words: gg
 ----------------------------------------
 Player ID: Vitu-44877
 class_id: Hunter
@@ -3370,17 +3430,17 @@ level: 27
 map_id: 1437
 race_id: Night Elf
 ----------------------------------------
-Player ID: Huunthc-59442
-class_id: Hunter
-guild: Miséricørde
-date: 1695627250
-map_pos: 0.5135,0.1363
+Player ID: Skritnitsa-28870
+class_id: Rogue
+guild: 
+date: 1695711938
+map_pos: 0.4462,0.5702
 source_id: -1
-name: Huunthc
+name: Skritnitsa
 race_id: Night Elf
-level: 11
-map_id: 1436
-last_words: perso j'vois le niveau de jeu de certain j'ai peur 
+level: 8
+map_id: 1438
+last_words: thx for group
 ----------------------------------------
 Player ID: Notdéad-19941
 class_id: Hunter
@@ -3418,17 +3478,437 @@ level: 11
 map_id: 1439
 race_id: Night Elf
 ----------------------------------------
-Player ID: Rïñ-31427
+Player ID: Asuffel-45499
+class_id: Paladin
+guild: YES
+date: 1695721683
+map_pos: 0.2459,0.3691
+source_id: 426
+name: Asuffel
+last_words: F
+level: 22
+map_id: 1433
+race_id: Human
+----------------------------------------
+Player ID: Ethellyn-47980
 class_id: Druid
-guild: ZAKON
-date: 1695503180
-map_pos: 0.4114,0.7970
-source_id: 824
-name: Rïñ
-last_words: xD
-level: 23
-map_id: 1415
+guild: Undying
+date: 1695651675
+map_pos: 0.4007,0.3430
+source_id: 5477
+name: Ethellyn
 race_id: Night Elf
+level: 38
+map_id: 1435
+last_words: have fun :)
+----------------------------------------
+Player ID: Memoridiez-46418
+class_id: Mage
+guild: 
+date: 1695723901
+map_pos: 0.3417,0.6759
+source_id: 3781
+name: Memoridiez
+last_words: thx
+level: 23
+map_id: 1440
+race_id: Human
+----------------------------------------
+Player ID: Priestian-41301
+class_id: Priest
+guild: Bande am Rande
+date: 1695652577
+map_pos: 0.4065,0.8667
+source_id: 113
+name: Priestian
+race_id: Human
+level: 6
+map_id: 1429
+last_words: Bandengruß
+----------------------------------------
+Player ID: Jeanpeupu-10864
+class_id: Priest
+guild: 
+date: 1695730594
+map_pos: 0.2731,0.4953
+source_id: -1
+name: Jeanpeupu
+race_id: Dwarf
+level: 10
+map_id: 1432
+last_words: WAIT
+----------------------------------------
+Player ID: Ailise-34134
+class_id: Mage
+guild: 
+date: 1695650580
+map_pos: 0.5397,0.7593
+source_id: 441
+name: Ailise
+last_words: cya
+level: 21
+map_id: 1433
+race_id: Human
+----------------------------------------
+Player ID: Sugardaddhy-49875
+class_id: Hunter
+guild: Apogée
+date: 1695725814
+map_pos: 0.4249,0.1836
+source_id: 834
+name: Sugardaddhy
+last_words: yo
+level: 13
+map_id: 1436
+race_id: Night Elf
+----------------------------------------
+Player ID: Nemeya-19857
+class_id: Warlock
+guild: If i die i die
+date: 1695654125
+map_pos: 0.4484,0.2314
+last_words: ^^
+name: Nemeya
+race_id: Gnome
+level: 17
+map_id: 1436
+source_id: -1
+----------------------------------------
+Player ID: Hiruiil-46822
+class_id: Paladin
+guild: La Giungla HC
+date: 1695729150
+map_pos: 0.8142,0.5830
+source_id: -3
+name: Hiruiil
+race_id: Human
+level: 28
+map_id: 1433
+last_words: ty buddy
+----------------------------------------
+Player ID: Apuh-39581
+class_id: Hunter
+guild: 
+date: 1695504114
+map_pos: 0.1443,0.3645
+source_id: 785
+name: Apuh
+last_words: 60s-1g if you get lucky I think
+level: 27
+map_id: 1431
+race_id: Night Elf
+----------------------------------------
+Player ID: Atranaxotrax-25282
+class_id: Rogue
+guild: 
+date: 1695644280
+map_pos: 0.3770,0.2455
+source_id: -1
+name: Atranaxotrax
+race_id: Night Elf
+level: 11
+map_id: 1438
+last_words: np
+----------------------------------------
+Player ID: Омерта-21368
+class_id: Hunter
+guild: Mortal Six
+date: 1695652561
+map_pos: 0.5341,0.4896
+source_id: 2038
+name: Омерта
+race_id: Night Elf
+level: 8
+map_id: 1438
+last_words: ty
+----------------------------------------
+Player ID: Tsepo-12761
+class_id: Rogue
+guild: 
+date: 1695541835
+map_pos: 0.6967,0.8094
+source_id: 330
+name: Tsepo
+last_words: can you guys help me kill pricess pls 
+level: 6
+map_id: 1429
+race_id: Human
+----------------------------------------
+Player ID: Lägerer-5701
+class_id: Rogue
+guild: F To Pay Respects
+date: 1695501967
+map_pos: 0.6803,0.7933
+source_id: -1
+name: Lägerer
+last_words: np
+level: 9
+map_id: 1429
+race_id: Human
+----------------------------------------
+Player ID: Formymods-14982
+class_id: Hunter
+guild: 
+date: 1695652485
+map_pos: 0.6791,0.5584
+source_id: -3
+name: Formymods
+last_words: Wanna take em and roll for the chest?=
+level: 11
+map_id: 1426
+race_id: Dwarf
+----------------------------------------
+Player ID: Nopeitwo-61484
+class_id: Rogue
+guild: 
+date: 1695650368
+map_pos: 0.4115,0.7797
+source_id: 327
+name: Nopeitwo
+last_words: ty
+level: 7
+map_id: 1429
+race_id: Human
+----------------------------------------
+Player ID: Justbelieve-57165
+class_id: Priest
+guild: 
+date: 1695648949
+map_pos: 0.3915,0.2967
+source_id: -2
+name: Justbelieve
+race_id: Human
+level: 16
+map_id: 1439
+last_words: my game
+----------------------------------------
+Player ID: Robn-65109
+class_id: Mage
+guild: 
+date: 1695636923
+map_pos: 0.3611,0.2699
+source_id: -1
+name: Robn
+last_words: np bro
+level: 13
+map_id: 1432
+race_id: Gnome
+----------------------------------------
+Player ID: Donpito-51820
+class_id: Warrior
+guild: Pero la quería tanto
+date: 1695651732
+map_pos: 0.2214,0.1370
+source_id: 595
+name: Donpito
+race_id: Night Elf
+level: 36
+map_id: 1434
+last_words: Buenas tardes
+----------------------------------------
+Player ID: Aldersbach-61945
+class_id: Priest
+guild: Laubschimmer
+date: 1695641295
+map_pos: 0.3446,0.7494
+source_id: 1161
+name: Aldersbach
+race_id: Dwarf
+level: 11
+map_id: 1432
+last_words: ty
+----------------------------------------
+Player ID: Lagdcban-42509
+class_id: Mage
+guild: 
+date: 1695631834
+map_pos: 0.2266,0.5197
+source_id: 1121
+name: Lagdcban
+race_id: Gnome
+level: 8
+map_id: 1426
+last_words: idiot
+----------------------------------------
+Player ID: Brocolista-47559
+class_id: Rogue
+guild: I CANT RELEASE
+date: 1695730066
+map_pos: 0.5279,0.7408
+source_id: 122
+name: Brocolista
+race_id: Gnome
+level: 17
+map_id: 1436
+last_words: haha okay
+----------------------------------------
+Player ID: Kleineropa-3342
+class_id: Mage
+guild: 
+date: 1695719276
+map_pos: 0.2110,0.5416
+source_id: 1122
+name: Kleineropa
+last_words: be carefull
+level: 9
+map_id: 1426
+race_id: Gnome
+----------------------------------------
+Player ID: Toeboy-7588
+class_id: Warlock
+guild: 
+date: 1695513847
+map_pos: 0.7792,0.6263
+source_id: 6123
+name: Toeboy
+race_id: Gnome
+level: 12
+map_id: 1426
+last_words: i just like them :)
+----------------------------------------
+Player ID: Redroot-49160
+class_id: Druid
+guild: YES
+date: 1695652131
+map_pos: 0.5553,0.3544
+source_id: 2180
+name: Redroot
+last_words: la boite a caca oO
+level: 17
+map_id: 1439
+race_id: Night Elf
+----------------------------------------
+Player ID: Nekosha-20271
+class_id: Druid
+guild: Лесная Братва
+date: 1695640568
+map_pos: 0.3626,0.3365
+source_id: 2000
+name: Nekosha
+last_words: F
+level: 9
+map_id: 1438
+race_id: Night Elf
+----------------------------------------
+Player ID: Corpseruptn-30897
+class_id: Warrior
+guild: 
+date: 1695651770
+map_pos: 0.5157,0.2731
+source_id: 680
+name: Corpseruptn
+race_id: Human
+level: 45
+map_id: 1434
+last_words: taunting
+----------------------------------------
+Player ID: Holymekael-31921
+class_id: Paladin
+guild: 
+date: 1695626588
+map_pos: 0.8120,0.5516
+source_id: 46
+name: Holymekael
+last_words: ??
+level: 8
+map_id: 1429
+race_id: Human
+----------------------------------------
+Player ID: Fysikk-25423
+class_id: Paladin
+guild: HC Norge
+date: 1695542239
+map_pos: 0.3519,0.2390
+source_id: 1175
+name: Fysikk
+race_id: Human
+level: 13
+map_id: 1432
+last_words: får ikke bruke heartstone, damn
+----------------------------------------
+Player ID: Sicknèss-48789
+class_id: Warlock
+guild: Viva Hollandia
+date: 1695634109
+map_pos: 0.4929,0.5752
+source_id: 1126
+name: Sicknèss
+last_words: F
+level: 6
+map_id: 1426
+race_id: Gnome
+----------------------------------------
+Player ID: Drafty-9445
+class_id: Warrior
+guild: Cuties
+date: 1695728463
+map_pos: 0.2598,0.4785
+source_id: 8503
+name: Drafty
+race_id: Gnome
+level: 9
+map_id: 1426
+last_words: arathi highlands is an option too
+----------------------------------------
+Player ID: Moaossy-4482
+class_id: Paladin
+guild: 
+date: 1695729622
+map_pos: 0.5552,0.5754
+source_id: -1
+name: Moaossy
+race_id: Dwarf
+level: 6
+map_id: 1426
+last_words: valverge ouais
+----------------------------------------
+Player ID: Zauko-17056
+class_id: Warrior
+guild: 
+date: 1695644287
+map_pos: 0.3905,0.8102
+source_id: -1
+name: Zauko
+race_id: Human
+level: 6
+map_id: 1429
+last_words: {rt3} RestedXP Guides: Je viens de gagner un niveau depuis 5 vers 6 en 14 minutes 14 secondes
+----------------------------------------
+Player ID: Bankthoras-55269
+class_id: Paladin
+guild: 
+date: 1695728218
+map_pos: 0.7113,0.7530
+source_id: 390
+name: Bankthoras
+race_id: Human
+level: 8
+map_id: 1429
+last_words: help
+----------------------------------------
+Player ID: Moarbrew-7178
+class_id: Priest
+guild: 
+date: 1695631355
+map_pos: 0.6284,0.1186
+source_id: -3
+name: Moarbrew
+last_words: Wand gang hype !
+level: 16
+map_id: 1426
+race_id: Dwarf
+----------------------------------------
+Player ID: Klayjaw-52559
+class_id: Warrior
+guild: HC Myth
+date: 1695727478
+map_pos: 0.3758,0.3648
+source_id: 1202
+name: Klayjaw
+last_words: Hello
+level: 13
+map_id: 1432
+race_id: Human
 ----------------------------------------
 Player ID: Sarinety-29831
 class_id: Warrior
@@ -3454,18 +3934,6 @@ level: 49
 map_id: 1446
 race_id: Human
 ----------------------------------------
-Player ID: Calrouge-41439
-class_id: Rogue
-guild: Rogues
-date: 1695719420
-map_pos: 0.3649,0.8147
-source_id: 1166
-name: Calrouge
-last_words: nice
-level: 13
-map_id: 1432
-race_id: Human
-----------------------------------------
 Player ID: Brewhaha-50391
 class_id: Rogue
 guild: SSF Player
@@ -3478,161 +3946,17 @@ level: 17
 map_id: 1432
 last_words: what did you discover?
 ----------------------------------------
-Player ID: Incap-12793
-class_id: Warrior
-guild: Zivi Mrtvi
-date: 1695655076
-map_pos: 
-source_id: 3840
-name: Incap
-last_words: >>Tanking Druid of the Fang<<
-level: 23
-race_id: Night Elf
-instance_id: 43
-----------------------------------------
-Player ID: Formymods-14982
-class_id: Hunter
-guild: 
-date: 1695652485
-map_pos: 0.6791,0.5584
-source_id: -3
-name: Formymods
-last_words: Wanna take em and roll for the chest?=
-level: 11
-map_id: 1426
-race_id: Dwarf
-----------------------------------------
-Player ID: Priestian-41301
-class_id: Priest
-guild: Bande am Rande
-date: 1695652577
-map_pos: 0.4065,0.8667
-source_id: 113
-name: Priestian
-race_id: Human
-level: 6
-map_id: 1429
-last_words: Bandengruß
-----------------------------------------
-Player ID: Омерта-21368
-class_id: Hunter
-guild: Mortal Six
-date: 1695652561
-map_pos: 0.5341,0.4896
-source_id: 2038
-name: Омерта
-race_id: Night Elf
-level: 8
-map_id: 1438
-last_words: ty
-----------------------------------------
-Player ID: Fysikk-25423
-class_id: Paladin
-guild: HC Norge
-date: 1695542239
-map_pos: 0.3519,0.2390
-source_id: 1175
-name: Fysikk
-race_id: Human
+Player ID: Calrouge-41439
+class_id: Rogue
+guild: Rogues
+date: 1695719420
+map_pos: 0.3649,0.8147
+source_id: 1166
+name: Calrouge
+last_words: nice
 level: 13
 map_id: 1432
-last_words: får ikke bruke heartstone, damn
-----------------------------------------
-Player ID: Corpseruptn-30897
-class_id: Warrior
-guild: 
-date: 1695651770
-map_pos: 0.5157,0.2731
-source_id: 680
-name: Corpseruptn
 race_id: Human
-level: 45
-map_id: 1434
-last_words: taunting
-----------------------------------------
-Player ID: Cikontwo-18571
-class_id: Hunter
-guild: 
-date: 1695723549
-map_pos: 0.5596,0.3499
-source_id: 2339
-name: Cikontwo
-last_words: ty
-level: 17
-map_id: 1439
-race_id: Night Elf
-----------------------------------------
-Player ID: Robn-65109
-class_id: Mage
-guild: 
-date: 1695636923
-map_pos: 0.3611,0.2699
-source_id: -1
-name: Robn
-last_words: np bro
-level: 13
-map_id: 1432
-race_id: Gnome
-----------------------------------------
-Player ID: Justbelieve-57165
-class_id: Priest
-guild: 
-date: 1695648949
-map_pos: 0.3915,0.2967
-source_id: -2
-name: Justbelieve
-race_id: Human
-level: 16
-map_id: 1439
-last_words: my game
-----------------------------------------
-Player ID: Thoots-26738
-class_id: Paladin
-guild: Go Agane
-date: 1695632037
-map_pos: 0.5599,0.3456
-source_id: 2339
-name: Thoots
-last_words: cya! :)
-level: 17
-map_id: 1439
-race_id: Human
-----------------------------------------
-Player ID: Nightwar-17163
-class_id: Warrior
-guild: 
-date: 1695722063
-map_pos: 0.6844,0.5604
-source_id: -1
-name: Nightwar
-last_words: :D
-level: 23
-map_id: 1433
-race_id: Night Elf
-----------------------------------------
-Player ID: Zauko-17056
-class_id: Warrior
-guild: 
-date: 1695644287
-map_pos: 0.3905,0.8102
-source_id: -1
-name: Zauko
-race_id: Human
-level: 6
-map_id: 1429
-last_words: {rt3} RestedXP Guides: Je viens de gagner un niveau depuis 5 vers 6 en 14 minutes 14 secondes
-----------------------------------------
-Player ID: Poofiexd-42798
-class_id: Mage
-guild: End Game Enjoyers
-date: 1695653697
-map_pos: 0.7978,0.4925
-source_id: -1
-name: Poofiexd
-race_id: Gnome
-level: 26
-map_id: 1433
-last_words: ok
 ----------------------------------------
 Player ID: Kwylph-49337
 class_id: Hunter
@@ -3646,18 +3970,6 @@ level: 13
 map_id: 1437
 last_words: bye
 ----------------------------------------
-Player ID: Lenah-55364
-class_id: Rogue
-guild: Flow
-date: 1695635412
-map_pos: 0.3462,0.9520
-source_id: -1
-name: Lenah
-last_words: A plus floxee
-level: 20
-map_id: 1432
-race_id: Human
-----------------------------------------
 Player ID: Ozeico-21799
 class_id: Paladin
 guild: Pero la quería tanto
@@ -3669,6 +3981,18 @@ last_words: Ya mismo te compras el brontosaurio
 level: 42
 map_id: 1434
 race_id: Dwarf
+----------------------------------------
+Player ID: Incap-12793
+class_id: Warrior
+guild: Zivi Mrtvi
+date: 1695655076
+map_pos: 
+source_id: 3840
+name: Incap
+last_words: >>Tanking Druid of the Fang<<
+level: 23
+race_id: Night Elf
+instance_id: 43
 ----------------------------------------
 Player ID: Monóry-42674
 class_id: Hunter
@@ -3682,28 +4006,16 @@ level: 20
 map_id: 1437
 source_id: 4971
 ----------------------------------------
-Player ID: Valdar-3370
-class_id: Druid
-guild: Miséricørde
-date: 1695710736
-map_pos: 0.4500,0.3846
-source_id: 5426
-name: Valdar
-race_id: Night Elf
-level: 48
-map_id: 1446
-last_words: Slt
-----------------------------------------
-Player ID: Nekosha-20271
-class_id: Druid
-guild: Лесная Братва
-date: 1695640568
-map_pos: 0.3626,0.3365
-source_id: 2000
-name: Nekosha
-last_words: F
-level: 9
-map_id: 1438
+Player ID: Cikontwo-18571
+class_id: Hunter
+guild: 
+date: 1695723549
+map_pos: 0.5596,0.3499
+source_id: 2339
+name: Cikontwo
+last_words: ty
+level: 17
+map_id: 1439
 race_id: Night Elf
 ----------------------------------------
 Player ID: Enöze-29428
@@ -3718,28 +4030,64 @@ level: 17
 map_id: 1439
 race_id: Night Elf
 ----------------------------------------
-Player ID: Tsepo-12761
-class_id: Rogue
+Player ID: Kevîn-21713
+class_id: Warrior
+guild: Memento Mori
+date: 1695632904
+map_pos: 0.4771,0.3474
+source_id: 2189
+name: Kevîn
+race_id: Night Elf
+level: 13
+map_id: 1439
+last_words: can relate
+----------------------------------------
+Player ID: Sibmage-19637
+class_id: Mage
 guild: 
-date: 1695541835
-map_pos: 0.6967,0.8094
-source_id: 330
-name: Tsepo
-last_words: can you guys help me kill pricess pls 
-level: 6
-map_id: 1429
+date: 1695650964
+map_pos: 0.4336,0.3856
+source_id: 114
+name: Sibmage
+race_id: Gnome
+level: 13
+map_id: 1436
+last_words: gg gl
+----------------------------------------
+Player ID: Thoots-26738
+class_id: Paladin
+guild: Go Agane
+date: 1695632037
+map_pos: 0.5599,0.3456
+source_id: 2339
+name: Thoots
+last_words: cya! :)
+level: 17
+map_id: 1439
 race_id: Human
 ----------------------------------------
-Player ID: Owlmard-52296
-class_id: Druid
-guild: Druids
-date: 1695727689
-map_pos: 0.3023,0.2913
-source_id: 446
-name: Owlmard
-last_words: ty :)
+Player ID: Poofiexd-42798
+class_id: Mage
+guild: End Game Enjoyers
+date: 1695653697
+map_pos: 0.7978,0.4925
+source_id: -1
+name: Poofiexd
+race_id: Gnome
+level: 26
 map_id: 1433
-level: 21
+last_words: ok
+----------------------------------------
+Player ID: Nightwar-17163
+class_id: Warrior
+guild: 
+date: 1695722063
+map_pos: 0.6844,0.5604
+source_id: -1
+name: Nightwar
+last_words: :D
+level: 23
+map_id: 1433
 race_id: Night Elf
 ----------------------------------------
 Player ID: Lionheartdn-14160
@@ -3754,53 +4102,29 @@ level: 10
 map_id: 1429
 last_words: offer your pet and run
 ----------------------------------------
-Player ID: Dathømir-23305
+Player ID: Lenah-55364
 class_id: Rogue
-guild: 
-date: 1695712622
-map_pos: 0.2703,0.3684
+guild: Flow
+date: 1695635412
+map_pos: 0.3462,0.9520
 source_id: -1
-name: Dathømir
-last_words: u done ?
-level: 11
-map_id: 1426
-race_id: Dwarf
-----------------------------------------
-Player ID: Pewpewgaming-39981
-class_id: Hunter
-guild: 
-date: 1695713877
-map_pos: 0.6803,0.4148
-source_id: 2477
-name: Pewpewgaming
-last_words: ^^
-level: 17
+name: Lenah
+last_words: A plus floxee
+level: 20
 map_id: 1432
-race_id: Night Elf
-----------------------------------------
-Player ID: Unbender-13624
-class_id: Paladin
-guild: 
-date: 1695644862
-map_pos: 0.8168,0.4153
-source_id: 432
-name: Unbender
 race_id: Human
-level: 26
-map_id: 1433
-last_words: run
 ----------------------------------------
-Player ID: Nemeya-19857
-class_id: Warlock
-guild: If i die i die
-date: 1695654125
-map_pos: 0.4484,0.2314
-last_words: ^^
-name: Nemeya
-race_id: Gnome
-level: 17
-map_id: 1436
-source_id: -1
+Player ID: Tagalop-38651
+class_id: Warrior
+guild: 
+date: 1695726750
+map_pos: 0.3525,0.8726
+source_id: 1164
+name: Tagalop
+race_id: Dwarf
+level: 13
+map_id: 1432
+last_words: killing troggs
 ----------------------------------------
 Player ID: Falillo-62272
 class_id: Hunter
@@ -3814,17 +4138,113 @@ level: 17
 map_id: 1439
 last_words: help bro
 ----------------------------------------
-Player ID: Aldersbach-61945
-class_id: Priest
-guild: Laubschimmer
-date: 1695641295
-map_pos: 0.3446,0.7494
-source_id: 1161
-name: Aldersbach
-race_id: Dwarf
-level: 11
-map_id: 1432
+Player ID: Arknt-62781
+class_id: Rogue
+guild: 
+date: 1695503237
+map_pos: 0.3857,0.8545
+source_id: 2338
+name: Arknt
 last_words: ty
+level: 19
+map_id: 1439
+race_id: Human
+----------------------------------------
+Player ID: Tacoxo-38282
+class_id: Priest
+guild: Going Under
+date: 1695653839
+map_pos: 0.2677,0.4507
+source_id: 1127
+name: Tacoxo
+race_id: Dwarf
+level: 8
+map_id: 1426
+last_words: ty
+----------------------------------------
+Player ID: Pierdalaj-19852
+class_id: Rogue
+guild: 
+date: 1695731571
+map_pos: 0.5032,0.4943
+source_id: 1131
+name: Pierdalaj
+last_words: 4sure
+map_id: 1426
+level: 6
+race_id: Dwarf
+----------------------------------------
+Player ID: Valdar-3370
+class_id: Druid
+guild: Miséricørde
+date: 1695710736
+map_pos: 0.4500,0.3846
+source_id: 5426
+name: Valdar
+race_id: Night Elf
+level: 48
+map_id: 1446
+last_words: Slt
+----------------------------------------
+Player ID: Nosumm-31013
+class_id: Warlock
+guild: Hódító Hódok
+date: 1695631204
+map_pos: 0.2593,0.8207
+source_id: 448
+name: Nosumm
+race_id: Human
+level: 11
+map_id: 1429
+last_words: :d
+----------------------------------------
+Player ID: Owlmard-52296
+class_id: Druid
+guild: Druids
+date: 1695727689
+map_pos: 0.3023,0.2913
+source_id: 446
+name: Owlmard
+last_words: ty :)
+level: 21
+map_id: 1433
+race_id: Night Elf
+----------------------------------------
+Player ID: Dathømir-23305
+class_id: Rogue
+guild: 
+date: 1695712622
+map_pos: 0.2703,0.3684
+source_id: -1
+name: Dathømir
+last_words: u done ?
+level: 11
+map_id: 1426
+race_id: Dwarf
+----------------------------------------
+Player ID: Unbender-13624
+class_id: Paladin
+guild: 
+date: 1695644862
+map_pos: 0.8168,0.4153
+source_id: 432
+name: Unbender
+race_id: Human
+level: 26
+map_id: 1433
+last_words: run
+----------------------------------------
+Player ID: Orrlen-25215
+class_id: Paladin
+guild: Beispiel Gildenname
+date: 1695633188
+map_pos: 0.3433,0.3258
+source_id: -1
+name: Orrlen
+last_words: F
+level: 13
+map_id: 1436
+race_id: Human
 ----------------------------------------
 Player ID: Twizzo-13226
 class_id: Warrior
@@ -3846,8 +4266,8 @@ map_pos: 0.5587,0.2141
 source_id: -1
 name: Skynéz
 last_words: ty
-map_id: 1436
 level: 11
+map_id: 1436
 race_id: Human
 ----------------------------------------
 Player ID: Axekanzler-14871
@@ -3886,29 +4306,17 @@ level: 9
 map_id: 1426
 last_words: serwas
 ----------------------------------------
-Player ID: Apixhc-13798
-class_id: Hunter
-guild: Danger Dolls HC
-date: 1695648155
-map_pos: 0.4355,0.6960
-last_words: gl and stay safe
-name: Apixhc
-source_id: 10664
-level: 60
-map_id: 1415
-race_id: Dwarf
-----------------------------------------
-Player ID: Magephorn-37796
-class_id: Mage
+Player ID: Gohr-8893
+class_id: Warrior
 guild: 
-date: 1695653895
-map_pos: 0.4061,0.3705
-source_id: 157
-name: Magephorn
-race_id: Human
-level: 11
-map_id: 1436
-last_words: MONEEEEY
+date: 1695649691
+map_pos: 0.7132,0.5189
+source_id: 1117
+name: Gohr
+race_id: Gnome
+level: 10
+map_id: 1426
+last_words: Thanks !!
 ----------------------------------------
 Player ID: Nikseen-65026
 class_id: Rogue
@@ -3922,6 +4330,18 @@ level: 17
 map_id: 1439
 race_id: Human
 ----------------------------------------
+Player ID: Kultyz-4392
+class_id: Warrior
+guild: Cova da Moura
+date: 1695730030
+map_pos: 0.4217,0.3859
+source_id: 441
+name: Kultyz
+race_id: Human
+level: 20
+map_id: 1433
+last_words: they stun its a pain
+----------------------------------------
 Player ID: Drodrax-10700
 class_id: Rogue
 guild: DEUS
@@ -3933,18 +4353,6 @@ race_id: Gnome
 level: 14
 map_id: 1436
 last_words: mg
-----------------------------------------
-Player ID: Mvn-32092
-class_id: Warrior
-guild: loser
-date: 1695654868
-map_pos: 0.6901,0.7437
-source_id: 441
-name: Mvn
-race_id: Human
-level: 18
-map_id: 1433
-last_words: pls
 ----------------------------------------
 Player ID: Wurstdiebin-3153
 class_id: Rogue
@@ -3958,78 +4366,6 @@ level: 18
 map_id: 1439
 last_words: ty
 ----------------------------------------
-Player ID: Nyv-40498
-class_id: Rogue
-guild: Go Agane
-date: 1695627844
-map_pos: 
-source_id: 9267
-name: Nyv
-last_words: pls
-level: 60
-race_id: Human
-instance_id: 229
-----------------------------------------
-Player ID: Reijinko-19004
-class_id: Warrior
-guild: 
-date: 1695654943
-map_pos: 0.4342,0.2699
-source_id: 504
-name: Reijinko
-race_id: Human
-level: 13
-map_id: 1436
-last_words: thx
-----------------------------------------
-Player ID: Freelf-10894
-class_id: Hunter
-guild: 
-date: 1695650459
-map_pos: 0.3596,0.8375
-source_id: 2156
-name: Freelf
-last_words: ty
-level: 18
-map_id: 1439
-race_id: Night Elf
-----------------------------------------
-Player ID: Dindunuffinx-62394
-class_id: Mage
-guild: 
-date: 1695654883
-map_pos: 0.6410,0.0959
-source_id: -3
-name: Dindunuffinx
-race_id: Human
-level: 12
-map_id: 1426
-last_words: {rt3} RestedXP Guides: Flying to 6 ETA 1 minute 49 seconds
-----------------------------------------
-Player ID: Ramsie-62874
-class_id: Priest
-guild: Legenden der Allianz
-date: 1695631105
-map_pos: 0.6435,0.8213
-source_id: -1
-name: Ramsie
-last_words: F
-level: 36
-map_id: 1443
-race_id: Dwarf
-----------------------------------------
-Player ID: Voorzichtig-17177
-class_id: Rogue
-guild: Viva Hollandia
-date: 1695633913
-map_pos: 0.8809,0.6665
-source_id: 4154
-name: Voorzichtig
-race_id: Human
-level: 33
-map_id: 1441
-last_words: goeeeeeeeeeeeeeeeeedemorgen
-----------------------------------------
 Player ID: Granny-39799
 class_id: Mage
 guild: Legacy of the Seven
@@ -4039,18 +4375,6 @@ source_id: 2177
 name: Granny
 last_words: les go
 level: 10
-map_id: 1439
-race_id: Gnome
-----------------------------------------
-Player ID: Kittycatsix-63362
-class_id: Rogue
-guild: HC Spain
-date: 1695504033
-map_pos: 0.5503,0.3486
-source_id: 2180
-name: Kittycatsix
-last_words: HOLAAA
-level: 17
 map_id: 1439
 race_id: Gnome
 ----------------------------------------
@@ -4066,30 +4390,6 @@ level: 13
 map_id: 1436
 race_id: Human
 ----------------------------------------
-Player ID: Resus-10340
-class_id: Mage
-guild: Knights of Eternity
-date: 1695714877
-map_pos: 0.8226,0.4973
-last_words: plus de HP
-name: Resus
-source_id: 429
-level: 26
-map_id: 1433
-race_id: Gnome
-----------------------------------------
-Player ID: Kléiahc-56307
-class_id: Hunter
-guild: 
-date: 1695503435
-map_pos: 0.5147,0.5147
-source_id: 1038
-name: Kléiahc
-race_id: Night Elf
-level: 29
-map_id: 1437
-last_words: pull back
-----------------------------------------
 Player ID: Fajnacipka-56987
 class_id: Warrior
 guild: ZAKON
@@ -4102,17 +4402,41 @@ level: 15
 map_id: 1437
 race_id: Human
 ----------------------------------------
-Player ID: Lantaarn-43194
-class_id: Paladin
-guild: Cozy HC
-date: 1695631810
-map_pos: 
-source_id: 4540
-name: Lantaarn
-last_words: package arrived, brb
-level: 33
+Player ID: Burbb-28962
+class_id: Priest
+guild: 
+date: 1695721787
+map_pos: 0.6176,0.1031
+source_id: 2070
+name: Burbb
+last_words: {rt3} RestedXP Guides: I just leveled from 17 to 18 in 53 minutes 58 seconds
+level: 18
+map_id: 1439
+race_id: Dwarf
+----------------------------------------
+Player ID: Dindunuffinx-62394
+class_id: Mage
+guild: 
+date: 1695654883
+map_pos: 0.6410,0.0959
+source_id: -3
+name: Dindunuffinx
 race_id: Human
-instance_id: 189
+level: 12
+map_id: 1426
+last_words: {rt3} RestedXP Guides: Flying to 6 ETA 1 minute 49 seconds
+----------------------------------------
+Player ID: Clotted-6412
+class_id: Mage
+guild: 
+date: 1695641005
+map_pos: 0.6783,0.6327
+source_id: 1167
+name: Clotted
+last_words: ggs
+level: 19
+map_id: 1432
+race_id: Human
 ----------------------------------------
 Player ID: Joecar-65159
 class_id: Mage
@@ -4126,18 +4450,6 @@ level: 11
 map_id: 1432
 last_words: ty
 ----------------------------------------
-Player ID: Ethellyn-47980
-class_id: Druid
-guild: Undying
-date: 1695651675
-map_pos: 0.4007,0.3430
-source_id: 5477
-name: Ethellyn
-race_id: Night Elf
-level: 38
-map_id: 1435
-last_words: have fun :)
-----------------------------------------
 Player ID: Namitheboss-12139
 class_id: Rogue
 guild: Siberian Legion
@@ -4149,18 +4461,6 @@ race_id: Human
 level: 30
 map_id: 1417
 last_words: thx, gl
-----------------------------------------
-Player ID: Vistezo-27651
-class_id: Warrior
-guild: 
-date: 1695502134
-map_pos: 0.3232,0.4678
-source_id: 485
-name: Vistezo
-race_id: Human
-level: 19
-map_id: 1433
-last_words: ty bb
 ----------------------------------------
 Player ID: Braeater-21232
 class_id: Warlock
@@ -4186,41 +4486,29 @@ level: 23
 map_id: 1437
 last_words: Coucou ! :) 
 ----------------------------------------
-Player ID: Contractor-39177
+Player ID: Voorzichtig-17177
 class_id: Rogue
-guild: Go Agane
-date: 1695513748
-map_pos: 0.3338,0.8630
-source_id: 2208
-name: Contractor
+guild: Viva Hollandia
+date: 1695633913
+map_pos: 0.8809,0.6665
+source_id: 4154
+name: Voorzichtig
 race_id: Human
-level: 22
-map_id: 1439
-last_words: hadnt joined a guild since i died and i thought what better guild to chose than this :D
+level: 33
+map_id: 1441
+last_words: goeeeeeeeeeeeeeeeeedemorgen
 ----------------------------------------
-Player ID: Siljoimortal-61394
+Player ID: Resus-10340
 class_id: Mage
-guild: 
-date: 1695651207
-map_pos: 0.6557,0.8013
-source_id: 390
-name: Siljoimortal
-race_id: Human
-level: 8
-map_id: 1429
-last_words: invite for princess
-----------------------------------------
-Player ID: Alisaha-18073
-class_id: Hunter
-guild: HC Spain
-date: 1695713904
-map_pos: 0.5510,0.3345
-source_id: 2179
-name: Alisaha
-last_words: holi
-level: 16
-map_id: 1439
-race_id: Night Elf
+guild: Knights of Eternity
+date: 1695714877
+map_pos: 0.8226,0.4973
+last_words: plus de HP
+name: Resus
+source_id: 429
+level: 26
+map_id: 1433
+race_id: Gnome
 ----------------------------------------
 Player ID: Katzenfaxen-14618
 class_id: Druid
@@ -4234,17 +4522,17 @@ level: 8
 map_id: 1438
 last_words: fu
 ----------------------------------------
-Player ID: Arwoht-9641
+Player ID: Lantaarn-43194
 class_id: Paladin
-guild: 
-date: 1695543618
-map_pos: 0.3082,0.4547
-source_id: 1426
-name: Arwoht
+guild: Cozy HC
+date: 1695631810
+map_pos: 
+source_id: 4540
+name: Lantaarn
+last_words: package arrived, brb
+level: 33
 race_id: Human
-level: 13
-map_id: 1436
-last_words: ty
+instance_id: 189
 ----------------------------------------
 Player ID: Babidy-41487
 class_id: Mage
@@ -4270,6 +4558,30 @@ level: 14
 map_id: 1432
 race_id: Human
 ----------------------------------------
+Player ID: Awoogers-46920
+class_id: Hunter
+guild: 
+date: 1695634960
+map_pos: 0.5396,0.5138
+source_id: 2003
+name: Awoogers
+last_words: cheers
+level: 8
+map_id: 1438
+race_id: Night Elf
+----------------------------------------
+Player ID: Madmàx-43058
+class_id: Paladin
+guild: 
+date: 1695724139
+map_pos: 0.6871,0.7664
+source_id: 390
+name: Madmàx
+last_words: hlp
+level: 8
+map_id: 1429
+race_id: Human
+----------------------------------------
 Player ID: Hellydess-38541
 class_id: Warrior
 guild: Addicted
@@ -4282,29 +4594,17 @@ level: 53
 map_id: 1444
 last_words: Loving ewvery minute of em too
 ----------------------------------------
-Player ID: Drago-7544
-class_id: Warrior
-guild: BULGARIA
-date: 1695652616
-map_pos: 0.4806,0.6309
-source_id: 9026
-name: Drago
-race_id: Human
-level: 59
-map_id: 1415
-last_words: strah me e s randoms na brd :D
-----------------------------------------
-Player ID: Löschtdich-63096
-class_id: Warrior
-guild: Mud Hut Girls
-date: 1695650468
-map_pos: 0.4112,0.7969
-source_id: -1
-name: Löschtdich
-last_words: LFM [[20] Oh Bruder... (167)][[18] Die Suche nach Andenken (168)]
-level: 18
-map_id: 1415
-race_id: Human
+Player ID: Hellspawnx-10082
+class_id: Hunter
+guild: 
+date: 1695724718
+map_pos: 0.5774,0.2508
+source_id: 2182
+name: Hellspawnx
+last_words: ty gl
+level: 19
+map_id: 1439
+race_id: Night Elf
 ----------------------------------------
 Player ID: Herkáskanál-49444
 class_id: Rogue
@@ -4330,6 +4630,138 @@ level: 24
 map_id: 1440
 last_words: you too, bye ! :)
 ----------------------------------------
+Player ID: Blazeborn-26073
+class_id: Warrior
+guild: 
+date: 1695729884
+map_pos: 0.3480,0.2655
+source_id: 1177
+name: Blazeborn
+race_id: Human
+level: 15
+map_id: 1432
+last_words: ^^
+----------------------------------------
+Player ID: Slickpatty-60997
+class_id: Rogue
+guild: Premium
+date: 1695728181
+map_pos: 0.6904,0.7276
+source_id: 7067
+name: Slickpatty
+race_id: Human
+level: 20
+map_id: 1436
+last_words: feels dangerous
+----------------------------------------
+Player ID: Siljoimortal-61394
+class_id: Mage
+guild: 
+date: 1695651207
+map_pos: 0.6557,0.8013
+source_id: 390
+name: Siljoimortal
+race_id: Human
+level: 8
+map_id: 1429
+last_words: invite for princess
+----------------------------------------
+Player ID: Alisaha-18073
+class_id: Hunter
+guild: HC Spain
+date: 1695713904
+map_pos: 0.5510,0.3345
+source_id: 2179
+name: Alisaha
+last_words: holi
+level: 16
+map_id: 1439
+race_id: Night Elf
+----------------------------------------
+Player ID: Genosix-14034
+class_id: Priest
+guild: DárkDimension
+date: 1695725234
+map_pos: 0.6633,0.2213
+source_id: -1
+name: Genosix
+last_words: ty!
+level: 21
+map_id: 1432
+race_id: Dwarf
+----------------------------------------
+Player ID: Dinkelbrot-42320
+class_id: Priest
+guild: Die Soldaten Lordaerons
+date: 1695722706
+map_pos: 0.6173,0.4333
+source_id: -1
+name: Dinkelbrot
+race_id: Night Elf
+level: 2
+map_id: 1438
+last_words: danke xD
+----------------------------------------
+Player ID: Oltin-466
+class_id: Druid
+guild: 
+date: 1695729749
+map_pos: 0.2788,0.6998
+source_id: -1
+name: Oltin
+race_id: Night Elf
+level: 39
+map_id: 1434
+last_words: hi ok
+----------------------------------------
+Player ID: Arwoht-9641
+class_id: Paladin
+guild: 
+date: 1695543618
+map_pos: 0.3082,0.4547
+source_id: 1426
+name: Arwoht
+race_id: Human
+level: 13
+map_id: 1436
+last_words: ty
+----------------------------------------
+Player ID: Haozhanshi-10041
+class_id: Warrior
+guild: YES
+date: 1695730066
+map_pos: 0.3143,0.8668
+source_id: 2207
+name: Haozhanshi
+race_id: Human
+level: 19
+map_id: 1439
+last_words: same haha
+----------------------------------------
+Player ID: Aergodar-31767
+class_id: Paladin
+guild: Mokrobrek
+date: 1695726797
+map_pos: 0.2642,0.6578
+source_id: 2588
+name: Aergodar
+race_id: Human
+level: 43
+map_id: 1417
+last_words: you 4?
+----------------------------------------
+Player ID: Löschtdich-63096
+class_id: Warrior
+guild: Mud Hut Girls
+date: 1695650468
+map_pos: 0.4112,0.7969
+source_id: -1
+name: Löschtdich
+last_words: LFM [[20] Oh Bruder... (167)][[18] Die Suche nach Andenken (168)]
+level: 18
+map_id: 1415
+race_id: Human
+----------------------------------------
 Player ID: Klayjaw-25835
 class_id: Rogue
 guild: HC Myth
@@ -4354,51 +4786,63 @@ level: 12
 map_id: 1432
 last_words: Collect 2 Boar Intestines (1/3)
 ----------------------------------------
-Player ID: Genosix-14034
-class_id: Priest
-guild: DárkDimension
-date: 1695725234
-map_pos: 0.6633,0.2213
-source_id: -1
-name: Genosix
-last_words: ty!
-level: 21
-map_id: 1432
-race_id: Dwarf
-----------------------------------------
-Player ID: Burbb-28962
+Player ID: Oumpilas-27767
 class_id: Priest
 guild: 
-date: 1695721787
-map_pos: 0.6176,0.1031
-source_id: 2070
-name: Burbb
-last_words: {rt3} RestedXP Guides: I just leveled from 17 to 18 in 53 minutes 58 seconds
-level: 18
-map_id: 1439
-race_id: Dwarf
-----------------------------------------
-Player ID: Chabite-49394
-class_id: Druid
-guild: Mob Psycho Killa Crew
-date: 1695726681
-map_pos: 0.5704,0.2199
-source_id: -1
-name: Chabite
-race_id: Night Elf
-level: 17
-map_id: 1439
-last_words: sorry
-----------------------------------------
-Player ID: Aergodar-31767
-class_id: Paladin
-guild: Mokrobrek
-date: 1695726797
-map_pos: 0.2642,0.6578
-source_id: 2588
-name: Aergodar
+date: 1695729403
+map_pos: 0.7075,0.5577
+source_id: 1115
+name: Oumpilas
 race_id: Human
-level: 43
-map_id: 1417
-last_words: you 4?
+level: 10
+map_id: 1426
+last_words: ty :)
+----------------------------------------
+Player ID: Anuvaone-25975
+class_id: Warrior
+guild: Lord of the Dings
+date: 1695542506
+map_pos: 0.7108,0.5448
+source_id: 5434
+name: Anuvaone
+race_id: Dwarf
+level: 40
+map_id: 1445
+last_words: {rt3} RestedXP Guides: Flying to 32 ETA 5 minutes 8 seconds
+----------------------------------------
+Player ID: Rocni-54330
+class_id: Rogue
+guild: Rogues
+date: 1695729640
+map_pos: 0.6879,0.7310
+source_id: -1
+name: Rocni
+race_id: Human
+level: 25
+map_id: 1436
+last_words: i dont have
+----------------------------------------
+Player ID: Polmerià-47352
+class_id: Rogue
+guild: Les Travailleuses du Pex
+date: 1695726196
+map_pos: 0.2030,0.2353
+source_id: -1
+name: Polmerià
+last_words: [La fiancée de l'Embaumeur (253)]
+level: 31
+map_id: 1431
+race_id: Human
+----------------------------------------
+Player ID: Zoldars-18966
+class_id: Rogue
+guild: Jötunnheim
+date: 1695730603
+map_pos: 0.3125,0.7395
+source_id: 424
+name: Zoldars
+race_id: Human
+level: 18
+map_id: 1433
+last_words: help quest
 ----------------------------------------
