@@ -3750,3 +3750,171 @@ class_id: Rogue
 level: 22
 last_words: ty
 ----------------------------------------
+Player ID: Prieglette-26323
+name: Prieglette
+race_id: Night Elf
+class_id: Warrior
+level: 13
+last_words: gibts heut nen ony buff?
+----------------------------------------
+Player ID: Shroomba-35913
+name: Shroomba
+race_id: Human
+class_id: Warrior
+level: 44
+last_words: cheers boys
+----------------------------------------
+Player ID: Sylnanas-25091
+name: Sylnanas
+race_id: Night Elf
+class_id: Hunter
+level: 51
+last_words: yop
+----------------------------------------
+Player ID: Tackytoo-60500
+name: Tackytoo
+race_id: Gnome
+class_id: Mage
+level: 8
+last_words: thx!
+----------------------------------------
+Player ID: Azfalie-28351
+name: Azfalie
+race_id: Human
+class_id: Mage
+level: 24
+last_words: C'est moi ou le mec est mort devant nous ?
+----------------------------------------
+Player ID: Sulvank-62890
+name: Sulvank
+race_id: Human
+class_id: Warrior
+level: 23
+last_words: more damg xD
+----------------------------------------
+Player ID: Unhkiss-58155
+name: Unhkiss
+race_id: Human
+class_id: Rogue
+level: 12
+last_words: u need a priest
+----------------------------------------
+Player ID: Bollebro-42492
+name: Bollebro
+race_id: Night Elf
+class_id: Hunter
+level: 11
+last_words: ska göra mitt bästa att hålla dig nöjd
+----------------------------------------
+Player ID: Werewolfx-43632
+name: Werewolfx
+race_id: Human
+class_id: Warrior
+level: 24
+last_words: В 20
+----------------------------------------
+Player ID: Shipzor-50078
+name: Shipzor
+race_id: Dwarf
+class_id: Paladin
+level: 17
+last_words: -.-
+----------------------------------------
+Player ID: Buckfutter-5912
+name: Buckfutter
+race_id: Human
+class_id: Paladin
+level: 11
+last_words: goodbye cruel life
+----------------------------------------
+Player ID: Hagarr-49032
+name: Hagarr
+race_id: Dwarf
+class_id: Hunter
+level: 20
+last_words: bb
+----------------------------------------
+Player ID: Adrinn-41059
+name: Adrinn
+race_id: Human
+class_id: Paladin
+level: 10
+last_words: 4 asi vzdycky utyct
+----------------------------------------
+Player ID: Cyajord-64657
+name: Cyajord
+race_id: Dwarf
+class_id: Warrior
+level: 13
+last_words: inv
+----------------------------------------
+Player ID: Overhode-4975
+name: Overhode
+race_id: Dwarf
+class_id: Priest
+level: 40
+last_words: ill be there in a minute
+----------------------------------------
+Player ID: Naïhdouze-26152
+name: Naïhdouze
+race_id: Dwarf
+class_id: Warrior
+level: 32
+last_words: yes , i dont know where i am in a chain
+----------------------------------------
+Player ID: Lemute-24432
+name: Lemute
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Healyourbutt-8388
+name: Healyourbutt
+race_id: Human
+class_id: Priest
+level: 12
+last_words: i hate caves
+----------------------------------------
+Player ID: Khaton-4979
+name: Khaton
+race_id: Human
+class_id: Paladin
+level: 14
+last_words: oh no
+----------------------------------------
+Player ID: Fiestasiesta-48108
+name: Fiestasiesta
+race_id: Night Elf
+class_id: Druid
+level: 7
+last_words: one here
+----------------------------------------
+Player ID: Gokuo-65250
+name: Gokuo
+race_id: Human
+class_id: Warrior
+level: 8
+last_words: 3s that all xd
+----------------------------------------
+Player ID: Peche-10161
+name: Peche
+race_id: Human
+class_id: Warlock
+level: 39
+last_words: cya!
+----------------------------------------
+Player ID: Nivv-39249
+name: Nivv
+race_id: Night Elf
+class_id: Hunter
+level: 49
+last_words: take care
+----------------------------------------
+Player ID: Ouupps-11455
+name: Ouupps
+race_id: Dwarf
+class_id: Paladin
+level: 32
+last_words: i need 1
+----------------------------------------
