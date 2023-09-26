@@ -523,3 +523,14 @@
 2023-09-26 17:30:09 - ID: Varsko-48759, Name: Varsko, Level: 9
 2023-09-26 17:30:09 - ID: Trustbear-30398, Name: Trustbear, Level: 9
 2023-09-26 17:30:09 - ID: Ralaiz-9027, Name: Ralaiz, Level: 41
+2023-09-26 17:47:05 - ID: Embappe-21619, Name: Embappe, Level: 34
+2023-09-26 17:47:05 - ID: Betrayer-64731, Name: Betrayer, Level: 6
+2023-09-26 17:47:05 - ID: Ghnero-15096, Name: Ghnero, Level: 16
+2023-09-26 17:47:05 - ID: Blst-25545, Name: Blst, Level: 27
+2023-09-26 17:47:05 - ID: Schorkehc-58911, Name: Schorkehc, Level: 10
+2023-09-26 17:47:05 - ID: Akpela-62227, Name: Akpela, Level: 11
+2023-09-26 17:47:05 - ID: Ironleaf-23782, Name: Ironleaf, Level: 37
+2023-09-26 17:47:05 - ID: Теньночи-61307, Name: Теньночи, Level: 13
+2023-09-26 17:47:05 - ID: Wakou-31099, Name: Wakou, Level: 31
+2023-09-26 17:47:05 - ID: Ahai-61602, Name: Ahai, Level: 17
+2023-09-26 17:47:05 - ID: Esmë-22215, Name: Esmë, Level: 22

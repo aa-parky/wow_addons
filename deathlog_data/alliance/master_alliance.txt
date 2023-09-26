@@ -3673,3 +3673,80 @@ class_id: Paladin
 level: 41
 last_words: {rt3} RestedXP Guides
 ----------------------------------------
+Player ID: Embappe-21619
+name: Embappe
+race_id: Gnome
+class_id: Mage
+level: 34
+last_words: peepoCat
+----------------------------------------
+Player ID: Betrayer-64731
+name: Betrayer
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: lol
+----------------------------------------
+Player ID: Ghnero-15096
+name: Ghnero
+race_id: Gnome
+class_id: Warrior
+level: 16
+last_words: you saved my life
+----------------------------------------
+Player ID: Blst-25545
+name: Blst
+race_id: Human
+class_id: Warrior
+level: 27
+last_words: 
+----------------------------------------
+Player ID: Schorkehc-58911
+name: Schorkehc
+race_id: Human
+class_id: Rogue
+level: 10
+last_words: some1 take it
+----------------------------------------
+Player ID: Akpela-62227
+name: Akpela
+race_id: Night Elf
+class_id: Rogue
+level: 11
+last_words: w
+----------------------------------------
+Player ID: Ironleaf-23782
+name: Ironleaf
+race_id: Night Elf
+class_id: Warrior
+level: 37
+last_words: |cffffffff|Hitem
+----------------------------------------
+Player ID: Теньночи-61307
+name: Теньночи
+race_id: Night Elf
+class_id: Druid
+level: 13
+last_words: скоро пошлю
+----------------------------------------
+Player ID: Wakou-31099
+name: Wakou
+race_id: Dwarf
+class_id: Priest
+level: 31
+last_words: y a pas de file
+----------------------------------------
+Player ID: Ahai-61602
+name: Ahai
+race_id: Human
+class_id: Mage
+level: 17
+last_words: inv?
+----------------------------------------
+Player ID: Esmë-22215
+name: Esmë
+race_id: Human
+class_id: Rogue
+level: 22
+last_words: ty
+----------------------------------------
