@@ -805,3 +805,7 @@
 2023-09-27 15:49:52 - ID: Misslemon-38376, Name: Misslemon, Level: 10
 2023-09-27 15:49:52 - ID: Ohwei-2000, Name: Ohwei, Level: 20
 2023-09-27 15:49:52 - ID: Jaggmar-440, Name: Jaggmar, Level: 10
+2023-09-27 15:54:51 - ID: Lynko-31663, Name: Lynko, Level: 4
+2023-09-27 15:54:51 - ID: Ragekoekje-34863, Name: Ragekoekje, Level: 18
+2023-09-27 15:54:51 - ID: Ashkap-22428, Name: Ashkap, Level: 44
+2023-09-27 15:54:51 - ID: Elare-32870, Name: Elare, Level: 10

@@ -5647,3 +5647,31 @@ class_id: Warrior
 level: 10
 last_words: xd np
 ----------------------------------------
+Player ID: Lynko-31663
+name: Lynko
+race_id: Human
+class_id: Warrior
+level: 4
+last_words: WEAK
+----------------------------------------
+Player ID: Ragekoekje-34863
+name: Ragekoekje
+race_id: Human
+class_id: Warrior
+level: 18
+last_words: req.. ^^
+----------------------------------------
+Player ID: Ashkap-22428
+name: Ashkap
+race_id: Human
+class_id: Warrior
+level: 44
+last_words: ah sry
+----------------------------------------
+Player ID: Elare-32870
+name: Elare
+race_id: Human
+class_id: Warrior
+level: 10
+last_words: anyone here for hogger?
+----------------------------------------
