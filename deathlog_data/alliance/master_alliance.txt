@@ -4576,3 +4576,59 @@ class_id: Mage
 level: 20
 last_words: cheers
 ----------------------------------------
+Player ID: Lucagole-237
+name: Lucagole
+race_id: Night Elf
+class_id: Rogue
+level: 10
+last_words: |cff1eff00|Hitem
+----------------------------------------
+Player ID: Irdfc-14001
+name: Irdfc
+race_id: Human
+class_id: Warrior
+level: 18
+last_words: ty
+----------------------------------------
+Player ID: Jindujun-48533
+name: Jindujun
+race_id: Night Elf
+class_id: Druid
+level: 13
+last_words: and how go SW?
+----------------------------------------
+Player ID: Atomicheals-23414
+name: Atomicheals
+race_id: Human
+class_id: Priest
+level: 26
+last_words: dont wanna burn it
+----------------------------------------
+Player ID: Jonezeh-56383
+name: Jonezeh
+race_id: Dwarf
+class_id: Rogue
+level: 28
+last_words: ty gl!
+----------------------------------------
+Player ID: Duche-34693
+name: Duche
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: ty
+----------------------------------------
+Player ID: Bumlaaska-8556
+name: Bumlaaska
+race_id: Night Elf
+class_id: Druid
+level: 45
+last_words: щоб на майбутнє бачити від чого люди помирають частіше
+----------------------------------------
+Player ID: Owlmard-61541
+name: Owlmard
+race_id: Night Elf
+class_id: Druid
+level: 15
+last_words: try new layer
+----------------------------------------
