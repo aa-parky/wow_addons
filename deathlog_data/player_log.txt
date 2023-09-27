@@ -963,3 +963,16 @@
 2023-09-27 21:51:12 - ID: Melkorak-3336, Name: Melkorak, Level: 8
 2023-09-27 21:51:12 - ID: Маглус-2721, Name: Маглус, Level: 11
 2023-09-27 21:51:12 - ID: Zylan-51851, Name: Zylan, Level: 18
+2023-09-27 22:10:23 - ID: Nirix-20802, Name: Nirix, Level: 23
+2023-09-27 22:10:23 - ID: Kiriala-48279, Name: Kiriala, Level: 15
+2023-09-27 22:10:23 - ID: MiNoneenny-27065, Name: MiNoneenny, Level: 17
+2023-09-27 22:10:23 - ID: Hanzyline-23960, Name: Hanzyline, Level: 15
+2023-09-27 22:10:23 - ID: Pompmooscles-24075, Name: Pompmooscles, Level: 9
+2023-09-27 22:10:23 - ID: Redenene-4573, Name: Redenene, Level: 29
+2023-09-27 22:10:23 - ID: Terla-23027, Name: Terla, Level: 19
+2023-09-27 22:10:23 - ID: Yazuo-29611, Name: Yazuo, Level: 36
+2023-09-27 22:10:23 - ID: Soling-22348, Name: Soling, Level: 43
+2023-09-27 22:10:23 - ID: Trinnetrois-30025, Name: Trinnetrois, Level: 9
+2023-09-27 22:10:23 - ID: Sïrtyx-13510, Name: Sïrtyx, Level: 9
+2023-09-27 22:10:23 - ID: Vaskulinodie-24246, Name: Vaskulinodie, Level: 14
+2023-09-27 22:10:23 - ID: Tazzman-20224, Name: Tazzman, Level: 9

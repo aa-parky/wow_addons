@@ -6753,3 +6753,94 @@ class_id: Warrior
 level: 18
 last_words: holaa
 ----------------------------------------
+Player ID: Nirix-20802
+name: Nirix
+race_id: Human
+class_id: Priest
+level: 23
+last_words: gz
+----------------------------------------
+Player ID: Kiriala-48279
+name: Kiriala
+race_id: Human
+class_id: Rogue
+level: 15
+last_words: salam aleykum mein bruder
+----------------------------------------
+Player ID: MiNoneenny-27065
+name: MiNoneenny
+race_id: Gnome
+class_id: Mage
+level: 17
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Hanzyline-23960
+name: Hanzyline
+race_id: Gnome
+class_id: Warlock
+level: 15
+last_words: Du skal ikke spille lotto nu. Du har brugt al din rng på de drops
+----------------------------------------
+Player ID: Pompmooscles-24075
+name: Pompmooscles
+race_id: Night Elf
+class_id: Rogue
+level: 9
+last_words: did you get it
+----------------------------------------
+Player ID: Redenene-4573
+name: Redenene
+race_id: Night Elf
+class_id: Druid
+level: 29
+last_words: |cffffffff|Hitem
+----------------------------------------
+Player ID: Terla-23027
+name: Terla
+race_id: Dwarf
+class_id: Warrior
+level: 19
+last_words: ding
+----------------------------------------
+Player ID: Yazuo-29611
+name: Yazuo
+race_id: Human
+class_id: Warrior
+level: 36
+last_words: i'll go into my diglet mode
+----------------------------------------
+Player ID: Soling-22348
+name: Soling
+race_id: Human
+class_id: Rogue
+level: 43
+last_words: ty peeps
+----------------------------------------
+Player ID: Trinnetrois-30025
+name: Trinnetrois
+race_id: Gnome
+class_id: Warlock
+level: 9
+last_words: 
+----------------------------------------
+Player ID: Sïrtyx-13510
+name: Sïrtyx
+race_id: Human
+class_id: Priest
+level: 9
+last_words: ty
+----------------------------------------
+Player ID: Vaskulinodie-24246
+name: Vaskulinodie
+race_id: Gnome
+class_id: Warlock
+level: 14
+last_words: cool
+----------------------------------------
+Player ID: Tazzman-20224
+name: Tazzman
+race_id: Dwarf
+class_id: Priest
+level: 9
+last_words: F
+----------------------------------------
