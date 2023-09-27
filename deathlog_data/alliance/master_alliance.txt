@@ -5913,3 +5913,227 @@ class_id: Mage
 level: 14
 last_words: nabe nd
 ----------------------------------------
+Player ID: Diechirurgin-29140
+name: Diechirurgin
+race_id: Human
+class_id: Warrior
+level: 57
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Fischgesicht-60711
+name: Fischgesicht
+race_id: Night Elf
+class_id: Priest
+level: 15
+last_words: <3
+----------------------------------------
+Player ID: Risingme-20738
+name: Risingme
+race_id: Human
+class_id: Priest
+level: 11
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Oldmanjeff-49059
+name: Oldmanjeff
+race_id: Human
+class_id: Paladin
+level: 17
+last_words: f
+----------------------------------------
+Player ID: Frostjohn-7869
+name: Frostjohn
+race_id: Gnome
+class_id: Mage
+level: 9
+last_words: +
+----------------------------------------
+Player ID: Sackbart-7226
+name: Sackbart
+race_id: Dwarf
+class_id: Priest
+level: 17
+last_words: thx
+----------------------------------------
+Player ID: Dieärztin-47016
+name: Dieärztin
+race_id: Dwarf
+class_id: Priest
+level: 58
+last_words: you declined
+----------------------------------------
+Player ID: Saviora-15023
+name: Saviora
+race_id: Human
+class_id: Paladin
+level: 6
+last_words: i need a little more
+----------------------------------------
+Player ID: Radhuntertwo-37769
+name: Radhuntertwo
+race_id: Night Elf
+class_id: Hunter
+level: 25
+last_words: dnes sum skaniral
+----------------------------------------
+Player ID: Kebabiernoir-40412
+name: Kebabiernoir
+race_id: Human
+class_id: Rogue
+level: 45
+last_words: on va rebuff apres le boss
+----------------------------------------
+Player ID: Letmelvl-27150
+name: Letmelvl
+race_id: Human
+class_id: Warlock
+level: 22
+last_words: Another brave adventurer just died. Winning is not everything, but wanting to win is.
+----------------------------------------
+Player ID: Notdeadd-37740
+name: Notdeadd
+race_id: Gnome
+class_id: Rogue
+level: 40
+last_words: idk
+----------------------------------------
+Player ID: Didoo-58824
+name: Didoo
+race_id: Human
+class_id: Paladin
+level: 49
+last_words: i judged the no run seal
+----------------------------------------
+Player ID: Laurentinus-56273
+name: Laurentinus
+race_id: Human
+class_id: Warrior
+level: 18
+last_words: i've some pot dont worry
+----------------------------------------
+Player ID: Dæmonryger-6042
+name: Dæmonryger
+race_id: Gnome
+class_id: Warlock
+level: 8
+last_words: b
+----------------------------------------
+Player ID: Guärdian-35598
+name: Guärdian
+race_id: Human
+class_id: Paladin
+level: 5
+last_words: ty
+----------------------------------------
+Player ID: Drunkenhunt-28534
+name: Drunkenhunt
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: [HWA] Pray for me! I have less than 15% HP!
+----------------------------------------
+Player ID: Nefirious-56423
+name: Nefirious
+race_id: Human
+class_id: Mage
+level: 18
+last_words: evening all
+----------------------------------------
+Player ID: Titanô-13633
+name: Titanô
+race_id: Human
+class_id: Warlock
+level: 9
+last_words: thx
+----------------------------------------
+Player ID: Qecko-27891
+name: Qecko
+race_id: Dwarf
+class_id: Warrior
+level: 18
+last_words: ty
+----------------------------------------
+Player ID: Эктазар-1793
+name: Эктазар
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: inv
+----------------------------------------
+Player ID: Slyp-63670
+name: Slyp
+race_id: Human
+class_id: Priest
+level: 44
+last_words: np
+----------------------------------------
+Player ID: Agarogall-9658
+name: Agarogall
+race_id: Human
+class_id: Priest
+level: 16
+last_words: ty
+----------------------------------------
+Player ID: Stabzten-45335
+name: Stabzten
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: ty guys
+----------------------------------------
+Player ID: Luckydog-26279
+name: Luckydog
+race_id: Human
+class_id: Mage
+level: 26
+last_words: here
+----------------------------------------
+Player ID: Glovski-48918
+name: Glovski
+race_id: Human
+class_id: Priest
+level: 26
+last_words: GZ
+----------------------------------------
+Player ID: Mamdosyc-2741
+name: Mamdosyc
+race_id: Human
+class_id: Rogue
+level: 14
+last_words: f
+----------------------------------------
+Player ID: Pigsqueal-62487
+name: Pigsqueal
+race_id: Human
+class_id: Warrior
+level: 37
+last_words: rip
+----------------------------------------
+Player ID: Fyon-18309
+name: Fyon
+race_id: Human
+class_id: Warrior
+level: 20
+last_words: warriors raging
+----------------------------------------
+Player ID: Leinhto-50400
+name: Leinhto
+race_id: Human
+class_id: Mage
+level: 45
+last_words: k
+----------------------------------------
+Player ID: Vakoimmundo-2677
+name: Vakoimmundo
+race_id: Human
+class_id: Paladin
+level: 24
+last_words: no haj dicho nada de bufos hoy
+----------------------------------------
+Player ID: Purplecoin-47914
+name: Purplecoin
+race_id: Human
+class_id: Warrior
+level: 16
+last_words: 1h or less
+----------------------------------------
