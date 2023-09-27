@@ -5710,3 +5710,206 @@ class_id: Priest
 level: 17
 last_words: np
 ----------------------------------------
+Player ID: Dunmarog-11271
+name: Dunmarog
+race_id: Dwarf
+class_id: Rogue
+level: 17
+last_words: full bag)
+----------------------------------------
+Player ID: Tánk-55200
+name: Tánk
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: gave you lead
+----------------------------------------
+Player ID: Stumpie-35643
+name: Stumpie
+race_id: Human
+class_id: Warrior
+level: 36
+last_words: Why not share tags+
+----------------------------------------
+Player ID: Tomjamin-43869
+name: Tomjamin
+race_id: Human
+class_id: Warlock
+level: 18
+last_words: ty
+----------------------------------------
+Player ID: Twinkbigone-34697
+name: Twinkbigone
+race_id: Human
+class_id: Paladin
+level: 12
+last_words: gl
+----------------------------------------
+Player ID: Annabobanna-5323
+name: Annabobanna
+race_id: Human
+class_id: Mage
+level: 17
+last_words: wasnt it also quicker to level in som?
+----------------------------------------
+Player ID: Lottef-12669
+name: Lottef
+race_id: Gnome
+class_id: Warlock
+level: 24
+last_words: pawnhub
+----------------------------------------
+Player ID: Xanified-21148
+name: Xanified
+race_id: Human
+class_id: Rogue
+level: 13
+last_words: FFFF
+----------------------------------------
+Player ID: Embalia-52140
+name: Embalia
+race_id: Night Elf
+class_id: Hunter
+level: 19
+last_words: oki
+----------------------------------------
+Player ID: Cocx-48721
+name: Cocx
+race_id: Dwarf
+class_id: Paladin
+level: 13
+last_words: x)
+----------------------------------------
+Player ID: Kraxill-45224
+name: Kraxill
+race_id: Dwarf
+class_id: Rogue
+level: 8
+last_words: hello
+----------------------------------------
+Player ID: Prekvapko-38086
+name: Prekvapko
+race_id: Gnome
+class_id: Warrior
+level: 59
+last_words: LFM BRD pre 60 Q run
+----------------------------------------
+Player ID: Mauredot-7173
+name: Mauredot
+race_id: Human
+class_id: Warlock
+level: 11
+last_words: ty
+----------------------------------------
+Player ID: Azidere-38037
+name: Azidere
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: yo
+----------------------------------------
+Player ID: Bubaton-51928
+name: Bubaton
+race_id: Human
+class_id: Paladin
+level: 26
+last_words: care
+----------------------------------------
+Player ID: Sheero-46748
+name: Sheero
+race_id: Gnome
+class_id: Mage
+level: 15
+last_words: ich mach richtig slow und geh nochmal ins nachtelfen gebiet^^
+----------------------------------------
+Player ID: Wandaction-28452
+name: Wandaction
+race_id: Night Elf
+class_id: Priest
+level: 20
+last_words: ..
+----------------------------------------
+Player ID: Priestedr-13869
+name: Priestedr
+race_id: Human
+class_id: Priest
+level: 13
+last_words: k do that
+----------------------------------------
+Player ID: Lineal-39889
+name: Lineal
+race_id: Dwarf
+class_id: Priest
+level: 30
+last_words: tank?
+----------------------------------------
+Player ID: Navee-62296
+name: Navee
+race_id: Human
+class_id: Rogue
+level: 10
+last_words: gz for talents bruh
+----------------------------------------
+Player ID: Ødum-12577
+name: Ødum
+race_id: Human
+class_id: Rogue
+level: 29
+last_words: je suis sur le fly 2min de trajet encore
+----------------------------------------
+Player ID: Aleblast-5160
+name: Aleblast
+race_id: Dwarf
+class_id: Hunter
+level: 20
+last_words: Phew - made it
+----------------------------------------
+Player ID: Ierosyle-60498
+name: Ierosyle
+race_id: Human
+class_id: Warrior
+level: 14
+last_words: ty
+----------------------------------------
+Player ID: Lockaura-15935
+name: Lockaura
+race_id: Human
+class_id: Warlock
+level: 21
+last_words: then focus big man
+----------------------------------------
+Player ID: Maxumis-34295
+name: Maxumis
+race_id: Night Elf
+class_id: Rogue
+level: 9
+last_words: ty
+----------------------------------------
+Player ID: Durlok-42113
+name: Durlok
+race_id: Dwarf
+class_id: Hunter
+level: 9
+last_words: in case i die
+----------------------------------------
+Player ID: Anejo-34536
+name: Anejo
+race_id: Gnome
+class_id: Mage
+level: 22
+last_words: yo
+----------------------------------------
+Player ID: Gigakok-36855
+name: Gigakok
+race_id: Human
+class_id: Paladin
+level: 54
+last_words: help plkz
+----------------------------------------
+Player ID: Zalic-30305
+name: Zalic
+race_id: Gnome
+class_id: Mage
+level: 14
+last_words: nabe nd
+----------------------------------------
