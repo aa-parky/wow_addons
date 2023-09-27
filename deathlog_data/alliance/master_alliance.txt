@@ -5591,3 +5591,59 @@ class_id: Priest
 level: 14
 last_words: na
 ----------------------------------------
+Player ID: Choro-28863
+name: Choro
+race_id: Night Elf
+class_id: Rogue
+level: 12
+last_words: ty
+----------------------------------------
+Player ID: Lovestobonk-21939
+name: Lovestobonk
+race_id: Human
+class_id: Paladin
+level: 18
+last_words: im gonna shit my pants again
+----------------------------------------
+Player ID: Caliko-59887
+name: Caliko
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: hi
+----------------------------------------
+Player ID: Donnerchips-50819
+name: Donnerchips
+race_id: Gnome
+class_id: Mage
+level: 17
+last_words: u2
+----------------------------------------
+Player ID: Wizzleficks-8425
+name: Wizzleficks
+race_id: Gnome
+class_id: Mage
+level: 19
+last_words: ty
+----------------------------------------
+Player ID: Misslemon-38376
+name: Misslemon
+race_id: Gnome
+class_id: Warlock
+level: 10
+last_words: ty
+----------------------------------------
+Player ID: Ohwei-2000
+name: Ohwei
+race_id: Dwarf
+class_id: Hunter
+level: 20
+last_words: ty
+----------------------------------------
+Player ID: Jaggmar-440
+name: Jaggmar
+race_id: Human
+class_id: Warrior
+level: 10
+last_words: xd np
+----------------------------------------

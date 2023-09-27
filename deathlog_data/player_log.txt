@@ -797,3 +797,11 @@
 2023-09-27 15:24:06 - ID: Azidere-27082, Name: Azidere, Level: 47
 2023-09-27 15:24:06 - ID: Boars-35075, Name: Boars, Level: 8
 2023-09-27 15:32:58 - ID: Holysmokey-47137, Name: Holysmokey, Level: 14
+2023-09-27 15:49:52 - ID: Choro-28863, Name: Choro, Level: 12
+2023-09-27 15:49:52 - ID: Lovestobonk-21939, Name: Lovestobonk, Level: 18
+2023-09-27 15:49:52 - ID: Caliko-59887, Name: Caliko, Level: 6
+2023-09-27 15:49:52 - ID: Donnerchips-50819, Name: Donnerchips, Level: 17
+2023-09-27 15:49:52 - ID: Wizzleficks-8425, Name: Wizzleficks, Level: 19
+2023-09-27 15:49:52 - ID: Misslemon-38376, Name: Misslemon, Level: 10
+2023-09-27 15:49:52 - ID: Ohwei-2000, Name: Ohwei, Level: 20
+2023-09-27 15:49:52 - ID: Jaggmar-440, Name: Jaggmar, Level: 10
