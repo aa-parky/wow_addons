@@ -5549,3 +5549,45 @@ class_id: Hunter
 level: 12
 last_words: Manually playing 2 accounts get over it
 ----------------------------------------
+Player ID: Miumiu-53274
+name: Miumiu
+race_id: Human
+class_id: Rogue
+level: 12
+last_words: bro
+----------------------------------------
+Player ID: Impérial-9882
+name: Impérial
+race_id: Human
+class_id: Warrior
+level: 22
+last_words: plop
+----------------------------------------
+Player ID: Flitzil-1203
+name: Flitzil
+race_id: Gnome
+class_id: Rogue
+level: 20
+last_words: ok
+----------------------------------------
+Player ID: Azidere-27082
+name: Azidere
+race_id: Human
+class_id: Priest
+level: 47
+last_words: peut pas crocheter
+----------------------------------------
+Player ID: Boars-35075
+name: Boars
+race_id: Dwarf
+class_id: Hunter
+level: 8
+last_words: Thanks
+----------------------------------------
+Player ID: Holysmokey-47137
+name: Holysmokey
+race_id: Human
+class_id: Priest
+level: 14
+last_words: na
+----------------------------------------

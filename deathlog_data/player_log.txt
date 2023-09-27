@@ -791,3 +791,9 @@
 2023-09-27 15:13:02 - ID: Tugba-36020, Name: Tugba, Level: 10
 2023-09-27 15:13:02 - ID: Drsmokeit-10737, Name: Drsmokeit, Level: 24
 2023-09-27 15:13:02 - ID: Solheimhunt-18281, Name: Solheimhunt, Level: 12
+2023-09-27 15:24:06 - ID: Miumiu-53274, Name: Miumiu, Level: 12
+2023-09-27 15:24:06 - ID: Impérial-9882, Name: Impérial, Level: 22
+2023-09-27 15:24:06 - ID: Flitzil-1203, Name: Flitzil, Level: 20
+2023-09-27 15:24:06 - ID: Azidere-27082, Name: Azidere, Level: 47
+2023-09-27 15:24:06 - ID: Boars-35075, Name: Boars, Level: 8
+2023-09-27 15:32:58 - ID: Holysmokey-47137, Name: Holysmokey, Level: 14
