@@ -4527,3 +4527,17 @@ class_id: Rogue
 level: 20
 last_words: ty
 ----------------------------------------
+Player ID: Chardoneigh-41731
+name: Chardoneigh
+race_id: Night Elf
+class_id: Priest
+level: 32
+last_words: just need that damn punch card
+----------------------------------------
+Player ID: Slackmode-45467
+name: Slackmode
+race_id: Night Elf
+class_id: Druid
+level: 40
+last_words: snowTBC? har jag xd
+----------------------------------------

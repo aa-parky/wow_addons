@@ -645,3 +645,5 @@
 2023-09-26 22:00:40 - ID: Wâsted-19517, Name: Wâsted, Level: 7
 2023-09-26 22:00:40 - ID: Persoo-24619, Name: Persoo, Level: 50
 2023-09-26 22:00:40 - ID: Boogye-62305, Name: Boogye, Level: 20
+2023-09-27 07:23:18 - ID: Chardoneigh-41731, Name: Chardoneigh, Level: 32
+2023-09-27 07:23:18 - ID: Slackmode-45467, Name: Slackmode, Level: 40
