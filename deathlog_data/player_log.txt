@@ -647,3 +647,8 @@
 2023-09-26 22:00:40 - ID: Boogye-62305, Name: Boogye, Level: 20
 2023-09-27 07:23:18 - ID: Chardoneigh-41731, Name: Chardoneigh, Level: 32
 2023-09-27 07:23:18 - ID: Slackmode-45467, Name: Slackmode, Level: 40
+2023-09-27 08:57:36 - ID: Eklataxe-37110, Name: Eklataxe, Level: 15
+2023-09-27 08:57:36 - ID: Freezybaby-51394, Name: Freezybaby, Level: 54
+2023-09-27 08:57:36 - ID: Номерфри-60053, Name: Номерфри, Level: 9
+2023-09-27 08:57:36 - ID: Altavoz-20247, Name: Altavoz, Level: 11
+2023-09-27 08:57:36 - ID: Fordenhc-24905, Name: Fordenhc, Level: 20

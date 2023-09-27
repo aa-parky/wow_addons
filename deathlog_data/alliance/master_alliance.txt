@@ -4541,3 +4541,38 @@ class_id: Druid
 level: 40
 last_words: snowTBC? har jag xd
 ----------------------------------------
+Player ID: Eklataxe-37110
+name: Eklataxe
+race_id: Dwarf
+class_id: Hunter
+level: 15
+last_words: bye bye good game
+----------------------------------------
+Player ID: Freezybaby-51394
+name: Freezybaby
+race_id: Gnome
+class_id: Mage
+level: 54
+last_words: ty vm
+----------------------------------------
+Player ID: Номерфри-60053
+name: Номерфри
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: мне 31
+----------------------------------------
+Player ID: Altavoz-20247
+name: Altavoz
+race_id: Human
+class_id: Rogue
+level: 11
+last_words: ty
+----------------------------------------
+Player ID: Fordenhc-24905
+name: Fordenhc
+race_id: Human
+class_id: Mage
+level: 20
+last_words: cheers
+----------------------------------------
