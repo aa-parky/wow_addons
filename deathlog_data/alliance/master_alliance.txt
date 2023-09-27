@@ -5136,3 +5136,122 @@ class_id: Hunter
 level: 19
 last_words: ty guys
 ----------------------------------------
+Player ID: Kím-1832
+name: Kím
+race_id: Human
+class_id: Warrior
+level: 10
+last_words: ty
+----------------------------------------
+Player ID: Jkkr-59302
+name: Jkkr
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: gz!
+----------------------------------------
+Player ID: Habberes-5515
+name: Habberes
+race_id: Dwarf
+class_id: Warrior
+level: 6
+last_words: f
+----------------------------------------
+Player ID: Highest-14384
+name: Highest
+race_id: Dwarf
+class_id: Paladin
+level: 50
+last_words: som alle rolls på denne charen
+----------------------------------------
+Player ID: Ügüs-18972
+name: Ügüs
+race_id: Gnome
+class_id: Rogue
+level: 48
+last_words: mo ist son richtiger rein raus typ ^^
+----------------------------------------
+Player ID: Clawfire-25415
+name: Clawfire
+race_id: Human
+class_id: Warlock
+level: 6
+last_words: unarmed
+----------------------------------------
+Player ID: Spectral-1462
+name: Spectral
+race_id: Night Elf
+class_id: Druid
+level: 28
+last_words: banished
+----------------------------------------
+Player ID: Salakänni-23730
+name: Salakänni
+race_id: Dwarf
+class_id: Rogue
+level: 15
+last_words: Can you check somethjing for me
+----------------------------------------
+Player ID: Hård-1260
+name: Hård
+race_id: Dwarf
+class_id: Priest
+level: 48
+last_words: why
+----------------------------------------
+Player ID: Rothesh-64362
+name: Rothesh
+race_id: Human
+class_id: Rogue
+level: 56
+last_words: im dead
+----------------------------------------
+Player ID: Фанрилайн-24418
+name: Фанрилайн
+race_id: Dwarf
+class_id: Hunter
+level: 22
+last_words: + 2 stamina )
+----------------------------------------
+Player ID: Tilshalaram-3853
+name: Tilshalaram
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: thx
+----------------------------------------
+Player ID: Ravien-49565
+name: Ravien
+race_id: Night Elf
+class_id: Druid
+level: 21
+last_words: ty
+----------------------------------------
+Player ID: Motifa-57143
+name: Motifa
+race_id: Human
+class_id: Priest
+level: 8
+last_words: no ma'am
+----------------------------------------
+Player ID: Felden-21072
+name: Felden
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: Oh look, a frog
+----------------------------------------
+Player ID: Veronikamile-36004
+name: Veronikamile
+race_id: Night Elf
+class_id: Hunter
+level: 60
+last_words: ;d
+----------------------------------------
+Player ID: Sloppysunday-10881
+name: Sloppysunday
+race_id: Gnome
+class_id: Mage
+level: 7
+last_words: salut tlm
+----------------------------------------
