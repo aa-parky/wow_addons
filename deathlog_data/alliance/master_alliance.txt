@@ -5052,3 +5052,87 @@ class_id: Hunter
 level: 19
 last_words: ok..
 ----------------------------------------
+Player ID: Rubzy-24498
+name: Rubzy
+race_id: Human
+class_id: Mage
+level: 60
+last_words: wtb lil stam buff
+----------------------------------------
+Player ID: Glassizii-9291
+name: Glassizii
+race_id: Gnome
+class_id: Warrior
+level: 8
+last_words: ty
+----------------------------------------
+Player ID: Elisias-56074
+name: Elisias
+race_id: Gnome
+class_id: Mage
+level: 16
+last_words: any group ?
+----------------------------------------
+Player ID: Zhipsin-34912
+name: Zhipsin
+race_id: Night Elf
+class_id: Druid
+level: 8
+last_words: Did not see I have made an dobbelt pull
+----------------------------------------
+Player ID: Arekiller-60167
+name: Arekiller
+race_id: Human
+class_id: Mage
+level: 15
+last_words: gl
+----------------------------------------
+Player ID: Zhinex-65054
+name: Zhinex
+race_id: Human
+class_id: Warrior
+level: 24
+last_words: 1 here
+----------------------------------------
+Player ID: Petazetas-25661
+name: Petazetas
+race_id: Human
+class_id: Warrior
+level: 27
+last_words: y el warrior que es una f....
+----------------------------------------
+Player ID: Milhoûse-6287
+name: Milhoûse
+race_id: Gnome
+class_id: Mage
+level: 13
+last_words: yo
+----------------------------------------
+Player ID: Lethias-61964
+name: Lethias
+race_id: Night Elf
+class_id: Priest
+level: 28
+last_words: cya
+----------------------------------------
+Player ID: Shadeflames-47686
+name: Shadeflames
+race_id: Human
+class_id: Mage
+level: 29
+last_words: gl
+----------------------------------------
+Player ID: Nexususshc-40261
+name: Nexususshc
+race_id: Gnome
+class_id: Mage
+level: 28
+last_words: fuk
+----------------------------------------
+Player ID: Alína-27798
+name: Alína
+race_id: Night Elf
+class_id: Hunter
+level: 19
+last_words: ty guys
+----------------------------------------

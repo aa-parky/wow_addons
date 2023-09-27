@@ -720,3 +720,15 @@
 2023-09-27 12:16:27 - ID: Rippý-15101, Name: Rippý, Level: 44
 2023-09-27 12:16:27 - ID: Icelesya-17492, Name: Icelesya, Level: 33
 2023-09-27 12:16:27 - ID: Rumleskaft-62038, Name: Rumleskaft, Level: 19
+2023-09-27 12:37:55 - ID: Rubzy-24498, Name: Rubzy, Level: 60
+2023-09-27 12:37:55 - ID: Glassizii-9291, Name: Glassizii, Level: 8
+2023-09-27 12:37:55 - ID: Elisias-56074, Name: Elisias, Level: 16
+2023-09-27 12:37:55 - ID: Zhipsin-34912, Name: Zhipsin, Level: 8
+2023-09-27 12:37:55 - ID: Arekiller-60167, Name: Arekiller, Level: 15
+2023-09-27 12:37:55 - ID: Zhinex-65054, Name: Zhinex, Level: 24
+2023-09-27 12:37:55 - ID: Petazetas-25661, Name: Petazetas, Level: 27
+2023-09-27 12:37:55 - ID: Milhoûse-6287, Name: Milhoûse, Level: 13
+2023-09-27 12:37:55 - ID: Lethias-61964, Name: Lethias, Level: 28
+2023-09-27 12:37:55 - ID: Shadeflames-47686, Name: Shadeflames, Level: 29
+2023-09-27 12:37:55 - ID: Nexususshc-40261, Name: Nexususshc, Level: 28
+2023-09-27 12:37:55 - ID: Alína-27798, Name: Alína, Level: 19
