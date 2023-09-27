@@ -4898,3 +4898,45 @@ class_id: Rogue
 level: 47
 last_words: ty
 ----------------------------------------
+Player ID: Scoundriell-7357
+name: Scoundriell
+race_id: Night Elf
+class_id: Hunter
+level: 13
+last_words: thx
+----------------------------------------
+Player ID: Evess-64574
+name: Evess
+race_id: Night Elf
+class_id: Hunter
+level: 48
+last_words: .kill
+----------------------------------------
+Player ID: Trezce-24233
+name: Trezce
+race_id: Dwarf
+class_id: Priest
+level: 39
+last_words: rest
+----------------------------------------
+Player ID: Pyrostreak-18492
+name: Pyrostreak
+race_id: Human
+class_id: Warlock
+level: 15
+last_words: health
+----------------------------------------
+Player ID: Shadove-55443
+name: Shadove
+race_id: Human
+class_id: Priest
+level: 16
+last_words: cave?
+----------------------------------------
+Player ID: Wetypants-63953
+name: Wetypants
+race_id: Human
+class_id: Paladin
+level: 28
+last_words: let's go to otehr cmp
+----------------------------------------

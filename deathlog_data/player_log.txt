@@ -698,3 +698,9 @@
 2023-09-27 11:25:43 - ID: Smellypals-62220, Name: Smellypals, Level: 40
 2023-09-27 11:25:43 - ID: Cosaè-34471, Name: Cosaè, Level: 36
 2023-09-27 11:25:43 - ID: Nøbagane-30220, Name: Nøbagane, Level: 47
+2023-09-27 11:44:50 - ID: Scoundriell-7357, Name: Scoundriell, Level: 13
+2023-09-27 11:44:50 - ID: Evess-64574, Name: Evess, Level: 48
+2023-09-27 11:44:50 - ID: Trezce-24233, Name: Trezce, Level: 39
+2023-09-27 11:44:50 - ID: Pyrostreak-18492, Name: Pyrostreak, Level: 15
+2023-09-27 11:44:50 - ID: Shadove-55443, Name: Shadove, Level: 16
+2023-09-27 11:44:50 - ID: Wetypants-63953, Name: Wetypants, Level: 28
