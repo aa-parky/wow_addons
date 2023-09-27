@@ -711,3 +711,12 @@
 2023-09-27 12:03:15 - ID: Arionna-28107, Name: Arionna, Level: 49
 2023-09-27 12:03:15 - ID: Pollymaster-22178, Name: Pollymaster, Level: 10
 2023-09-27 12:03:15 - ID: Boldän-28957, Name: Boldän, Level: 14
+2023-09-27 12:16:27 - ID: Vétéran-11254, Name: Vétéran, Level: 17
+2023-09-27 12:16:27 - ID: Vaneska-63952, Name: Vaneska, Level: 19
+2023-09-27 12:16:27 - ID: Titanø-12629, Name: Titanø, Level: 6
+2023-09-27 12:16:27 - ID: Unolife-17661, Name: Unolife, Level: 20
+2023-09-27 12:16:27 - ID: Iwillshackle-54254, Name: Iwillshackle, Level: 9
+2023-09-27 12:16:27 - ID: Huuhaa-5660, Name: Huuhaa, Level: 51
+2023-09-27 12:16:27 - ID: Rippý-15101, Name: Rippý, Level: 44
+2023-09-27 12:16:27 - ID: Icelesya-17492, Name: Icelesya, Level: 33
+2023-09-27 12:16:27 - ID: Rumleskaft-62038, Name: Rumleskaft, Level: 19

@@ -4989,3 +4989,66 @@ class_id: Rogue
 level: 14
 last_words: TY
 ----------------------------------------
+Player ID: Vétéran-11254
+name: Vétéran
+race_id: Dwarf
+class_id: Rogue
+level: 17
+last_words: buff ple
+----------------------------------------
+Player ID: Vaneska-63952
+name: Vaneska
+race_id: Gnome
+class_id: Mage
+level: 19
+last_words: +
+----------------------------------------
+Player ID: Titanø-12629
+name: Titanø
+race_id: Human
+class_id: Warlock
+level: 6
+last_words: ´rate
+----------------------------------------
+Player ID: Unolife-17661
+name: Unolife
+race_id: Human
+class_id: Rogue
+level: 20
+last_words: im gonna wait a bit, glgl
+----------------------------------------
+Player ID: Iwillshackle-54254
+name: Iwillshackle
+race_id: Human
+class_id: Priest
+level: 9
+last_words: HandsUp
+----------------------------------------
+Player ID: Huuhaa-5660
+name: Huuhaa
+race_id: Dwarf
+class_id: Hunter
+level: 51
+last_words: ei siel mitää lvl 60 UD roguee oo
+----------------------------------------
+Player ID: Rippý-15101
+name: Rippý
+race_id: Gnome
+class_id: Mage
+level: 44
+last_words: danke
+----------------------------------------
+Player ID: Icelesya-17492
+name: Icelesya
+race_id: Night Elf
+class_id: Druid
+level: 33
+last_words: 45/46 ta uldaman/zf
+----------------------------------------
+Player ID: Rumleskaft-62038
+name: Rumleskaft
+race_id: Dwarf
+class_id: Hunter
+level: 19
+last_words: ok..
+----------------------------------------
