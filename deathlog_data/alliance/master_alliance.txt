@@ -4632,3 +4632,115 @@ class_id: Druid
 level: 15
 last_words: try new layer
 ----------------------------------------
+Player ID: Pelony-16305
+name: Pelony
+race_id: Night Elf
+class_id: Druid
+level: 15
+last_words: |cff1eff00|Hitem
+----------------------------------------
+Player ID: Obliveron-26039
+name: Obliveron
+race_id: Human
+class_id: Rogue
+level: 15
+last_words: tss
+----------------------------------------
+Player ID: Gross-49300
+name: Gross
+race_id: Gnome
+class_id: Warlock
+level: 2
+last_words: ffs
+----------------------------------------
+Player ID: Bigbonq-28038
+name: Bigbonq
+race_id: Human
+class_id: Rogue
+level: 12
+last_words: thanks <z3
+----------------------------------------
+Player ID: Linani-47368
+name: Linani
+race_id: Night Elf
+class_id: Rogue
+level: 18
+last_words: got cleared veryx quick
+----------------------------------------
+Player ID: Kinyó-552
+name: Kinyó
+race_id: Human
+class_id: Rogue
+level: 14
+last_words: welcome
+----------------------------------------
+Player ID: Notverygood-35028
+name: Notverygood
+race_id: Human
+class_id: Warrior
+level: 33
+last_words: HEAL
+----------------------------------------
+Player ID: Enjoing-44610
+name: Enjoing
+race_id: Dwarf
+class_id: Hunter
+level: 21
+last_words: ty
+----------------------------------------
+Player ID: Sugardaddhy-20069
+name: Sugardaddhy
+race_id: Night Elf
+class_id: Hunter
+level: 7
+last_words: deja que le fight dure 45mn
+----------------------------------------
+Player ID: Valder-11880
+name: Valder
+race_id: Human
+class_id: Priest
+level: 33
+last_words: какой там лвл ?
+----------------------------------------
+Player ID: Sjack-7063
+name: Sjack
+race_id: Night Elf
+class_id: Rogue
+level: 16
+last_words: soyunu sikeyim
+----------------------------------------
+Player ID: Heavenrose-21
+name: Heavenrose
+race_id: Dwarf
+class_id: Warrior
+level: 6
+last_words: ^^
+----------------------------------------
+Player ID: Vapebro-63028
+name: Vapebro
+race_id: Gnome
+class_id: Mage
+level: 34
+last_words: salut les goats
+----------------------------------------
+Player ID: Håshare-41128
+name: Håshare
+race_id: Dwarf
+class_id: Hunter
+level: 25
+last_words: yo
+----------------------------------------
+Player ID: Lavu-50846
+name: Lavu
+race_id: Night Elf
+class_id: Druid
+level: 7
+last_words: gl
+----------------------------------------
+Player ID: Iwillshackle-49429
+name: Iwillshackle
+race_id: Human
+class_id: Priest
+level: 11
+last_words: hey
+----------------------------------------
