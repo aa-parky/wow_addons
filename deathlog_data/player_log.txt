@@ -704,3 +704,10 @@
 2023-09-27 11:44:50 - ID: Pyrostreak-18492, Name: Pyrostreak, Level: 15
 2023-09-27 11:44:50 - ID: Shadove-55443, Name: Shadove, Level: 16
 2023-09-27 11:44:50 - ID: Wetypants-63953, Name: Wetypants, Level: 28
+2023-09-27 12:03:15 - ID: Riala-36873, Name: Riala, Level: 18
+2023-09-27 12:03:15 - ID: Walderfrey-26933, Name: Walderfrey, Level: 11
+2023-09-27 12:03:15 - ID: Stderr-11258, Name: Stderr, Level: 15
+2023-09-27 12:03:15 - ID: Lättfotad-33557, Name: Lättfotad, Level: 17
+2023-09-27 12:03:15 - ID: Arionna-28107, Name: Arionna, Level: 49
+2023-09-27 12:03:15 - ID: Pollymaster-22178, Name: Pollymaster, Level: 10
+2023-09-27 12:03:15 - ID: Boldän-28957, Name: Boldän, Level: 14

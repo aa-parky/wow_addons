@@ -4940,3 +4940,52 @@ class_id: Paladin
 level: 28
 last_words: let's go to otehr cmp
 ----------------------------------------
+Player ID: Riala-36873
+name: Riala
+race_id: Night Elf
+class_id: Priest
+level: 18
+last_words: ja, mach ich
+----------------------------------------
+Player ID: Walderfrey-26933
+name: Walderfrey
+race_id: Human
+class_id: Rogue
+level: 11
+last_words: j'ai encore du ch'min
+----------------------------------------
+Player ID: Stderr-11258
+name: Stderr
+race_id: Dwarf
+class_id: Rogue
+level: 15
+last_words: no bandana just kill
+----------------------------------------
+Player ID: Lättfotad-33557
+name: Lättfotad
+race_id: Night Elf
+class_id: Rogue
+level: 17
+last_words: cyheers
+----------------------------------------
+Player ID: Arionna-28107
+name: Arionna
+race_id: Human
+class_id: Paladin
+level: 49
+last_words: ye
+----------------------------------------
+Player ID: Pollymaster-22178
+name: Pollymaster
+race_id: Human
+class_id: Warrior
+level: 10
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Boldän-28957
+name: Boldän
+race_id: Dwarf
+class_id: Rogue
+level: 14
+last_words: TY
+----------------------------------------
