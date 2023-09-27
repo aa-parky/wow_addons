@@ -5675,3 +5675,38 @@ class_id: Warrior
 level: 10
 last_words: anyone here for hogger?
 ----------------------------------------
+Player ID: Benethatos-46833
+name: Benethatos
+race_id: Gnome
+class_id: Mage
+level: 11
+last_words: pls
+----------------------------------------
+Player ID: Zakazmadan-33548
+name: Zakazmadan
+race_id: Dwarf
+class_id: Warrior
+level: 14
+last_words: F
+----------------------------------------
+Player ID: Брандуин-35930
+name: Брандуин
+race_id: Dwarf
+class_id: Hunter
+level: 24
+last_words: full, sorry
+----------------------------------------
+Player ID: Haunadin-30096
+name: Haunadin
+race_id: Dwarf
+class_id: Paladin
+level: 18
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Cosmique-25360
+name: Cosmique
+race_id: Human
+class_id: Priest
+level: 17
+last_words: np
+----------------------------------------

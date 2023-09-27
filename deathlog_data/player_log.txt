@@ -809,3 +809,8 @@
 2023-09-27 15:54:51 - ID: Ragekoekje-34863, Name: Ragekoekje, Level: 18
 2023-09-27 15:54:51 - ID: Ashkap-22428, Name: Ashkap, Level: 44
 2023-09-27 15:54:51 - ID: Elare-32870, Name: Elare, Level: 10
+2023-09-27 16:00:07 - ID: Benethatos-46833, Name: Benethatos, Level: 11
+2023-09-27 16:00:07 - ID: Zakazmadan-33548, Name: Zakazmadan, Level: 14
+2023-09-27 16:00:07 - ID: Брандуин-35930, Name: Брандуин, Level: 24
+2023-09-27 16:00:07 - ID: Haunadin-30096, Name: Haunadin, Level: 18
+2023-09-27 16:00:07 - ID: Cosmique-25360, Name: Cosmique, Level: 17
