@@ -6137,3 +6137,171 @@ class_id: Warrior
 level: 16
 last_words: 1h or less
 ----------------------------------------
+Player ID: Tiabeanie-20258
+name: Tiabeanie
+race_id: Human
+class_id: Warrior
+level: 29
+last_words: {+_+} F
+----------------------------------------
+Player ID: Genevieve-42652
+name: Genevieve
+race_id: Gnome
+class_id: Mage
+level: 15
+last_words: guess
+----------------------------------------
+Player ID: Noncbonctro-48328
+name: Noncbonctro
+race_id: Human
+class_id: Warrior
+level: 20
+last_words: I'm done guys, have a good day
+----------------------------------------
+Player ID: Fraly-43524
+name: Fraly
+race_id: Human
+class_id: Mage
+level: 25
+last_words: nice tanking
+----------------------------------------
+Player ID: Tvinimoityna-22609
+name: Tvinimoityna
+race_id: Human
+class_id: Rogue
+level: 55
+last_words: Henter lige noget mad, brb
+----------------------------------------
+Player ID: Pawnlock-51837
+name: Pawnlock
+race_id: Human
+class_id: Warlock
+level: 18
+last_words: run
+----------------------------------------
+Player ID: Boen-2305
+name: Boen
+race_id: Dwarf
+class_id: Warrior
+level: 34
+last_words: sure
+----------------------------------------
+Player ID: Araleth-35116
+name: Araleth
+race_id: Night Elf
+class_id: Priest
+level: 34
+last_words: gz
+----------------------------------------
+Player ID: Mustafabini-1355
+name: Mustafabini
+race_id: Human
+class_id: Mage
+level: 44
+last_words: free mining skill too
+----------------------------------------
+Player ID: Nuira-44406
+name: Nuira
+race_id: Human
+class_id: Mage
+level: 17
+last_words: you might need them
+----------------------------------------
+Player ID: Srogee-25579
+name: Srogee
+race_id: Human
+class_id: Warrior
+level: 7
+last_words: ty dude
+----------------------------------------
+Player ID: Jajaper-54880
+name: Jajaper
+race_id: Gnome
+class_id: Rogue
+level: 29
+last_words: kekw
+----------------------------------------
+Player ID: Veloyra-56740
+name: Veloyra
+race_id: Night Elf
+class_id: Priest
+level: 31
+last_words: (º(º_(º_º)_º)º) F
+----------------------------------------
+Player ID: Brunø-14200
+name: Brunø
+race_id: Dwarf
+class_id: Hunter
+level: 48
+last_words: cya
+----------------------------------------
+Player ID: Deadmint-19401
+name: Deadmint
+race_id: Human
+class_id: Rogue
+level: 7
+last_words: sit
+----------------------------------------
+Player ID: Gotthatdawg-6797
+name: Gotthatdawg
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: ffff
+----------------------------------------
+Player ID: Militsty-58766
+name: Militsty
+race_id: Gnome
+class_id: Warlock
+level: 15
+last_words: buff
+----------------------------------------
+Player ID: Dojapika-37159
+name: Dojapika
+race_id: Night Elf
+class_id: Rogue
+level: 7
+last_words: ty
+----------------------------------------
+Player ID: Rapacebrutal-20050
+name: Rapacebrutal
+race_id: Night Elf
+class_id: Hunter
+level: 13
+last_words: yoo
+----------------------------------------
+Player ID: Kurtybonk-56228
+name: Kurtybonk
+race_id: Human
+class_id: Warrior
+level: 21
+last_words: ty
+----------------------------------------
+Player ID: Vanishgrief-42534
+name: Vanishgrief
+race_id: Night Elf
+class_id: Rogue
+level: 15
+last_words: ty!
+----------------------------------------
+Player ID: Frozac-28501
+name: Frozac
+race_id: Gnome
+class_id: Mage
+level: 8
+last_words: welcome
+----------------------------------------
+Player ID: Acediathree-11141
+name: Acediathree
+race_id: Night Elf
+class_id: Hunter
+level: 6
+last_words: seide teuer?
+----------------------------------------
+Player ID: Hobnob-63901
+name: Hobnob
+race_id: Dwarf
+class_id: Hunter
+level: 23
+last_words: greetings!
+----------------------------------------
