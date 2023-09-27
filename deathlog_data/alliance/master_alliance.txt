@@ -5430,3 +5430,122 @@ class_id: Rogue
 level: 18
 last_words: ty ++
 ----------------------------------------
+Player ID: Layreev-58493
+name: Layreev
+race_id: Dwarf
+class_id: Hunter
+level: 16
+last_words: I think that since westfall is a part of the questline for Seal of Wrynn, imma go there for now
+----------------------------------------
+Player ID: Realstumps-4046
+name: Realstumps
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: bb
+----------------------------------------
+Player ID: Camopriest-53784
+name: Camopriest
+race_id: Dwarf
+class_id: Priest
+level: 44
+last_words: then u will enjoy
+----------------------------------------
+Player ID: Ankula-12002
+name: Ankula
+race_id: Dwarf
+class_id: Priest
+level: 23
+last_words: ye
+----------------------------------------
+Player ID: Kheneda-48613
+name: Kheneda
+race_id: Human
+class_id: Mage
+level: 17
+last_words: bb
+----------------------------------------
+Player ID: Konaté-61543
+name: Konaté
+race_id: Human
+class_id: Rogue
+level: 10
+last_words: ouuii
+----------------------------------------
+Player ID: Kroxaros-57037
+name: Kroxaros
+race_id: Night Elf
+class_id: Druid
+level: 20
+last_words: k
+----------------------------------------
+Player ID: Hardgiirl-21562
+name: Hardgiirl
+race_id: Human
+class_id: Warrior
+level: 5
+last_words: Thanks!!!!
+----------------------------------------
+Player ID: Morlovec-11841
+name: Morlovec
+race_id: Dwarf
+class_id: Hunter
+level: 24
+last_words: stay save
+----------------------------------------
+Player ID: Zløy-37506
+name: Zløy
+race_id: Dwarf
+class_id: Priest
+level: 25
+last_words: someone knows why my plater for friendly plater turns off in dungeons ?
+----------------------------------------
+Player ID: Halmir-57633
+name: Halmir
+race_id: Night Elf
+class_id: Druid
+level: 19
+last_words: god hates y
+----------------------------------------
+Player ID: Sunzu-7922
+name: Sunzu
+race_id: Human
+class_id: Rogue
+level: 17
+last_words: 
+----------------------------------------
+Player ID: Lilvalador-18159
+name: Lilvalador
+race_id: Gnome
+class_id: Mage
+level: 24
+last_words: ikkkk
+----------------------------------------
+Player ID: Clownoniasii-32706
+name: Clownoniasii
+race_id: Human
+class_id: Mage
+level: 8
+last_words: Helo
+----------------------------------------
+Player ID: Tugba-36020
+name: Tugba
+race_id: Dwarf
+class_id: Rogue
+level: 10
+last_words: thanks
+----------------------------------------
+Player ID: Drsmokeit-10737
+name: Drsmokeit
+race_id: Night Elf
+class_id: Druid
+level: 24
+last_words: +
+----------------------------------------
+Player ID: Solheimhunt-18281
+name: Solheimhunt
+race_id: Night Elf
+class_id: Hunter
+level: 12
+last_words: Manually playing 2 accounts get over it
+----------------------------------------
