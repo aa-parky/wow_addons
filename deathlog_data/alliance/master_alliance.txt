@@ -4744,3 +4744,157 @@ class_id: Priest
 level: 11
 last_words: hey
 ----------------------------------------
+Player ID: Bamihir-63985
+name: Bamihir
+race_id: Human
+class_id: Mage
+level: 13
+last_words: ty
+----------------------------------------
+Player ID: Chatimoise-13334
+name: Chatimoise
+race_id: Night Elf
+class_id: Priest
+level: 44
+last_words: ba allez
+----------------------------------------
+Player ID: Elunarin-743
+name: Elunarin
+race_id: Night Elf
+class_id: Druid
+level: 25
+last_words: Gonna have a cig and get a coffee while flying brb
+----------------------------------------
+Player ID: Sadbutdumb-64779
+name: Sadbutdumb
+race_id: Dwarf
+class_id: Warrior
+level: 15
+last_words: ty
+----------------------------------------
+Player ID: Somersault-60863
+name: Somersault
+race_id: Night Elf
+class_id: Warrior
+level: 36
+last_words: vad hände??
+----------------------------------------
+Player ID: Greywald-37304
+name: Greywald
+race_id: Human
+class_id: Mage
+level: 7
+last_words: ok let's try
+----------------------------------------
+Player ID: Reebornganon-34220
+name: Reebornganon
+race_id: Human
+class_id: Paladin
+level: 18
+last_words: thx guys... gl
+----------------------------------------
+Player ID: Sitibi-48020
+name: Sitibi
+race_id: Gnome
+class_id: Mage
+level: 22
+last_words: my camp
+----------------------------------------
+Player ID: Ronge-15365
+name: Ronge
+race_id: Human
+class_id: Warrior
+level: 60
+last_words: |cff0070dd|Hitem
+----------------------------------------
+Player ID: Espadita-59254
+name: Espadita
+race_id: Human
+class_id: Rogue
+level: 19
+last_words: de esa zona
+----------------------------------------
+Player ID: Deyahc-37860
+name: Deyahc
+race_id: Human
+class_id: Priest
+level: 5
+last_words: ty
+----------------------------------------
+Player ID: Покушал-28017
+name: Покушал
+race_id: Dwarf
+class_id: Paladin
+level: 11
+last_words: хей лесной
+----------------------------------------
+Player ID: Némoria-28310
+name: Némoria
+race_id: Human
+class_id: Warrior
+level: 11
+last_words: Bye bye =)
+----------------------------------------
+Player ID: Polizeizwerg-24138
+name: Polizeizwerg
+race_id: Dwarf
+class_id: Paladin
+level: 46
+last_words: danke!!
+----------------------------------------
+Player ID: Madmac-23386
+name: Madmac
+race_id: Dwarf
+class_id: Warrior
+level: 34
+last_words: ty
+----------------------------------------
+Player ID: Górdan-13677
+name: Górdan
+race_id: Night Elf
+class_id: Druid
+level: 13
+last_words: NP
+----------------------------------------
+Player ID: Simulation-19507
+name: Simulation
+race_id: Gnome
+class_id: Warlock
+level: 8
+last_words: ty
+----------------------------------------
+Player ID: Wooptii-42081
+name: Wooptii
+race_id: Human
+class_id: Warlock
+level: 15
+last_words: nah sorry
+----------------------------------------
+Player ID: Flamiera-866
+name: Flamiera
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: salut
+----------------------------------------
+Player ID: Smellypals-62220
+name: Smellypals
+race_id: Human
+class_id: Paladin
+level: 40
+last_words: its level41 i could just go do something else xD
+----------------------------------------
+Player ID: Cosaè-34471
+name: Cosaè
+race_id: Human
+class_id: Paladin
+level: 36
+last_words: dr frr
+----------------------------------------
+Player ID: Nøbagane-30220
+name: Nøbagane
+race_id: Human
+class_id: Rogue
+level: 47
+last_words: ty
+----------------------------------------
