@@ -5255,3 +5255,178 @@ class_id: Mage
 level: 7
 last_words: salut tlm
 ----------------------------------------
+Player ID: Zaharia-56383
+name: Zaharia
+race_id: Human
+class_id: Warrior
+level: 43
+last_words: dont aoe
+----------------------------------------
+Player ID: Groteska-12382
+name: Groteska
+race_id: Night Elf
+class_id: Druid
+level: 60
+last_words: FEARED 8.0 sec
+----------------------------------------
+Player ID: Kayzn-264
+name: Kayzn
+race_id: Night Elf
+class_id: Hunter
+level: 15
+last_words: hi
+----------------------------------------
+Player ID: Roty-13704
+name: Roty
+race_id: Gnome
+class_id: Mage
+level: 15
+last_words: ty
+----------------------------------------
+Player ID: Shtonker-2943
+name: Shtonker
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: what a legend
+----------------------------------------
+Player ID: Huntahajzel-38499
+name: Huntahajzel
+race_id: Dwarf
+class_id: Hunter
+level: 28
+last_words: ty for pt
+----------------------------------------
+Player ID: Skiawarr-48908
+name: Skiawarr
+race_id: Human
+class_id: Warrior
+level: 50
+last_words: i need to farm daggers first
+----------------------------------------
+Player ID: Adelya-62969
+name: Adelya
+race_id: Human
+class_id: Paladin
+level: 8
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Rankfourteen-2862
+name: Rankfourteen
+race_id: Human
+class_id: Mage
+level: 39
+last_words: yo
+----------------------------------------
+Player ID: Excelerohc-10190
+name: Excelerohc
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: casuals in hc LUL
+----------------------------------------
+Player ID: Asselity-10598
+name: Asselity
+race_id: Human
+class_id: Warrior
+level: 52
+last_words: Gz
+----------------------------------------
+Player ID: Balior-1308
+name: Balior
+race_id: Human
+class_id: Warrior
+level: 11
+last_words: help?
+----------------------------------------
+Player ID: Sikal-40233
+name: Sikal
+race_id: Human
+class_id: Rogue
+level: 13
+last_words: D
+----------------------------------------
+Player ID: Soqqabor-34695
+name: Soqqabor
+race_id: Human
+class_id: Mage
+level: 17
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Snobis-33136
+name: Snobis
+race_id: Night Elf
+class_id: Hunter
+level: 8
+last_words: MELENA?
+----------------------------------------
+Player ID: Harakat-46456
+name: Harakat
+race_id: Human
+class_id: Rogue
+level: 5
+last_words: ah fan
+----------------------------------------
+Player ID: Pelou-36486
+name: Pelou
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: ty
+----------------------------------------
+Player ID: Dontenâ-14287
+name: Dontenâ
+race_id: Night Elf
+class_id: Druid
+level: 9
+last_words: gl
+----------------------------------------
+Player ID: Melofumarè-20903
+name: Melofumarè
+race_id: Gnome
+class_id: Mage
+level: 16
+last_words: LOOK?
+----------------------------------------
+Player ID: Primita-63134
+name: Primita
+race_id: Dwarf
+class_id: Priest
+level: 57
+last_words: we take this quest?
+----------------------------------------
+Player ID: Parabellumzz-23838
+name: Parabellumzz
+race_id: Gnome
+class_id: Mage
+level: 9
+last_words: IM DONE
+----------------------------------------
+Player ID: Tzortzis-43545
+name: Tzortzis
+race_id: Dwarf
+class_id: Warrior
+level: 12
+last_words: nop
+----------------------------------------
+Player ID: Birdsounds-62513
+name: Birdsounds
+race_id: Gnome
+class_id: Mage
+level: 54
+last_words: nice ignore
+----------------------------------------
+Player ID: Leipis-42088
+name: Leipis
+race_id: Human
+class_id: Warrior
+level: 60
+last_words: rip
+----------------------------------------
+Player ID: Shadowsky-42995
+name: Shadowsky
+race_id: Human
+class_id: Rogue
+level: 18
+last_words: ty ++
+----------------------------------------
