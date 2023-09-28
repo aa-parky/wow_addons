@@ -6844,3 +6844,66 @@ class_id: Priest
 level: 9
 last_words: F
 ----------------------------------------
+Player ID: Gerÿ-1268
+name: Gerÿ
+race_id: Night Elf
+class_id: Hunter
+level: 22
+last_words: ok
+----------------------------------------
+Player ID: Ripbabygirl-56854
+name: Ripbabygirl
+race_id: Human
+class_id: Warrior
+level: 6
+last_words: LOL
+----------------------------------------
+Player ID: Ghettobaby-30997
+name: Ghettobaby
+race_id: Gnome
+class_id: Mage
+level: 13
+last_words: nooo
+----------------------------------------
+Player ID: Gotica-36605
+name: Gotica
+race_id: Human
+class_id: Paladin
+level: 30
+last_words: {rt1} Questie
+----------------------------------------
+Player ID: Animis-12720
+name: Animis
+race_id: Dwarf
+class_id: Priest
+level: 23
+last_words: u'll be back in HC it is stonger than u think
+----------------------------------------
+Player ID: Ryngrage-45804
+name: Ryngrage
+race_id: Dwarf
+class_id: Warrior
+level: 18
+last_words: Morning boyos
+----------------------------------------
+Player ID: Äitio-51013
+name: Äitio
+race_id: Dwarf
+class_id: Hunter
+level: 25
+last_words: thanks
+----------------------------------------
+Player ID: Valvyn-23118
+name: Valvyn
+race_id: Gnome
+class_id: Mage
+level: 20
+last_words: it is just lvl 20
+----------------------------------------
+Player ID: Кожаный-936
+name: Кожаный
+race_id: Human
+class_id: Warrior
+level: 12
+last_words: -
+----------------------------------------

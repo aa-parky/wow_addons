@@ -976,3 +976,12 @@
 2023-09-27 22:10:23 - ID: Sïrtyx-13510, Name: Sïrtyx, Level: 9
 2023-09-27 22:10:23 - ID: Vaskulinodie-24246, Name: Vaskulinodie, Level: 14
 2023-09-27 22:10:23 - ID: Tazzman-20224, Name: Tazzman, Level: 9
+2023-09-28 07:52:43 - ID: Gerÿ-1268, Name: Gerÿ, Level: 22
+2023-09-28 07:52:43 - ID: Ripbabygirl-56854, Name: Ripbabygirl, Level: 6
+2023-09-28 07:52:43 - ID: Ghettobaby-30997, Name: Ghettobaby, Level: 13
+2023-09-28 07:52:43 - ID: Gotica-36605, Name: Gotica, Level: 30
+2023-09-28 07:52:43 - ID: Animis-12720, Name: Animis, Level: 23
+2023-09-28 07:52:43 - ID: Ryngrage-45804, Name: Ryngrage, Level: 18
+2023-09-28 07:52:43 - ID: Äitio-51013, Name: Äitio, Level: 25
+2023-09-28 07:52:43 - ID: Valvyn-23118, Name: Valvyn, Level: 20
+2023-09-28 07:52:43 - ID: Кожаный-936, Name: Кожаный, Level: 12
