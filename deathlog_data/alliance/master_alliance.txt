@@ -6907,3 +6907,136 @@ class_id: Warrior
 level: 12
 last_words: -
 ----------------------------------------
+Player ID: Riala-54177
+name: Riala
+race_id: Human
+class_id: Priest
+level: 9
+last_words: huhu
+----------------------------------------
+Player ID: Pheebe-2937
+name: Pheebe
+race_id: Human
+class_id: Priest
+level: 22
+last_words: ffs
+----------------------------------------
+Player ID: Xiggo-4405
+name: Xiggo
+race_id: Gnome
+class_id: Warlock
+level: 18
+last_words: thx
+----------------------------------------
+Player ID: Jameslock-54110
+name: Jameslock
+race_id: Gnome
+class_id: Warlock
+level: 21
+last_words: gl
+----------------------------------------
+Player ID: Kojor-44115
+name: Kojor
+race_id: Human
+class_id: Warrior
+level: 16
+last_words: velkommen
+----------------------------------------
+Player ID: Lynko-23521
+name: Lynko
+race_id: Human
+class_id: Warrior
+level: 7
+last_words: <3
+----------------------------------------
+Player ID: Creedis-27588
+name: Creedis
+race_id: Night Elf
+class_id: Druid
+level: 26
+last_words: 
+----------------------------------------
+Player ID: Bigberth-44129
+name: Bigberth
+race_id: Human
+class_id: Warrior
+level: 13
+last_words: take box
+----------------------------------------
+Player ID: Smot-33738
+name: Smot
+race_id: Gnome
+class_id: Mage
+level: 29
+last_words: non merci
+----------------------------------------
+Player ID: Pewpewgaming-29724
+name: Pewpewgaming
+race_id: Night Elf
+class_id: Hunter
+level: 14
+last_words: <3
+----------------------------------------
+Player ID: Hørny-595
+name: Hørny
+race_id: Night Elf
+class_id: Druid
+level: 17
+last_words: ty
+----------------------------------------
+Player ID: Copy-37069
+name: Copy
+race_id: Night Elf
+class_id: Druid
+level: 16
+last_words: ?
+----------------------------------------
+Player ID: Wxx-57418
+name: Wxx
+race_id: Gnome
+class_id: Warlock
+level: 7
+last_words: <3
+----------------------------------------
+Player ID: Stelx-41295
+name: Stelx
+race_id: Human
+class_id: Warrior
+level: 41
+last_words: thanks!
+----------------------------------------
+Player ID: Adejebiga-25506
+name: Adejebiga
+race_id: Human
+class_id: Warrior
+level: 13
+last_words: i dc
+----------------------------------------
+Player ID: Loreana-6365
+name: Loreana
+race_id: Night Elf
+class_id: Hunter
+level: 31
+last_words: ty
+----------------------------------------
+Player ID: Pensionedjef-6747
+name: Pensionedjef
+race_id: Night Elf
+class_id: Druid
+level: 8
+last_words: and not for how would the regular player play this raid
+----------------------------------------
+Player ID: Antwerp-12471
+name: Antwerp
+race_id: Human
+class_id: Rogue
+level: 6
+last_words: one sec
+----------------------------------------
+Player ID: Blackdrakee-41038
+name: Blackdrakee
+race_id: Gnome
+class_id: Mage
+level: 6
+last_words: go
+----------------------------------------
