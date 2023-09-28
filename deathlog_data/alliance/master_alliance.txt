@@ -7040,3 +7040,38 @@ class_id: Mage
 level: 6
 last_words: go
 ----------------------------------------
+Player ID: Zeuryal-16364
+name: Zeuryal
+race_id: Gnome
+class_id: Warlock
+level: 9
+last_words: yes
+----------------------------------------
+Player ID: Råuge-1112
+name: Råuge
+race_id: Human
+class_id: Rogue
+level: 37
+last_words: cya
+----------------------------------------
+Player ID: Argeros-16537
+name: Argeros
+race_id: Night Elf
+class_id: Hunter
+level: 9
+last_words: azaz
+----------------------------------------
+Player ID: Dejamevivir-53020
+name: Dejamevivir
+race_id: Human
+class_id: Paladin
+level: 7
+last_words: fear still you alive
+----------------------------------------
+Player ID: Dvärgjäkel-36878
+name: Dvärgjäkel
+race_id: Dwarf
+class_id: Paladin
+level: 51
+last_words: wanting to play with ya
+----------------------------------------

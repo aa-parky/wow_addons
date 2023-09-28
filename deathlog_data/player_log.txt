@@ -1004,3 +1004,8 @@
 2023-09-28 09:42:20 - ID: Pensionedjef-6747, Name: Pensionedjef, Level: 8
 2023-09-28 09:42:20 - ID: Antwerp-12471, Name: Antwerp, Level: 6
 2023-09-28 09:42:20 - ID: Blackdrakee-41038, Name: Blackdrakee, Level: 6
+2023-09-28 09:53:32 - ID: Zeuryal-16364, Name: Zeuryal, Level: 9
+2023-09-28 09:53:32 - ID: Råuge-1112, Name: Råuge, Level: 37
+2023-09-28 09:53:32 - ID: Argeros-16537, Name: Argeros, Level: 9
+2023-09-28 09:53:32 - ID: Dejamevivir-53020, Name: Dejamevivir, Level: 7
+2023-09-28 09:53:32 - ID: Dvärgjäkel-36878, Name: Dvärgjäkel, Level: 51
