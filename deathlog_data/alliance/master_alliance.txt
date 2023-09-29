@@ -7110,3 +7110,192 @@ class_id: Hunter
 level: 60
 last_words: AAAAAAAAAAAAAAAAAAA
 ----------------------------------------
+Player ID: Гнобитель-28604
+name: Гнобитель
+race_id: Gnome
+class_id: Rogue
+level: 6
+last_words: можно петов ресать вне битвы )
+----------------------------------------
+Player ID: Krebbie-11341
+name: Krebbie
+race_id: Human
+class_id: Paladin
+level: 12
+last_words: SNIFFA
+----------------------------------------
+Player ID: Arathorian-35283
+name: Arathorian
+race_id: Human
+class_id: Paladin
+level: 11
+last_words: thx
+----------------------------------------
+Player ID: Squale-4662
+name: Squale
+race_id: Human
+class_id: Rogue
+level: 26
+last_words: ty
+----------------------------------------
+Player ID: Sweetacetwo-7863
+name: Sweetacetwo
+race_id: Human
+class_id: Mage
+level: 11
+last_words: ty
+----------------------------------------
+Player ID: Bablodin-812
+name: Bablodin
+race_id: Human
+class_id: Paladin
+level: 16
+last_words: ty
+----------------------------------------
+Player ID: Hulgyr-2143
+name: Hulgyr
+race_id: Dwarf
+class_id: Rogue
+level: 17
+last_words: F
+----------------------------------------
+Player ID: Faszomoccse-60506
+name: Faszomoccse
+race_id: Human
+class_id: Paladin
+level: 19
+last_words: sziasztok
+----------------------------------------
+Player ID: Cølihuntsix-61519
+name: Cølihuntsix
+race_id: Dwarf
+class_id: Hunter
+level: 25
+last_words: ^^
+----------------------------------------
+Player ID: Blizrayek-23983
+name: Blizrayek
+race_id: Dwarf
+class_id: Warrior
+level: 9
+last_words: Thx!!
+----------------------------------------
+Player ID: Martens-22833
+name: Martens
+race_id: Human
+class_id: Warrior
+level: 54
+last_words: HC HYPE!
+----------------------------------------
+Player ID: Beginnerhc-15170
+name: Beginnerhc
+race_id: Gnome
+class_id: Warlock
+level: 35
+last_words: красавчик
+----------------------------------------
+Player ID: Vaelía-48982
+name: Vaelía
+race_id: Night Elf
+class_id: Druid
+level: 12
+last_words: hey can someone invite Sugarfreeqt
+----------------------------------------
+Player ID: Sanctiarus-50004
+name: Sanctiarus
+race_id: Human
+class_id: Paladin
+level: 12
+last_words: Warrior
+----------------------------------------
+Player ID: Spacewolf-59665
+name: Spacewolf
+race_id: Human
+class_id: Warrior
+level: 31
+last_words: help
+----------------------------------------
+Player ID: Vakaimmunda-34154
+name: Vakaimmunda
+race_id: Human
+class_id: Mage
+level: 47
+last_words: voy
+----------------------------------------
+Player ID: Rausraus-26984
+name: Rausraus
+race_id: Human
+class_id: Rogue
+level: 11
+last_words: <3
+----------------------------------------
+Player ID: Nyky-14863
+name: Nyky
+race_id: Night Elf
+class_id: Hunter
+level: 17
+last_words: inv
+----------------------------------------
+Player ID: Astrox-37306
+name: Astrox
+race_id: Gnome
+class_id: Mage
+level: 40
+last_words: [[36] Das Gewicht in Gold wert (691)]
+----------------------------------------
+Player ID: Truhard-47777
+name: Truhard
+race_id: Human
+class_id: Warrior
+level: 15
+last_words: Invite pls
+----------------------------------------
+Player ID: Vynera-29344
+name: Vynera
+race_id: Human
+class_id: Warrior
+level: 12
+last_words: can help but dont need
+----------------------------------------
+Player ID: Imradil-16987
+name: Imradil
+race_id: Human
+class_id: Mage
+level: 8
+last_words: ty
+----------------------------------------
+Player ID: Ninuin-52746
+name: Ninuin
+race_id: Human
+class_id: Warrior
+level: 8
+last_words: np
+----------------------------------------
+Player ID: Thebestfrag-1978
+name: Thebestfrag
+race_id: Human
+class_id: Rogue
+level: 38
+last_words: по урону до 39 лвл
+----------------------------------------
+Player ID: Cyad-62671
+name: Cyad
+race_id: Night Elf
+class_id: Warrior
+level: 15
+last_words: im so bad, only got twice to 19
+----------------------------------------
+Player ID: Banallmages-60246
+name: Banallmages
+race_id: Dwarf
+class_id: Paladin
+level: 12
+last_words: wanna do hogger?
+----------------------------------------
+Player ID: Peks-9769
+name: Peks
+race_id: Human
+class_id: Paladin
+level: 41
+last_words: <3
+----------------------------------------
