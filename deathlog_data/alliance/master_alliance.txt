@@ -7600,3 +7600,199 @@ class_id: Mage
 level: 15
 last_words: thanks
 ----------------------------------------
+Player ID: Ipoteka-18072
+name: Ipoteka
+race_id: Dwarf
+class_id: Warrior
+level: 19
+last_words: help me to kill the boss
+----------------------------------------
+Player ID: Bastoxhc-24314
+name: Bastoxhc
+race_id: Human
+class_id: Priest
+level: 23
+last_words: alles klar
+----------------------------------------
+Player ID: Thadram-43636
+name: Thadram
+race_id: Gnome
+class_id: Warlock
+level: 24
+last_words: 2 of them
+----------------------------------------
+Player ID: Hideongrass-1745
+name: Hideongrass
+race_id: Gnome
+class_id: Mage
+level: 7
+last_words: how I like it
+----------------------------------------
+Player ID: Whitescrubes-62248
+name: Whitescrubes
+race_id: Gnome
+class_id: Mage
+level: 24
+last_words: where are the mobs
+----------------------------------------
+Player ID: Matzow-4390
+name: Matzow
+race_id: Night Elf
+class_id: Druid
+level: 59
+last_words: hlep
+----------------------------------------
+Player ID: Lowlevelplay-4357
+name: Lowlevelplay
+race_id: Human
+class_id: Warrior
+level: 11
+last_words: |cff1eff00|Hitem
+----------------------------------------
+Player ID: Tuffetorsten-59876
+name: Tuffetorsten
+race_id: Dwarf
+class_id: Paladin
+level: 60
+last_words: how?
+----------------------------------------
+Player ID: Africanfury-55695
+name: Africanfury
+race_id: Human
+class_id: Warrior
+level: 49
+last_words: cheers
+----------------------------------------
+Player ID: Juff-41154
+name: Juff
+race_id: Human
+class_id: Mage
+level: 55
+last_words: Ses Molfp, smutter til en mere aktiv guild bro
+----------------------------------------
+Player ID: Lycanthropy-56795
+name: Lycanthropy
+race_id: Night Elf
+class_id: Druid
+level: 28
+last_words: is it left or right
+----------------------------------------
+Player ID: Farnsworth-64567
+name: Farnsworth
+race_id: Human
+class_id: Mage
+level: 22
+last_words: try to share it
+----------------------------------------
+Player ID: Jatoch-26725
+name: Jatoch
+race_id: Dwarf
+class_id: Priest
+level: 17
+last_words: xD
+----------------------------------------
+Player ID: Gangstalker-47697
+name: Gangstalker
+race_id: Human
+class_id: Warrior
+level: 44
+last_words: FFA pls
+----------------------------------------
+Player ID: Thedice-5058
+name: Thedice
+race_id: Human
+class_id: Warrior
+level: 19
+last_words: go pick him up
+----------------------------------------
+Player ID: Fijana-23395
+name: Fijana
+race_id: Gnome
+class_id: Rogue
+level: 6
+last_words: haha precis
+----------------------------------------
+Player ID: Gtwog-63746
+name: Gtwog
+race_id: Dwarf
+class_id: Priest
+level: 1
+last_words: Hi, tell Lmxx the gold will be ready in 69min.
+----------------------------------------
+Player ID: Steinur-9048
+name: Steinur
+race_id: Gnome
+class_id: Mage
+level: 9
+last_words: sweden
+----------------------------------------
+Player ID: Pistenrudi-52581
+name: Pistenrudi
+race_id: Night Elf
+class_id: Hunter
+level: 19
+last_words: [Vyrins Rache (271)]
+----------------------------------------
+Player ID: Maka-376
+name: Maka
+race_id: Night Elf
+class_id: Druid
+level: 8
+last_words: туда
+----------------------------------------
+Player ID: Donkabonkad-59727
+name: Donkabonkad
+race_id: Human
+class_id: Warrior
+level: 45
+last_words: Deadborned
+----------------------------------------
+Player ID: Vanhapatu-3225
+name: Vanhapatu
+race_id: Human
+class_id: Warrior
+level: 23
+last_words: ty
+----------------------------------------
+Player ID: Hylixdead-62526
+name: Hylixdead
+race_id: Human
+class_id: Rogue
+level: 48
+last_words: kiss
+----------------------------------------
+Player ID: Kamekazaa-42268
+name: Kamekazaa
+race_id: Human
+class_id: Rogue
+level: 14
+last_words: {rt3} RestedXP Guides
+----------------------------------------
+Player ID: Tagílla-64156
+name: Tagílla
+race_id: Dwarf
+class_id: Paladin
+level: 7
+last_words: im high and slow
+----------------------------------------
+Player ID: Билли-42179
+name: Билли
+race_id: Night Elf
+class_id: Hunter
+level: 28
+last_words: щас рабби
+----------------------------------------
+Player ID: Orkim-26607
+name: Orkim
+race_id: Dwarf
+class_id: Warrior
+level: 21
+last_words: follow i got big cds
+----------------------------------------
+Player ID: Dyasira-5777
+name: Dyasira
+race_id: Human
+class_id: Mage
+level: 30
+last_words: ty stay safe
+----------------------------------------
