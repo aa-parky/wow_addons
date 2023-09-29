@@ -7075,3 +7075,38 @@ class_id: Paladin
 level: 51
 last_words: wanting to play with ya
 ----------------------------------------
+Player ID: Frabe-26696
+name: Frabe
+race_id: Gnome
+class_id: Mage
+level: 14
+last_words: hahah
+----------------------------------------
+Player ID: Papperoni-19687
+name: Papperoni
+race_id: Human
+class_id: Paladin
+level: 16
+last_words: let me help u
+----------------------------------------
+Player ID: Skepdc-8431
+name: Skepdc
+race_id: Gnome
+class_id: Mage
+level: 16
+last_words: o/
+----------------------------------------
+Player ID: Setix-25924
+name: Setix
+race_id: Human
+class_id: Warlock
+level: 15
+last_words: lopen
+----------------------------------------
+Player ID: Draugen-26168
+name: Draugen
+race_id: Dwarf
+class_id: Hunter
+level: 60
+last_words: AAAAAAAAAAAAAAAAAAA
+----------------------------------------

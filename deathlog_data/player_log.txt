@@ -1009,3 +1009,8 @@
 2023-09-28 09:53:32 - ID: Argeros-16537, Name: Argeros, Level: 9
 2023-09-28 09:53:32 - ID: Dejamevivir-53020, Name: Dejamevivir, Level: 7
 2023-09-28 09:53:32 - ID: Dvärgjäkel-36878, Name: Dvärgjäkel, Level: 51
+2023-09-29 12:59:54 - ID: Frabe-26696, Name: Frabe, Level: 14
+2023-09-29 12:59:54 - ID: Papperoni-19687, Name: Papperoni, Level: 16
+2023-09-29 12:59:54 - ID: Skepdc-8431, Name: Skepdc, Level: 16
+2023-09-29 12:59:54 - ID: Setix-25924, Name: Setix, Level: 15
+2023-09-29 12:59:54 - ID: Draugen-26168, Name: Draugen, Level: 60
